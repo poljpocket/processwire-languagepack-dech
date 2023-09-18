@@ -51,7 +51,7 @@
             "text": "K\u00fcrzen auf # Tage"
         },
         "6ae864586a6fe2c99b1501c4c20e2e38": {
-            "text": "Gr\u00f6\u00dfe der Protokoll-Datei reduzieren auf Eintr\u00e4ge der letzten [n] Tage."
+            "text": "Gr\u00f6sse der Protokoll-Datei reduzieren auf Eintr\u00e4ge der letzten [n] Tage."
         },
         "83f5d3fdcb74c638ae403fae1637a1fc": {
             "text": "Neuer Protokoll-Eintrag"
@@ -78,7 +78,7 @@
             "text": "Eintr\u00e4ge"
         },
         "57728bfeef48fd1206314f0cd1c2576a": {
-            "text": "Gr\u00f6\u00dfe"
+            "text": "Gr\u00f6sse"
         },
         "4c35d99800510d64691a870b65d277f4": {
             "text": "Datum\/Zeit"
@@ -126,7 +126,7 @@
             "text": "Zuz\u00fcglich %d fr\u00fchere Duplikate"
         },
         "e3a6297e7ba64ab87a04b472d2d2330e": {
-            "text": "Muss 1 oder gr\u00f6\u00dfer sein."
+            "text": "Muss 1 oder gr\u00f6sser sein."
         }
     }
 }

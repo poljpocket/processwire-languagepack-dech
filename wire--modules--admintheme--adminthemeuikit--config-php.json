@@ -78,7 +78,7 @@
             "text": "ALLE Eingabetypen vertikal versetzen?"
         },
         "0222ce0d1bbe27a8e1cd12c3c7f4814c": {
-            "text": "Wenn diese Option aktiviert ist, wird jedem Feld ein vertikaler Au\u00dfenabstand hinzugef\u00fcgt."
+            "text": "Wenn diese Option aktiviert ist, wird jedem Feld ein vertikaler Aussenabstand hinzugef\u00fcgt."
         },
         "1939d9deea3a9b379eca5948b1b3cfc6": {
             "text": "Dies kann in einigen F\u00e4llen zus\u00e4tzliche Klarheit schaffen, verbraucht jedoch mehr vertikalen Raum."
@@ -117,7 +117,7 @@
             "text": "Geben Sie Feld(er) und Format an, das f\u00fcr die Benutzerbezeichnung verwendet werden soll, oder Leerzeichen f\u00fcr keine Benutzerbezeichnung."
         },
         "e4e4bda20c3f3d73a0ab8a162324a5ef": {
-            "text": "Verwenden Sie {Name} f\u00fcr Namen in Gro\u00dfbuchstaben, was die Standardeinstellung ist, oder verwenden Sie {name} f\u00fcr Kleinbuchstaben."
+            "text": "Verwenden Sie {Name} f\u00fcr Namen in Grossbuchstaben, was die Standardeinstellung ist, oder verwenden Sie {name} f\u00fcr Kleinbuchstaben."
         },
         "94badcf29c95c51eb93549c399c1c91d": {
             "text": "Beispiele: \u201c{name}\u201d, \u201c{Name}\u201d, \u201c{title}\u201d, \u201c{first_name} {last_name}\u201d, \u201c{company.title}\u201d, usw."
@@ -186,16 +186,16 @@
             "text": "Eingabefeld Beispiel"
         },
         "8863450d1e8ee628cf02531395c1fb14": {
-            "text": "Gr\u00f6\u00dfenbeispiele ausw\u00e4hlen"
+            "text": "Gr\u00f6ssenbeispiele ausw\u00e4hlen"
         },
         "cb4144ba5a55530ecbf14a45c4d0349d": {
-            "text": "Standardgr\u00f6\u00dfe f\u00fcr Eingabefelder"
+            "text": "Standardgr\u00f6sse f\u00fcr Eingabefelder"
         },
         "190d86032ba8b2f2522f36d983700c72": {
             "text": "Dies wirkt sich auf das Aussehen vieler Text-, Textbereichs- und Auswahlfelder aus."
         },
         "3be905d0e0e23fa3e645f3d70e7d28d3": {
-            "text": "Nicht alle Eingabefelder unterst\u00fctzen die Optionen \"klein\" oder \"gro\u00df\"."
+            "text": "Nicht alle Eingabefelder unterst\u00fctzen die Optionen \"klein\" oder \"gross\"."
         },
         "2660064e68655415da2628c2ae2f7592": {
             "text": "Klein"
@@ -204,7 +204,7 @@
             "text": "Mittel (Standard\/Empfehlung)"
         },
         "3a69b34ce86dacb205936a8094f6c743": {
-            "text": "Gro\u00df"
+            "text": "Gross"
         },
         "dcf96c65e2763ec9e77c895af9d25cbe": {
             "text": "Eingabetypen, die mit einem zus\u00e4tzlichen oberen\/unteren Rand versetzt werden sollen."
@@ -237,7 +237,7 @@
             "text": "Mittel"
         },
         "5b176800a4fa5f818733bbc47bf50c58": {
-            "text": "Eingabefeld Gr\u00f6\u00dfe"
+            "text": "Eingabefeld Gr\u00f6sse"
         },
         "81508f718ba3c39f2614a6384da3d565": {
             "text": "Eingabefeld Breite"
@@ -318,10 +318,10 @@
             "text": "Die Option \"Standard\" bewirkt, dass ein Klick auf eine Beschriftung (label) in einem ge\u00f6ffneten Eingabefeld das Eingabeelement fokussiert, ein Standard-HTML-Formularverhalten."
         },
         "08f2a1074dae6032681157b928a93dac": {
-            "text": "W\u00e4hrend ein Klick auf eine geschlossene Eingabefeldbeschriftung (label) das Eingabefeld \u00f6ffnet und dann fokussiert (und bei erneutem Klick wieder schlie\u00dft)."
+            "text": "W\u00e4hrend ein Klick auf eine geschlossene Eingabefeldbeschriftung (label) das Eingabefeld \u00f6ffnet und dann fokussiert (und bei erneutem Klick wieder schliesst)."
         },
         "b18ca92e72ab16203ccf67e4cfffb1c0": {
-            "text": "Die Option \"Konsistent\" bewirkt, dass sich die Beschriftung des Eingabefelds immer konsistent als Umschalter zum \u00d6ffnen\/Schlie\u00dfen verh\u00e4lt, unabh\u00e4ngig davon, in welchem Zustand sich das Eingabefeld befindet."
+            "text": "Die Option \"Konsistent\" bewirkt, dass sich die Beschriftung des Eingabefelds immer konsistent als Umschalter zum \u00d6ffnen\/Schliessen verh\u00e4lt, unabh\u00e4ngig davon, in welchem Zustand sich das Eingabefeld befindet."
         },
         "c5fb3c81ba85771e0f107fc5a57efc62": {
             "text": "Unabh\u00e4ngig davon, welche Einstellung Sie w\u00e4hlen, schaltet das Umschaltsymbol oben rechts in jedem Eingabefeld immer den Zustand \"offen\/geschlossen\" um."

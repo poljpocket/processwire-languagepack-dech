@@ -9,7 +9,7 @@
             "text": "Erlaubte Dateierweiterungen"
         },
         "b3f2fb9ff683cc6bb4e353a8c443260c": {
-            "text": "Geben Sie alle Dateierweiterungen ein, die in diesem Upload-Feld zul\u00e4ssig sind. Trennen Sie jede Erweiterung durch ein Leerzeichen. Keine Punkte oder Kommas. In diesem Feld wird nicht zwischen Gro\u00df- und Kleinschreibung unterschieden."
+            "text": "Geben Sie alle Dateierweiterungen ein, die in diesem Upload-Feld zul\u00e4ssig sind. Trennen Sie jede Erweiterung durch ein Leerzeichen. Keine Punkte oder Kommas. In diesem Feld wird nicht zwischen Gross- und Kleinschreibung unterschieden."
         },
         "ecc79534d4d067624a9ff21c9007cf0f": {
             "text": "Die Dateierweiterung %s muss entfernt werden, auf der Whitelist stehen oder es muss ein Dateivalidierungsmodul installiert sein."

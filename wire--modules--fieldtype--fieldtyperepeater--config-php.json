@@ -144,10 +144,10 @@
             "text": "Diese Einstellung bewirkt, dass der Editor der Verwaltungsseite die Elementtiefe als eine Eltern\/Kind-Beziehung behandelt."
         },
         "fc26899013e5130bf0f035bcb6645e36": {
-            "text": "Dies bedeutet, dass das Verschieben\/Sortieren eines Elements auch untergeordnete Elemente einschlie\u00dft."
+            "text": "Dies bedeutet, dass das Verschieben\/Sortieren eines Elements auch untergeordnete Elemente einschliesst."
         },
         "239509c1f5621ac1d950faf5de9d9111": {
-            "text": "Au\u00dferdem wird verhindert, dass ein untergeordnetes Element in eine Tiefe gezogen wird, die seine \u00fcbergeordnete Ebene um mehr als 1 \u00fcbersteigt."
+            "text": "Ausserdem wird verhindert, dass ein untergeordnetes Element in eine Tiefe gezogen wird, die seine \u00fcbergeordnete Ebene um mehr als 1 \u00fcbersteigt."
         },
         "0c5235bde3e119593538bdd38e7d7e9f": {
             "text": "\"Ja\" empfohlen."
@@ -156,7 +156,7 @@
             "text": "Einstellungen des Repeater-Editors"
         },
         "193b66f657e8f7ca202b160e8e701923": {
-            "text": "Wenn diese Option aktiviert ist, bleiben ge\u00f6ffnete Repeater-Elemente nach dem Speichern oder Neuladen aus dem Seiteneditor ge\u00f6ffnet (es sei denn, der Benutzer schlie\u00dft sie)."
+            "text": "Wenn diese Option aktiviert ist, bleiben ge\u00f6ffnete Repeater-Elemente nach dem Speichern oder Neuladen aus dem Seiteneditor ge\u00f6ffnet (es sei denn, der Benutzer schliesst sie)."
         },
         "d0244dd7d1408e009350fb0bef887af2": {
             "text": "Wenn diese Funktion aktiviert ist, kann jeweils nur ein Repeater-Element ge\u00f6ffnet sein."
@@ -186,7 +186,7 @@
             "text": "Wenn diese Option aktiviert ist, werden \u00fcbergeordnete Repeater-Seiten erst dann erstellt, wenn mindestens ein untergeordnetes Repeater-Element vorhanden ist."
         },
         "80bb7f5b0c8adda2dbafd0c186d3d162": {
-            "text": "Au\u00dferdem werden Elternseiten von Repeatern, die keine Repeater-Elemente enthalten, gegebenenfalls entfernt."
+            "text": "Ausserdem werden Elternseiten von Repeatern, die keine Repeater-Elemente enthalten, gegebenenfalls entfernt."
         },
         "ea27ba365637d101a399ee5ee91c95b3": {
             "text": "Derzeit eine experimentelle Option zum Testen (lazyParents), wird aber sp\u00e4ter zum Standard."

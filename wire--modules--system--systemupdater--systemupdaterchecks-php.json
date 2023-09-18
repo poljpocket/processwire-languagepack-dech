@@ -21,7 +21,7 @@
             "text": "Der Debug-Modus stellt sicher, dass alle Fehler sichtbar sind, was bei der Entwicklung oder Fehlerbehebung hilfreich sein kann."
         },
         "917cf9b7a671b533087c8f7b0bf8d157": {
-            "text": "Au\u00dferdem k\u00f6nnen hier im Admin zus\u00e4tzliche Entwicklerinformationen erscheinen."
+            "text": "Ausserdem k\u00f6nnen hier im Admin zus\u00e4tzliche Entwicklerinformationen erscheinen."
         },
         "cb6a03bb5f07396e7eca71a86ad46e43": {
             "text": "Sie k\u00f6nnen den Debug-Modus aktivieren, indem Sie Ihre %s-Datei bearbeiten und Folgendes hinzuf\u00fcgen:"

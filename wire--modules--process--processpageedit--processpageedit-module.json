@@ -153,10 +153,10 @@
             "text": "Template ge\u00e4ndert zu: \"%s\""
         },
         "fcdd8c7fe4647ee6186ea45dd69d425d": {
-            "text": "Unterseiten werden gem\u00e4\u00df Template-Einstellungen mittels \"%s\" sortiert."
+            "text": "Unterseiten werden gem\u00e4ss Template-Einstellungen mittels \"%s\" sortiert."
         },
         "7ddc881b8c4b63699dd8487273384a38": {
-            "text": "Unterseiten werden sortiert gem\u00e4\u00df"
+            "text": "Unterseiten werden sortiert gem\u00e4ss"
         },
         "6adf97f83acf6453d4a6a4b1070f3754": {
             "text": "Keine"
@@ -216,7 +216,7 @@
             "text": "Standard Bereich\/Aktion bei \"Anzeigen\""
         },
         "d6b9987fabd38f232ada46d046aa4f88": {
-            "text": "Die standardm\u00e4\u00dfig genutzte Aktion wenn im Seiten-Editor der \"Ansehen\" Tab geklickt wird."
+            "text": "Die standardm\u00e4ssig genutzte Aktion wenn im Seiten-Editor der \"Ansehen\" Tab geklickt wird."
         },
         "25ed18e06e982b711a80310caf119563": {
             "text": "Seitenansicht"
@@ -288,7 +288,7 @@
             "text": "Geben Sie zus\u00e4tzliche Pfade \/ URLs (eine pro Zeile) ein, die auf diese Seite weitergeleitet werden sollen."
         },
         "1715e12396d2512d6a079d39809bd855": {
-            "text": "Geben Sie nur den URL-Pfad ein (z.B. \"\/hello\/world\/\"), schlie\u00dfen Sie Schema, Domain, Port, Query-String oder Fragmente NICHT ein."
+            "text": "Geben Sie nur den URL-Pfad ein (z.B. \"\/hello\/world\/\"), schliessen Sie Schema, Domain, Port, Query-String oder Fragmente NICHT ein."
         },
         "05977549ad6511429ee4d274f710771d": {
             "text": "Pfade sind relativ zur Site-Root, daher sollten Sie das Unterverzeichnis %s NICHT am Anfang einbeziehen."

@@ -3,7 +3,7 @@
     "textdomain": "wire--modules--fieldtype--fieldtypefloat-module",
     "translations": {
         "22ae0e2b89e5e3d477f988cc36d3272b": {
-            "text": "Flie\u00dfkomma-Zahl"
+            "text": "Fliesskomma-Zahl"
         },
         "211efcb1aa9b0567969d0ce5a18d850c": {
             "text": "Anzahl Dezimalstellen auf welche aufgerundet wird"
@@ -12,7 +12,7 @@
             "text": "Or use a negative number like -1 to disable rounding."
         },
         "21ddca6ecb798f48a109c2289ff413ec": {
-            "text": "Feld, das eine (dezimale) Flie\u00dfkomma-Zahl speichert"
+            "text": "Feld, das eine (dezimale) Fliesskomma-Zahl speichert"
         }
     }
 }

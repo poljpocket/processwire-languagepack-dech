@@ -12,7 +12,7 @@
             "text": "Diese Art von Fieldset verwendet eine separate Seite (im Hintergrund), um Werte f\u00fcr die Felder zu speichern, die Sie oben ausw\u00e4hlen."
         },
         "43ef844d717ad05c793ebe3fc0bfa46f": {
-            "text": "Ein Vorteil ist, dass Sie Felder, die bereits auf Ihrer Seite vorhanden sind, au\u00dferhalb des Fieldsets wiederverwenden k\u00f6nnen."
+            "text": "Ein Vorteil ist, dass Sie Felder, die bereits auf Ihrer Seite vorhanden sind, ausserhalb des Fieldsets wiederverwenden k\u00f6nnen."
         },
         "450f315bbf5a730f06d882603e2351ee": {
             "text": "Zum Beispiel k\u00f6nnten Sie ein \"Titel\" -Feld auf Ihrer Seite und ein anderes in Ihrem Fieldset haben. Ebenso f\u00fcr alle anderen Felder."

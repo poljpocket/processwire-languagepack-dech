@@ -3,7 +3,7 @@
    "textdomain":"wire--modules--inputfield--inputfieldselectmultiple-module",
    "translations":{
       "019fce53dcc7e7f5a3abea240de44d77":{
-         "text":"Gr\u00f6\u00dfe: Anzahl Zeilen, die in der Mehrfachauswahl auf einmal sichtbar sind"
+         "text":"Gr\u00f6sse: Anzahl Zeilen, die in der Mehrfachauswahl auf einmal sichtbar sind"
       },
       "6faad70d6719b405a08c5121e31e258b":{
          "text":"Mehrfachauswahl aus einer Liste"

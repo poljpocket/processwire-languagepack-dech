@@ -21,7 +21,7 @@
             "text": "ZIP-Dateien entpacken?"
         },
         "fab7f7d0de48baa58342b39e975c9aab": {
-            "text": "Wenn diese Option aktiviert ist, werden ZIP-Archive entpackt und alle g\u00fcltigen Dateien als Uploads hinzugef\u00fcgt (sofern dies von der Hosting-Umgebung unterst\u00fctzt wird). Die maximale Dateigr\u00f6\u00dfe muss auf 0 gesetzt werden, damit die ZIP-Uploads funktionieren."
+            "text": "Wenn diese Option aktiviert ist, werden ZIP-Archive entpackt und alle g\u00fcltigen Dateien als Uploads hinzugef\u00fcgt (sofern dies von der Hosting-Umgebung unterst\u00fctzt wird). Die maximale Dateigr\u00f6sse muss auf 0 gesetzt werden, damit die ZIP-Uploads funktionieren."
         },
         "4839f7d2588943e6763c3c91cbd8d7f2": {
             "text": "Vorhandene Dateien \u00fcberschreiben?"
@@ -45,7 +45,7 @@
             "text": "Mehrsprachige Beschreibungen deaktivieren?"
         },
         "d2bb3cb572d2e8478e3f5eed6cd914aa": {
-            "text": "Standardm\u00e4\u00dfig sind die Beschreibungen mehrsprachig, wenn Sie die Sprachunterst\u00fctzung installiert haben."
+            "text": "Standardm\u00e4ssig sind die Beschreibungen mehrsprachig, wenn Sie die Sprachunterst\u00fctzung installiert haben."
         },
         "e1b05eaa8a39a1ff5b825c94b80e77db": {
             "text": "Wenn Sie keine mehrsprachigen Beschreibungen f\u00fcr Dateien ben\u00f6tigen, k\u00f6nnen Sie sie hier deaktivieren."

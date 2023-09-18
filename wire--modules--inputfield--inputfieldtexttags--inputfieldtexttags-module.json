@@ -27,7 +27,7 @@
             "text": "Ist diese Option nicht aktiviert, werden alle ausw\u00e4hlbaren Optionen zur Laufzeit ausgef\u00fcllt."
         },
         "860b7a69d838e2a510f79123bb657026": {
-            "text": "Die Verwendung von Ajax-Optionen\/Seiten ist n\u00fctzlich, wenn die potenzielle Anzahl der ausw\u00e4hlbaren Seiten gro\u00df ist."
+            "text": "Die Verwendung von Ajax-Optionen\/Seiten ist n\u00fctzlich, wenn die potenzielle Anzahl der ausw\u00e4hlbaren Seiten gross ist."
         },
         "9cba2db480057b2c65e239915198a3bc": {
             "text": "Erw\u00e4gen Sie dies, wenn mehrere hundert oder tausend (oder mehr) Seiten zur Auswahl stehen."
@@ -87,7 +87,7 @@
             "text": "Erlauben Sie den Benutzern, ihre eigenen Tags einzugeben?"
         },
         "f03041db1e5b27242c249d020d997331": {
-            "text": "Dropdown nach jeder Auswahl schlie\u00dfen?"
+            "text": "Dropdown nach jeder Auswahl schliessen?"
         },
         "e077077fcf3ef41f3ad162f4cc681209": {
             "text": "(f\u00fcr Einzelwort-Tags)"

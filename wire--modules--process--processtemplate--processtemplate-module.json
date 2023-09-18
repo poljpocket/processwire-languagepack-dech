@@ -24,7 +24,7 @@
             "text": "System-Templates anzeigen?"
         },
         "19a3fc9f896f1ef86f69f782be122c37": {
-            "text": "Standardm\u00e4\u00dfig werden interne und System-Templates nicht angezeigt. Klicken Sie 'Ja', um sie der Templateliste unten hinzuzuf\u00fcgen."
+            "text": "Standardm\u00e4ssig werden interne und System-Templates nicht angezeigt. Klicken Sie 'Ja', um sie der Templateliste unten hinzuzuf\u00fcgen."
         },
         "86ec8350e4740a4cc47328ee7c984d40": {
             "text": "Neue Templates hinzuf\u00fcgen"
@@ -189,7 +189,7 @@
             "text": "Globale Felder \u00fcberspringen?"
         },
         "fd83133f05e8bacf7eb368a2d95de8fe": {
-            "text": "Standardm\u00e4\u00dfig ist ein als 'global' markiertes Feld auf allen Templates erforderlich (und wird automatisch allen Templates hinzugef\u00fcgt, die es nicht haben). Falls dieses Template einen speziellen Zweck hat, bei dem globale Felder nicht n\u00fctzlich sind, k\u00f6nnen SIe diese Box ausw\u00e4hlen, damit dieses Template globale Felder \u00fcberspringt."
+            "text": "Standardm\u00e4ssig ist ein als 'global' markiertes Feld auf allen Templates erforderlich (und wird automatisch allen Templates hinzugef\u00fcgt, die es nicht haben). Falls dieses Template einen speziellen Zweck hat, bei dem globale Felder nicht n\u00fctzlich sind, k\u00f6nnen SIe diese Box ausw\u00e4hlen, damit dieses Template globale Felder \u00fcberspringt."
         },
         "381e3cba7a92b2d007d0d534a58b17ff": {
             "text": "API: $template->noGlobal = 1; \/\/ oder mit 0 deaktivieren"
@@ -279,7 +279,7 @@
             "text": "Sollen Seiten-URLs mit einem Slash ('\/') enden?"
         },
         "60cb362641cd33525562c9d62d0f8d18": {
-            "text": "Falls 'Ja' gew\u00e4hlt wird, enden URLs von Seiten, die dieses Template verwenden, stets mit einem abschlie\u00dfenden Slash '\/'. Falls die Seite von einer URL ohne Slash aufgerufen wird, wird sie darauf umgeleitet. Falls 'Nein' gew\u00e4hlt wird, wird die Version ohne Slash erzwungen. Beachten Sie, dass dieses Verhalten nicht f\u00fcr URL-Segmente oder Paginationen erzwungen wird, nur f\u00fcr tats\u00e4chliche Seiten-URLs. Falls Sie keine Vorliebe haben, empfiehlt es sich, 'Ja' beizubehalten."
+            "text": "Falls 'Ja' gew\u00e4hlt wird, enden URLs von Seiten, die dieses Template verwenden, stets mit einem abschliessenden Slash '\/'. Falls die Seite von einer URL ohne Slash aufgerufen wird, wird sie darauf umgeleitet. Falls 'Nein' gew\u00e4hlt wird, wird die Version ohne Slash erzwungen. Beachten Sie, dass dieses Verhalten nicht f\u00fcr URL-Segmente oder Paginationen erzwungen wird, nur f\u00fcr tats\u00e4chliche Seiten-URLs. Falls Sie keine Vorliebe haben, empfiehlt es sich, 'Ja' beizubehalten."
         },
         "249e45d525f325778f98cdd90eaf0b32": {
             "text": "HTTP oder HTTPS"
@@ -528,7 +528,7 @@
             "text": "Stichworte"
         },
         "5cb36b26303f4abb0dea36f9bb96887f": {
-            "text": "Wenn Sie Templates gruppieren wollen, dann tragen Sie bitte Stichworte ein. Tragen Sie dieses Stichwort in ein anderes Template ein um es der Gruppe hinzuzuf\u00fcgen. Mehrere Stichworte trennen Sie durch Leerzeichen. Das macht Sinn wenn Sie eine gro\u00dfe Seite nutzen wollen."
+            "text": "Wenn Sie Templates gruppieren wollen, dann tragen Sie bitte Stichworte ein. Tragen Sie dieses Stichwort in ein anderes Template ein um es der Gruppe hinzuzuf\u00fcgen. Mehrere Stichworte trennen Sie durch Leerzeichen. Das macht Sinn wenn Sie eine grosse Seite nutzen wollen."
         },
         "b81ec9ff37dd594fd51bb7b72bc82e34": {
             "text": "Keine Datei"
@@ -750,7 +750,7 @@
             "text": "Erlaube Vererbung des Zugriffs zum Bearbeiten an Kindseiten?"
         },
         "ef4a1860dd8847a43619b6ca5f26e638": {
-            "text": "Standardm\u00e4\u00dfig werden alle Einstellungen des Zugriffs f\u00fcr dieses Template durch den Seitenbaum vererbt, bis eine Seite mit einem anderen Template mit anderen Zugriffen dies \u00fcberschreibt."
+            "text": "Standardm\u00e4ssig werden alle Einstellungen des Zugriffs f\u00fcr dieses Template durch den Seitenbaum vererbt, bis eine Seite mit einem anderen Template mit anderen Zugriffen dies \u00fcberschreibt."
         },
         "6aee0c8c870a84f930c97c2eb1427c8d": {
             "text": "W\u00e4hlen Sie hier die Option \"Nein\", wenn das Vererben des Zugriffs zum Bearbeiten zwischen den Seiten, welche dieses Template nutzen, verhindert werden soll. Der Zugriff zum Ansehen wird weiterhin vererbt."
@@ -972,7 +972,7 @@
             "text": "Wenn Sie von einem anderen Template verwendete Felder kopieren m\u00f6chten, w\u00e4hlen Sie diese hier aus. Felder, die bereits in diesem Template vorhanden sind, werden nicht \u00fcbernommen."
         },
         "9fbbf36953078c8761263aac49cbcc76": {
-            "text": "Zum Deaktivieren leer lassen. Geben Sie \"title\" (ohne Anf\u00fchrungszeichen) ein, um den Namen automatisch aus dem Seitentitel zu generieren. [Weitere Optionen](%s), einschlie\u00dflich benutzerdefinierter Felder und Datumsformate, sind ebenfalls verf\u00fcgbar."
+            "text": "Zum Deaktivieren leer lassen. Geben Sie \"title\" (ohne Anf\u00fchrungszeichen) ein, um den Namen automatisch aus dem Seitentitel zu generieren. [Weitere Optionen](%s), einschliesslich benutzerdefinierter Felder und Datumsformate, sind ebenfalls verf\u00fcgbar."
         },
         "cd0cf5a5ee30d30f0261238f5875a33b": {
             "text": "Verhindern Sie den direkten Zugriff auf Datei-Assets, die zu Seiten geh\u00f6ren, die dieses Template verwenden?"

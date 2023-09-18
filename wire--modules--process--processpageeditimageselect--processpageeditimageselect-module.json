@@ -48,7 +48,7 @@
             "text": "Keine Thumbnail-Bilder erstellen"
         },
         "a60c49010df18fff7f99db0d0d5a1522": {
-            "text": "Wenn markiert, wird die Bilderauswahl die volle Bildgr\u00f6\u00dfe verwenden anstatt der Thumbnail-Bilder."
+            "text": "Wenn markiert, wird die Bilderauswahl die volle Bildgr\u00f6sse verwenden anstatt der Thumbnail-Bilder."
         },
         "66e1d61daf21cfd5a9a0c3c172d7215d": {
             "text": "Wir empfehlen nicht, diese Box zu markieren, weil einige Features beeinflusst werden (z.B. die Verwendung von HiDPI\/Retina-Grafiken)."
@@ -66,10 +66,10 @@
             "text": "Schliessen"
         },
         "68155ca6e2858626c370f0fb3ea9bfc5": {
-            "text": "HiDPI\/Retina-Checkbox standardm\u00e4\u00dfig markiert?"
+            "text": "HiDPI\/Retina-Checkbox standardm\u00e4ssig markiert?"
         },
         "3608b24ec08977c76c40c8514f3bcbd5": {
-            "text": "Diese Box markieren, um die HiDPI\/Retina-Checkox standardm\u00e4\u00dfig f\u00fcr neu eingef\u00fcgte Bilder auszuw\u00e4hlen."
+            "text": "Diese Box markieren, um die HiDPI\/Retina-Checkox standardm\u00e4ssig f\u00fcr neu eingef\u00fcgte Bilder auszuw\u00e4hlen."
         },
         "7fde437e01b597d729484cfc830eb4c5": {
             "text": "Empfohlener Wert:"
@@ -81,7 +81,7 @@
             "text": "Datei"
         },
         "57728bfeef48fd1206314f0cd1c2576a": {
-            "text": "Gr\u00f6\u00dfe"
+            "text": "Gr\u00f6sse"
         },
         "4f42496817221234f2297f3605183f29": {
             "text": "Bemerkungen"
@@ -108,10 +108,10 @@
             "text": "Links:"
         },
         "f8927cab12c03e7537c735cd3117fba2": {
-            "text": "Link zur gr\u00f6\u00dferen\/urspr\u00fcnglichen Version"
+            "text": "Link zur gr\u00f6sseren\/urspr\u00fcnglichen Version"
         },
         "9d723d04c40bfd81835c0766a698cf63": {
-            "text": "Gr\u00f6\u00dfe \u00e4ndern"
+            "text": "Gr\u00f6sse \u00e4ndern"
         },
         "d388632d05e8826abe4b95de0b110529": {
             "text": "Zuschneiden"
@@ -162,7 +162,7 @@
             "text": "Ge\u00e4ndert"
         },
         "77fb47f76c22aae57cce393488dfee23": {
-            "text": "In dieser Gr\u00f6\u00dfe speichern?"
+            "text": "In dieser Gr\u00f6sse speichern?"
         },
         "d695a4d4ae7091badbe5c20c5b064bac": {
             "text": "Auf dieser Seite gibt es derzeit (noch) keine Bilder. Laden Sie ein Bild hoch oder w\u00e4hlen Sie Bilder von einer anderen Seite."
@@ -210,7 +210,7 @@
             "text": "Breite Attribute f\u00fcr Bild-Tags auslassen?"
         },
         "522779383d7b7d46168fcc8ae1c5d4a5": {
-            "text": "Dieses Modul enth\u00e4lt standardm\u00e4\u00dfig Breite-Attribute im img-Tag. Wenn Sie Responsive Bilder verwenden, m\u00f6chten Sie dieses Verhalten m\u00f6glicherweise deaktivieren. Aktivieren Sie die Box, um die Attribute f\u00fcr Breite und H\u00f6he zu deaktivieren."
+            "text": "Dieses Modul enth\u00e4lt standardm\u00e4ssig Breite-Attribute im img-Tag. Wenn Sie Responsive Bilder verwenden, m\u00f6chten Sie dieses Verhalten m\u00f6glicherweise deaktivieren. Aktivieren Sie die Box, um die Attribute f\u00fcr Breite und H\u00f6he zu deaktivieren."
         },
         "4ea9ef823adbf374c74a5ef6316a18e2": {
             "text": "%s von oben"
