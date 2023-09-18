@@ -30,7 +30,7 @@
             "text": "Wenn leer, wird die Standarddatei verwendet."
         },
         "a825c84dec047bf77ef218348c6496ed": {
-            "text": "Geben Sie den Pfad relativ zur Startseite-URL ein."
+            "text": "Gib den Pfad relativ zur Startseite-URL ein."
         },
         "77c0933cca4f9492cb03f4a2d091901e": {
             "text": "Seitenbaumnavigation in der Seitenleiste"
@@ -96,7 +96,7 @@
             "text": "Gravatar (externer Service, der Avatar aus E-Mails ermittelt)"
         },
         "33821a7c07464e5442de3b0aa1836854": {
-            "text": "W\u00e4hlen Sie ein Bildfeld, einen Gravatar oder ein Symbol aus, das f\u00fcr den Benutzeravatar im Top angezeigt werden soll."
+            "text": "W\u00e4hle ein Bildfeld, einen Gravatar oder ein Symbol aus, das f\u00fcr den Benutzeravatar im Top angezeigt werden soll."
         },
         "52d59ff487072b976a4e83f890f18c4e": {
             "text": "Bildfeld: %s"
@@ -114,7 +114,7 @@
             "text": "Diese Bezeichnung wird neben dem Benutzeravatarbild\/-symbol angezeigt."
         },
         "33f5c52210024a7906c33c262435d813": {
-            "text": "Geben Sie Feld(er) und Format an, das f\u00fcr die Benutzerbezeichnung verwendet werden soll, oder Leerzeichen f\u00fcr keine Benutzerbezeichnung."
+            "text": "Gib Feld(er) und Format an, das f\u00fcr die Benutzerbezeichnung verwendet werden soll, oder Leerzeichen f\u00fcr keine Benutzerbezeichnung."
         },
         "e4e4bda20c3f3d73a0ab8a162324a5ef": {
             "text": "Verwenden Sie {Name} f\u00fcr Namen in Grossbuchstaben, was die Standardeinstellung ist, oder verwenden Sie {name} f\u00fcr Kleinbuchstaben."
@@ -126,7 +126,7 @@
             "text": "Maximale Layoutbreite"
         },
         "c0a71759159badff6c9c45f730402dd6": {
-            "text": "Geben Sie die maximale Breite des Layouts (in Pixeln) oder 0 f\u00fcr kein Maximum an."
+            "text": "Gib die maximale Breite des Layouts (in Pixeln) oder 0 f\u00fcr kein Maximum an."
         },
         "08c95f3605e4e76b340174ba21b8462d": {
             "text": "Sie k\u00f6nnen [hier](%s) Bildfelder zu Ihrem Benutzer-Template hinzuf\u00fcgen."
@@ -288,13 +288,13 @@
             "text": "Gefahr"
         },
         "5d6497b7aaafbba82795cd9626c2f508": {
-            "text": "W\u00e4hlen Sie Option B, wenn Sie Probleme haben, die beabsichtigten Spaltenbreiten der Eingabefelder zu erreichen."
+            "text": "W\u00e4hle Option B, wenn Sie Probleme haben, die beabsichtigten Spaltenbreiten der Eingabefelder zu erreichen."
         },
         "8101df5a8d382ef957a02876d08a6f0f": {
             "text": "="
         },
         "03bc7984b022876df391184e362104c2": {
-            "text": "Wenn Sie SVG verwenden, k\u00f6nnen Sie optional \"?uk-svg\" an die URL anh\u00e4ngen, damit das Attribut uk-svg hinzugef\u00fcgt wird."
+            "text": "Wenn Sie SVG verwenden, kannst du optional \"?uk-svg\" an die URL anh\u00e4ngen, damit das Attribut uk-svg hinzugef\u00fcgt wird."
         },
         "28fb66ed224d7a166862203d74cacb8b": {
             "text": "Die meisten erweiterten Einstellungen sind \u00fcber das Array \"$config->AdminThemeUikit settings\" verf\u00fcgbar."

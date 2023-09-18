@@ -18,10 +18,10 @@
             "text": "Standardm\u00e4ssig verwendet SmartyPants HTML-Entit\u00e4ten beim hinzuf\u00fcgen\/aktualisieren von Zeichen."
         },
         "1db1fb23d15114bebcd0b4c9451753ff": {
-            "text": "Wenn Sie Probleme mit doppelter Kodierung beobachten, k\u00f6nnen Sie es stattdessen mit UTF-8 ersetzen lassen."
+            "text": "Wenn du Probleme mit doppelter Kodierung beobachtest, kannst du es stattdessen mit UTF-8 ersetzen lassen."
         },
         "3dbbad2a19b63578a38458d5c9b08980": {
-            "text": "Bitte beachten Sie, dass die Option \"Alle\" folgende Zeichen dekodiert (wenn diese mit Entit\u00e4ten kodiert sind), selbst wenn die Zeichen nicht mit SmartyPants eingef\u00fcgt wurden:"
+            "text": "Bitte beachte, dass die Option \"Alle\" folgende Zeichen dekodiert (wenn diese mit Entit\u00e4ten kodiert sind), selbst wenn die Zeichen nicht mit SmartyPants eingef\u00fcgt wurden:"
         }
     }
 }

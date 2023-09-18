@@ -15,10 +15,10 @@
             "text": "Verwenden Sie diese Einstellung, damit die Optionen in Spalten mit fester Breite angezeigt werden, die je nach Breite des Ansichtsfensters verschoben oder reduziert werden."
         },
         "f1a23bf1974a4b1cbbeaddc284117fd9": {
-            "text": "Geben Sie eine CSS-Breitenzahl und eine Einheit ein, z. B. 100px oder 10em. Wenn keine Einheit angegeben wird, wird px (Pixel) angenommen."
+            "text": "Gib eine CSS-Breitenzahl und eine Einheit ein, z. B. 100px oder 10em. Wenn keine Einheit angegeben wird, wird px (Pixel) angenommen."
         },
         "434bbaa0ab37f1ebd26e7509715e1aa3": {
-            "text": "Geben Sie die Zahl 1 ein, um zur Laufzeit automatisch eine geeignete Breite zu berechnen."
+            "text": "Gib die Zahl 1 ein, um zur Laufzeit automatisch eine geeignete Breite zu berechnen."
         },
         "e2698e70a4505aa9809823dda815aaa0": {
             "text": "F\u00fcr ein optimales Erscheinungsbild geben Sie eine Breite ein, in die die l\u00e4ngste Option ohne Wortumbruch passt, oder geben Sie 1 ein, um eine automatische Breite zu erhalten."

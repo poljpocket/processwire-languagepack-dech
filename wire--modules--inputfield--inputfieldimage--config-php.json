@@ -45,13 +45,13 @@
             "text": "Maximale Bilddimensionen"
         },
         "ef375d406da59811c42dc0f5a245dca3": {
-            "text": "Geben Sie optional die maximale Breite und\/oder H\u00f6he der hochgeladenen Bilder an. Falls angegeben, wird die Gr\u00f6sse der Bilder beim Hochladen angepasst, wenn sie die maximale Breite oder H\u00f6he \u00fcberschreiten. Die Gr\u00f6ssen\u00e4nderung wird zum Zeitpunkt des Hochladens durchgef\u00fchrt und wirkt sich daher nicht auf Bilder im System oder \u00fcber die API hinzugef\u00fcgte Bilder aus."
+            "text": "Gib optional die maximale Breite und\/oder H\u00f6he der hochgeladenen Bilder an. Falls angegeben, wird die Gr\u00f6sse der Bilder beim Hochladen angepasst, wenn sie die maximale Breite oder H\u00f6he \u00fcberschreiten. Die Gr\u00f6ssen\u00e4nderung wird zum Zeitpunkt des Hochladens durchgef\u00fchrt und wirkt sich daher nicht auf Bilder im System oder \u00fcber die API hinzugef\u00fcgte Bilder aus."
         },
         "16e3e850ce20fe9fa8340e6d27693f61": {
             "text": "Gilt f\u00fcr JPG-, PNG- und GIF-Bilder."
         },
         "1a2b9bdaad8fc3ebd6b83463a0def69e": {
-            "text": "Geben Sie den Wert in Pixel ein oder lassen Sie ihn leer, wenn es keine Begrenzung gibt."
+            "text": "Gib den Wert in Pixel ein oder lassen Sie ihn leer, wenn es keine Begrenzung gibt."
         },
         "e69ccb31941d2fd7923c6b0c01957db3": {
             "text": "Maximale Breite f\u00fcr hochgeladene Bilder"
@@ -63,7 +63,7 @@
             "text": "Wie soll die Gr\u00f6sse f\u00fcr die maximalen Dimensionen erfolgen?"
         },
         "434352c2b6134b909827f386b3644f0f": {
-            "text": "Mit der clientseitigen Gr\u00f6ssen\u00e4nderung k\u00f6nnen Sie die Dateigr\u00f6sse und -abmessungen vor dem Hochladen reduzieren."
+            "text": "Mit der clientseitigen Gr\u00f6ssen\u00e4nderung kannst du die Dateigr\u00f6sse und -abmessungen vor dem Hochladen reduzieren."
         },
         "c265ab5c0405e78595f05a15d5279278": {
             "text": "Wenn Sie die clientseitige Gr\u00f6ssen\u00e4nderung verwenden, geben Sie bitte sowohl die maximale Breite *als auch* die maximale H\u00f6he in den Feldern oben oder die maximalen Megapixel in dem Feld unten an."
@@ -78,7 +78,7 @@
             "text": "Maximale Megapixel f\u00fcr hochgeladene Bilder"
         },
         "86d448ef6f037ce16fc358a22921c45c": {
-            "text": "Dies kann als Alternative zu max width\/height verwendet werden. Geben Sie einen Fliesskommawert an."
+            "text": "Dies kann als Alternative zu max width\/height verwendet werden. Gib einen Fliesskommawert an."
         },
         "bd035d6e1aa04d38e61f36c27150e39d": {
             "text": "Gilt nur f\u00fcr die client-seitige Gr\u00f6ssen\u00e4nderung."
@@ -93,7 +93,7 @@
             "text": "Clientseitige Gr\u00f6ssen\u00e4nderung Qualit\u00e4tsstufe f\u00fcr JPEGs in Prozent"
         },
         "ab00b0c8eb852647eee9553c75a100fe": {
-            "text": "Geben Sie eine Zahl zwischen 10 (niedrigste Qualit\u00e4t\/kleinste Dateigr\u00f6sse) und 100 (h\u00f6chste Qualit\u00e4t\/gr\u00f6sste Dateigr\u00f6sse) an. Standardwert ist 90."
+            "text": "Gib eine Zahl zwischen 10 (niedrigste Qualit\u00e4t\/kleinste Dateigr\u00f6sse) und 100 (h\u00f6chste Qualit\u00e4t\/gr\u00f6sste Dateigr\u00f6sse) an. Standardwert ist 90."
         },
         "dffe78c5f55b8a4187b91c40a03cf904": {
             "text": "Bilder, die die maximalen Abmessungen \u00fcberschreiten, ablehnen?"
@@ -105,7 +105,7 @@
             "text": "Minimale Bildabmessungen"
         },
         "a195023920e6ece61b6211755c9af27f": {
-            "text": "Geben Sie optional die Mindestbreite und\/oder -h\u00f6he der hochgeladenen Bilder an. Falls angegeben, werden Bilder, die diese Mindestmasse nicht erf\u00fcllen, abgelehnt."
+            "text": "Gib optional die Mindestbreite und\/oder -h\u00f6he der hochgeladenen Bilder an. Falls angegeben, werden Bilder, die diese Mindestmasse nicht erf\u00fcllen, abgelehnt."
         },
         "d704e5da0e9e4ca2aa3e04201575f44c": {
             "text": "Mindestbreite f\u00fcr hochgeladene Bilder"

@@ -102,16 +102,16 @@
             "text": "Antwort-Tiefe"
         },
         "1f33bbe656fa140ce52347fb0af13a18": {
-            "text": "W\u00e4hlen Sie 0 f\u00fcr traditionelle chronologische Anzeige der Kommentare. F\u00fcr eine nach Themen gruppierte Anzeige der Kommentare (Antworten erscheinen unter dem jeweils beantworteten Kommentar) w\u00e4hlen Sie die maximal erlaubte Tiefe f\u00fcr Antworten (0 bis 4 wird empfohlen)."
+            "text": "W\u00e4hle 0 f\u00fcr traditionelle chronologische Anzeige der Kommentare. F\u00fcr eine nach Themen gruppierte Anzeige der Kommentare (Antworten erscheinen unter dem jeweils beantworteten Kommentar) w\u00e4hle die maximal erlaubte Tiefe f\u00fcr Antworten (0 bis 4 wird empfohlen)."
         },
         "82829c5912f395b029a87c565359835c": {
             "text": "Text-Formatierer"
         },
         "53a682f62e65f496a659d3a12c754f75": {
-            "text": "W\u00e4hlen Sie optional einen oder mehrere Text-Formatierer zur Anwendung auf den Kommentartext in der gew\u00fcnschten Reihenfolge. Falls Sie keinen ausw\u00e4hlen, werden die Entit\u00e4ten im Text kodiert, Newlines werden zu <br> Tags konvertiert und die Ausgabe erfolgt in einem <p> Tag."
+            "text": "W\u00e4hle optional einen oder mehrere Text-Formatierer zur Anwendung auf den Kommentartext in der gew\u00fcnschten Reihenfolge. Falls du keinen ausw\u00e4hlst, werden die Entit\u00e4ten im Text kodiert, Newlines werden zu <br> Tags konvertiert und die Ausgabe erfolgt in einem <p> Tag."
         },
         "81958f1863ae9ebb74b7a23cbf0dbd78": {
-            "text": "Warnung: w\u00e4hlen Sie nur Text-Formatierer welche f\u00fcr die Eingaben von anonymen Benutzern sicher bzw. geeignet sind, wie z.B. Entity Encoder (Core) oder Textile Restricted (3. Anbieter). Falls Sie sich nicht sicher sind, w\u00e4hlen Sie hier nichts aus. Die falsche Auswahl kann ein Sicherheitsproblem darstellen."
+            "text": "Warnung: w\u00e4hle nur Text-Formatierer welche f\u00fcr die Eingaben von anonymen Benutzern sicher bzw. geeignet sind, wie z.B. Entity Encoder (Core) oder Textile Restricted (3. Anbieter). Falls du sich nicht sicher bist, w\u00e4hle hier nichts aus. Die falsche Auswahl kann ein Sicherheitsproblem darstellen."
         },
         "e2ee73419f58949b9fdfb97f23a8a6ac": {
             "text": "PHP-Code zur Ausgabe von Kommentaren"
@@ -123,7 +123,7 @@
             "text": "JS f\u00fcr die Ausgabe der Kommentare im Frontend"
         },
         "309ccca9b8ae5408ee15a28c2bd2c9c2": {
-            "text": "Dieser Bereich wird Sie bei der Formatierung der Kommentare im Frontend der Webseite unterst\u00fctzen. Hier ist alles optional."
+            "text": "Dieser Bereich wird dich bei der Formatierung der Kommentare im Frontend der Webseite unterst\u00fctzen. Hier ist alles optional."
         },
         "b39a035a995fc6597c8eb942210d1527": {
             "text": "Verhalten"
@@ -147,16 +147,16 @@
             "text": "Benutzer, welche diese E-Mail erhalten, haben die M\u00f6glichkeit Beitr\u00e4ge direkt aus Links in der E-Mail zu best\u00e4tigen oder zu verwerfen."
         },
         "abf48974ca61ec74f073f2359c29da03": {
-            "text": "Zus\u00e4tzlich zu (oder anstatt) E-Mail-Adressen k\u00f6nnen Sie auch eine oder mehrere der folgenden Optionen nutzen:"
+            "text": "Zus\u00e4tzlich zu (oder anstatt) E-Mail-Adressen kannst du auch eine oder mehrere der folgenden Optionen nutzen:"
         },
         "d0ffa91c19a6c97eac905834065a48a4": {
-            "text": "1. Geben Sie **user:karen** ein, um einen bestimmten Benutzer anzuschreiben. Ersetzen Sie \"karen\" mit dem Namen des gew\u00fcnschten Benutzers."
+            "text": "1. Gib **user:karen** ein, um einen bestimmten Benutzer anzuschreiben. Ersetze \"karen\" mit dem Namen des gew\u00fcnschten Benutzers."
         },
         "e703c4cbaf0b1030f389f7a3f4c91f34": {
-            "text": "2. Geben Sie **field:email** ein, um die E-Mail-Adresse aus einem Feld der Seite auszulesen. Ersetzen Sie \"email\" mit dem Namen des Feldes welches die E-Mail-Adresse enth\u00e4lt."
+            "text": "2. Gib **field:email** ein, um die E-Mail-Adresse aus einem Feld der Seite auszulesen. Ersetze \"email\" mit dem Namen des Feldes welches die E-Mail-Adresse enth\u00e4lt."
         },
         "0cf8830f9d1aaf42ad9e178f9af4f3d0": {
-            "text": "3. Geben Sie **123:email** ein, um die E-Mail-Adresse aus der ID und eines Feldnamens einer vorhandenen Seite auszulesen. Ersetzen Sie \"123\" mit der ID der Seite und \"email\" mit dem Namen des Feldes welches die E-Mail-Adresse enth\u00e4lt."
+            "text": "3. Gib **123:email** ein, um die E-Mail-Adresse aus der ID und eines Feldnamens einer vorhandenen Seite auszulesen. Ersetze \"123\" mit der ID der Seite und \"email\" mit dem Namen des Feldes welches die E-Mail-Adresse enth\u00e4lt."
         },
         "f6fdd0b4b152fc4fb6fa144eb7718873": {
             "text": "Benachrichtigungen zu E-Mails"
@@ -201,19 +201,19 @@
             "text": "Implementierung"
         },
         "cf5bd74bd24d341a63cdcf36fba20dbb": {
-            "text": "Sie haben diesen Kommentar bereits bewertet."
+            "text": "Du hast diesen Kommentar bereits bewertet."
         },
         "511c09f7e853bcc074d29ba36a8da7f7": {
             "text": "Fehler beim Bewerten"
         },
         "ea706988dcb6ea169518eb97da49df9d": {
-            "text": "Geben Sie das gew\u00fcnschte Format zu Datum\/Zeit f\u00fcr die Ausgabe der Kommentar-Liste ein. Es kann ein PHP [date](http:\/\/php.net\/manual\/de\/function.date.php) oder [strftime](http:\/\/php.net\/manual\/de\/function.strftime.php) Format genutzt werden. Es kann auch \"relative\" f\u00fcr ein relatives Datums-Format verwendet werden."
+            "text": "Gib das gew\u00fcnschte Format zu Datum\/Zeit f\u00fcr die Ausgabe der Kommentar-Liste ein. Es kann ein PHP [date](http:\/\/php.net\/manual\/de\/function.date.php) oder [strftime](http:\/\/php.net\/manual\/de\/function.strftime.php) Format genutzt werden. Es kann auch \"relative\" f\u00fcr ein relatives Datums-Format verwendet werden."
         },
         "c0cf19f012781de14679b0d857fe4cbd": {
             "text": "Falls ein Cache f\u00fcr die Ausgabe genutzt wird, sollte per Konfiguration der Cache umgangen werden wenn die GET Variable \"comment_success\" vorhanden ist."
         },
         "be4676f05d7147b99e5addd2b27b6889": {
-            "text": "4. Geben Sie \/pfad\/zur\/seite:email ein, um die E-Mail-Adresse aus dem Pfad und eines Feldnamens einer vorhandenen Seite auszulesen. Ersetzen Sie \"\/pfad\/zur\/seite\" mit dem korrekten Pfad und \"email\" mit dem Namen des Feldes welches die E-Mail-Adresse enth\u00e4lt."
+            "text": "4. Gib \/pfad\/zur\/seite:email ein, um die E-Mail-Adresse aus dem Pfad und eines Feldnamens einer vorhandenen Seite auszulesen. Ersetze \"\/pfad\/zur\/seite\" mit dem korrekten Pfad und \"email\" mit dem Namen des Feldes welches die E-Mail-Adresse enth\u00e4lt."
         },
         "40e8db84e220fe9c816eb334d1b42a70": {
             "text": "Mit Sternen bewerten?"

@@ -30,7 +30,7 @@
             "text": "Datumseingabeformat"
         },
         "7656e28d6e435ffecc453794149e6a0d": {
-            "text": "W\u00e4hlen Sie das Format, das f\u00fcr die Benutzereingabe in dieses Feld verwendet werden soll. Ihre Auswahl f\u00fcllt das Feld darunter, das Sie bei Bedarf weiter anpassen k\u00f6nnen."
+            "text": "W\u00e4hle das Format, das f\u00fcr die Benutzereingabe in dieses Feld verwendet werden soll. Ihre Auswahl f\u00fcllt das Feld darunter, das Sie bei Bedarf weiter anpassen k\u00f6nnen."
         },
         "b4857dd659bf6e86731ccda0a3b581fb": {
             "text": "(Unix-Zeitstempel)"
@@ -42,7 +42,7 @@
             "text": "Keine"
         },
         "44d9d932f51a771c8c76c2dc6ff57e1f": {
-            "text": "W\u00e4hlen Sie ein optionales Zeitformat, das f\u00fcr die Eingabe verwendet werden soll. Falls verwendet, enth\u00e4lt die Kalenderoption eine Zeitauswahl."
+            "text": "W\u00e4hle ein optionales Zeitformat, das f\u00fcr die Eingabe verwendet werden soll. Falls verwendet, enth\u00e4lt die Kalenderoption eine Zeitauswahl."
         },
         "91c4223a8591eed0ecab28c3a1a880b2": {
             "text": "Zeiteingabe Typ"
@@ -66,7 +66,7 @@
             "text": "Weitere Informationen \u00fcber die Anpassung dieser Formate finden Sie in der Referenz der Funktion [PHP date](http:\/\/www.php.net\/manual\/en\/function.date.php)."
         },
         "3668c3ec43f4b401c6de009e3abb73f9": {
-            "text": "Optional k\u00f6nnen Sie hier auch Formate f\u00fcr andere Sprachen angeben. Alle Sprachen, die Sie leer lassen, \u00fcbernehmen die Standardeinstellung."
+            "text": "Optional kannst du hier auch Formate f\u00fcr andere Sprachen angeben. Alle Sprachen, die Sie leer lassen, \u00fcbernehmen die Standardeinstellung."
         },
         "b3641a0b694cd7a82856611ce58d4979": {
             "text": "Uhrzeit Eingabeformat Code"

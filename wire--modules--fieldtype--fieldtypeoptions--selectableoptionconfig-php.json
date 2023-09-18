@@ -36,7 +36,7 @@
             "text": "Je nach dem, welchen Eingabetyp Sie ausw\u00e4hlen, kann der Benutzer entweder eine einzelne oder mehrere Optionen w\u00e4hlen. Einige Eingabetypen (wie AsmSelect) unterst\u00fctzen auch eine durch den Benutzer sortierbare Auswahl. Einige Eingabetypen bieten auch weitere Einstellungen im Eingabe-Tab (sichtbar nach dem Speichern)."
         },
         "7ca00a9ac9a521d8e1d62919da2e66c6": {
-            "text": "Geben Sie eine w\u00e4hlbare Option pro Zeile an. Nach dem Speichern wird jeder Ihrer Optionen eine ID zugewiesen, welche z.B. als `123=title` angezeigt werden. Weitere Informationen in der [Anleitung zur Nutzung dieses Feldes](%s)."
+            "text": "Gib eine w\u00e4hlbare Option pro Zeile an. Nach dem Speichern wird jeder Ihrer Optionen eine ID zugewiesen, welche z.B. als `123=title` angezeigt werden. Weitere Informationen in der [Anleitung zur Nutzung dieses Feldes](%s)."
         },
         "ebe68b1a7edd199230885058ca3f3351": {
             "text": "Hinweis zu Mehrsprachigkeit: Optionen zuerst in der Standard-Sprache festlegen und speichern, bevor man diese in andere Sprachen \u00fcbersetzt."

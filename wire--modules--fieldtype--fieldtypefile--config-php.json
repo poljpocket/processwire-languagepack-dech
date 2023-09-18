@@ -9,7 +9,7 @@
             "text": "Erlaubte Dateierweiterungen"
         },
         "b3f2fb9ff683cc6bb4e353a8c443260c": {
-            "text": "Geben Sie alle Dateierweiterungen ein, die in diesem Upload-Feld zul\u00e4ssig sind. Trennen Sie jede Erweiterung durch ein Leerzeichen. Keine Punkte oder Kommas. In diesem Feld wird nicht zwischen Gross- und Kleinschreibung unterschieden."
+            "text": "Gib alle Dateierweiterungen ein, die in diesem Upload-Feld zul\u00e4ssig sind. Trenne jede Erweiterung durch ein Leerzeichen. Keine Punkte oder Kommas. In diesem Feld wird nicht zwischen Gross- und Kleinschreibung unterschieden."
         },
         "ecc79534d4d067624a9ff21c9007cf0f": {
             "text": "Die Dateierweiterung %s muss entfernt werden, auf der Whitelist stehen oder es muss ein Dateivalidierungsmodul installiert sein."
@@ -21,10 +21,10 @@
             "text": "F\u00fcr diese Dateierweiterungen muss ein Dateivalidierungsmodul installiert sein. Nicht \u00fcberpr\u00fcfte Erweiterungen wurden aus Sicherheitsgr\u00fcnden deaktiviert."
         },
         "3cf5aa280976802bec73910581f4dbe5": {
-            "text": "Um die Dateierweiterung zu ignorieren und ohne Dateivalidierung zuzulassen, aktivieren Sie das K\u00e4stchen daneben (nicht empfohlen)."
+            "text": "Um die Dateierweiterung zu ignorieren und ohne Dateivalidierung zuzulassen, aktiviere das K\u00e4stchen daneben (nicht empfohlen)."
         },
         "4c8ec65a891b88ab97e4c0ca89b1e161": {
-            "text": "Wenn Sie eine Erweiterung nicht ben\u00f6tigen, entfernen Sie sie bitte aus der Liste der g\u00fcltigen Dateierweiterungen."
+            "text": "Wenn du eine Erweiterung nicht ben\u00f6tigst, entferne sie bitte aus der Liste der g\u00fcltigen Dateierweiterungen."
         },
         "34f7d8569876cb1a4b73390d2d3528cd": {
             "text": "Maximale Anzahl von Dateien"
@@ -45,7 +45,7 @@
             "text": "Datei-Tags"
         },
         "b55655b900ccd6c743eec6ca69d47a9a": {
-            "text": "Mit Tags k\u00f6nnen Sie vordefinierte oder benutzerdefinierte 1-Wort-Tags zu jeder Datei hinzuf\u00fcgen."
+            "text": "Mit Tags kannst du vordefinierte oder benutzerdefinierte 1-Wort-Tags zu jeder Datei hinzuf\u00fcgen."
         },
         "6ab8e7e456ae5d6187a05f5c1a2c40ae": {
             "text": "Wenn sie verwendet werden, k\u00f6nnen Dateien eine beliebige Anzahl von Tags haben."
@@ -78,7 +78,7 @@
             "text": "Vordefinierte Datei-Tags"
         },
         "43bce07bd160232ee31114541357640c": {
-            "text": "Geben Sie die Tags durch ein Leerzeichen getrennt ein. Tags k\u00f6nnen Buchstaben, Ziffern, Unterstriche oder Bindestriche enthalten."
+            "text": "Gib die Tags durch ein Leerzeichen getrennt ein. Tags k\u00f6nnen Buchstaben, Ziffern, Unterstriche oder Bindestriche enthalten."
         },
         "a0af6bad96d7e79b06174600be6b480b": {
             "text": "Beispiele f\u00fcr die Verwendung von Tags"
@@ -102,7 +102,7 @@
             "text": "Formatierter Wert"
         },
         "f09906b55a7a66786de08cb25550a2c8": {
-            "text": "W\u00e4hlen Sie die Art des Wertes, den dieses Feld beim Zugriff von der API auf dem Front-End Ihrer Website liefern soll."
+            "text": "W\u00e4hle die Art des Wertes, den dieses Feld beim Zugriff von der API auf dem Front-End Ihrer Website liefern soll."
         },
         "c0e161ac2ecec98d0c8bb5f163c4b279": {
             "text": "Wenn die Ausgabeformatierung ausgeschaltet ist, ist der Wert immer ein %s-Array."
@@ -132,22 +132,22 @@
             "text": "z.B."
         },
         "fefb41e13016890d511b8d55d8057c37": {
-            "text": "Geben Sie die gerenderte Textzeichenfolge an, die Sie als Wert dieses Feldes ausgeben m\u00f6chten. Enth\u00e4lt das Feld mehrere Elemente, wird diese Zeichenfolge mehrfach wiedergegeben. Enth\u00e4lt das Feld keine Eintr\u00e4ge, wird eine leere Zeichenfolge verwendet."
+            "text": "Gib die gerenderte Textzeichenfolge an, die du als Wert dieses Feldes ausgeben m\u00f6chtest. Enth\u00e4lt das Feld mehrere Elemente, wird diese Zeichenfolge mehrfach wiedergegeben. Enth\u00e4lt das Feld keine Eintr\u00e4ge, wird eine leere Zeichenfolge verwendet."
         },
         "bc87ae1cea1ec39d98cb68f7198a23a4": {
-            "text": "Sie k\u00f6nnen jeden der folgenden Platzhalter-Tags verwenden:"
+            "text": "Du kannst jeden der folgenden Platzhalter-Tags verwenden:"
         },
         "7b9324fd1b6cc33da6065e0338fd1828": {
             "text": "Benutzerdefinierte Felder"
         },
         "464b7386b281c4351c2b22a2968be583": {
-            "text": "Mit benutzerdefinierten Feldern k\u00f6nnen Sie zus\u00e4tzliche Text-, Zahlen- und Auswahlfelder definieren, die jede Datei als Metadaten begleiten."
+            "text": "Mit benutzerdefinierten Feldern kannst du zus\u00e4tzliche Text-, Zahlen- und Auswahlfelder definieren, die jede Datei als Metadaten begleiten."
         },
         "bd02d4cb90800173cbefee03c4e39d1c": {
-            "text": "Verwenden Sie diese Option, wenn Sie mehr als nur eine Dateibeschreibung und\/oder Tags ben\u00f6tigen."
+            "text": "Verwende diese Option, wenn du mehr als nur eine Dateibeschreibung und\/oder Tags ben\u00f6tigst."
         },
         "e96b5e4a44489720ddfd5c8f0bc7c8d4": {
-            "text": "F\u00fcr weitere Informationen lesen Sie bitte: %s."
+            "text": "F\u00fcr weitere Informationen lies bitte: %s."
         },
         "674c8abf6416d34295dca28c074b951d": {
             "text": "So funktionieren benutzerdefinierte Felder f\u00fcr Dateien\/Bilder"
@@ -162,7 +162,7 @@
             "text": "Benutzerdefinierte Felder werden \u00fcber ein Template aktiviert und verwaltet."
         },
         "ca2a3a8473fef6a68aa88445b8a3f862": {
-            "text": "Verwenden Sie die Schaltfl\u00e4che \"Benutzerdefinierte Felder bearbeiten\" unten, um die Felder, die Sie f\u00fcr jede Datei pflegen m\u00f6chten, hinzuzuf\u00fcgen oder zu \u00e4ndern."
+            "text": "Verwende die Schaltfl\u00e4che \"Benutzerdefinierte Felder bearbeiten\" unten, um die Felder, die du f\u00fcr jede Datei pflegen m\u00f6chtest, hinzuzuf\u00fcgen oder zu \u00e4ndern."
         },
         "9cd6a4fe3407c8aa92eb4ed3b4066c49": {
             "text": "Die meisten Text-, Zahlen- und Auswahlfelder funktionieren hier, aber einige Feldtypen m\u00f6glicherweise nicht."
@@ -174,25 +174,25 @@
             "text": "Das Template f\u00fcr benutzerdefinierte Felder ist: %s"
         },
         "411de45d712bc52bf20397e686ced665": {
-            "text": "Um benutzerdefinierte Felder f\u00fcr dieses Feld dauerhaft zu deaktivieren, l\u00f6schen Sie das Template %s."
+            "text": "Um benutzerdefinierte Felder f\u00fcr dieses Feld dauerhaft zu deaktivieren, l\u00f6sche das Template %s."
         },
         "b232b3febcd514c94d3a01ec7c90b727": {
-            "text": "Wenn Sie benutzerdefinierte Felder aktivieren, speichern Sie und kehren Sie dann hierher zur\u00fcck, um sie zu konfigurieren."
+            "text": "Wenn du benutzerdefinierte Felder aktivierst, speicher und kehre dann hierher zur\u00fcck, um sie zu konfigurieren."
         },
         "918339f9d2be43fb1343a0999d91f7e2": {
             "text": "Seite mit Standard-\/Fallback-Wert f\u00fcr dieses Feld"
         },
         "f4adf511dd72b27244f802b5ca027eca": {
-            "text": "Optional k\u00f6nnen Sie in diesem Feld auch eine Seite ausw\u00e4hlen, die den Standard-\/Fallback-Wert enth\u00e4lt."
+            "text": "Optional kannst du in diesem Feld auch eine Seite ausw\u00e4hlen, die den Standard-\/Fallback-Wert enth\u00e4lt."
         },
         "8d664d296530bbabc76043e4e499b272": {
-            "text": "W\u00e4hlen Sie einen oder mehrere Textformatierer (und deren Reihenfolge), die auf die Dateibeschreibung angewendet werden, wenn die Ausgabeformatierung aktiv ist. Als Minimum wird der HTML Entity Encoder empfohlen."
+            "text": "W\u00e4hle einen oder mehrere Textformatierer (und deren Reihenfolge), die auf die Dateibeschreibung angewendet werden, wenn die Ausgabeformatierung aktiv ist. Als Minimum wird der HTML Entity Encoder empfohlen."
         },
         "b74176f4828823f7800a9deafd8b0f4d": {
             "text": "Beispiel f\u00fcr die Verwendung mehrerer Dateien"
         },
         "39eb21d8ba89f126ca77c936092fe041": {
-            "text": "Gegebenenfalls m\u00f6chten Sie eine Seite speziell f\u00fcr diesen Zweck erstellen."
+            "text": "Gegebenenfalls m\u00f6chtest du eine Seite speziell f\u00fcr diesen Zweck erstellen."
         },
         "0debf9bf73234ccd8ef3a4f6f0afc5c8": {
             "text": "Die ausgew\u00e4hlte Seite muss ein %s-Feld mit einer oder mehreren Dateien enthalten."
@@ -204,7 +204,7 @@
             "text": "Die Art des Feldes, das zur Erfassung von Eingaben f\u00fcr dieses Dateifeld verwendet werden soll."
         },
         "9cdd19f51364783933fefd557c7cd644": {
-            "text": "\u00c4ndern Sie dies nur, wenn Sie in der Anleitung des Inputfield-Moduls eines Drittanbieters dazu aufgefordert werden."
+            "text": "\u00c4nder dies nur, wenn du in der Anleitung des Inputfield-Moduls eines Drittanbieters dazu aufgefordert wurdest."
         },
         "d51491292f62e94821f0fb6802cc1849": {
             "text": "Erlaubte Fieldtype-Module f\u00fcr benutzerdefinierte Felder"

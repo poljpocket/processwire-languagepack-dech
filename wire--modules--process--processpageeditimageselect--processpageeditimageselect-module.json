@@ -3,7 +3,7 @@
     "textdomain": "wire--modules--process--processpageeditimageselect--processpageeditimageselect-module",
     "translations": {
         "5d13ae1a65403891ac0fe044f3acc865": {
-            "text": "Auf dieser Seite existieren keine Bild-Felder. W\u00e4hlen Sie eine andere Seite, um Bilder von dieser zu nutzen."
+            "text": "Auf dieser Seite existieren keine Bild-Felder. W\u00e4hle eine andere Seite, um Bilder von dieser zu nutzen."
         },
         "83ea3ed3245ed2ce30aabecdc6b4d354": {
             "text": "Bilder auf der Seite:"
@@ -204,7 +204,7 @@
             "text": "="
         },
         "575acda05a24ee8b606cee4f25024afe": {
-            "text": "Sie haben auf dieser Seite keine Berechtigung zum bearbeiten von Bildern."
+            "text": "Du hast auf dieser Seite keine Berechtigung zum bearbeiten von Bildern."
         },
         "0bedb7a49466cc5abddacd2003be55b3": {
             "text": "Breite Attribute f\u00fcr Bild-Tags auslassen?"

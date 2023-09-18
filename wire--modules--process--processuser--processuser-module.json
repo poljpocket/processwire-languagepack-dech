@@ -36,7 +36,7 @@
             "text": "Sie sind nicht berechtigt diese Rolle hinzuzuf\u00fcgen: %s"
         },
         "ba0bf134511b54d35d023da28eb75e39": {
-            "text": "Sie haben Rollen entfernt, welche nun verhindern, diesen Benutzer zu bearbeiten. Rollen wurden wiederhergestellt."
+            "text": "Du hast Rollen entfernt, welche nun verhindern, diesen Benutzer zu bearbeiten. Rollen wurden wiederhergestellt."
         }
     }
 }

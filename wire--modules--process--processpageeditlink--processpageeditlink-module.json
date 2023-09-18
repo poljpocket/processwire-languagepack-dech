@@ -6,7 +6,7 @@
             "text": "Seite ausw\u00e4hlen"
         },
         "ddb0ec6745aefbc02b9c9eb0dfb2e796": {
-            "text": "Geben Sie eine URL ein oder w\u00e4hlen Sie eine Seite oder Datei zum verlinken aus:"
+            "text": "Gib eine URL ein oder w\u00e4hlen Sie eine Seite oder Datei zum verlinken aus:"
         },
         "f6f7f0f8aa1ef94fdf01a81f1cb24e7a": {
             "text": "Link zu einer URL"
@@ -60,13 +60,13 @@
             "text": "Optionen zu Eigenschaften"
         },
         "b31cbfca485dbc22cfb79ea992fa8e98": {
-            "text": "Geben Sie einen Eigenschaftswert pro Zeile ein. Der Benutzer kann diese dann als Optionen beim hinzuf\u00fcgen von Links ausw\u00e4hlen. Um eine Option als Voreinstellung (f\u00fcr neue Links) festzulegen, bitte ein Plus \"+\" voranstellen."
+            "text": "Gib einen Eigenschaftswert pro Zeile ein. Der Benutzer kann diese dann als Optionen beim hinzuf\u00fcgen von Links ausw\u00e4hlen. Um eine Option als Voreinstellung (f\u00fcr neue Links) festzulegen, bitte ein Plus \"+\" voranstellen."
         },
         "a09630836c5a01bfa93c8cdfbbb065d3": {
             "text": "Eigenschaften von externen Link"
         },
         "9b291241830397114b711a98ca6695d6": {
-            "text": "Geben Sie die Eigenschaft an, welche automatisch als Standard eingetragen wird, wenn ein externer Link erkannt wurde."
+            "text": "Gib die Eigenschaft an, welche automatisch als Standard eingetragen wird, wenn ein externer Link erkannt wurde."
         },
         "7f4fd9351aed8f03ec4559872d125eb4": {
             "text": "Falls ausgew\u00e4hlt, muss der Wert einem der oben vorgegebenen entsprechen."
@@ -78,7 +78,7 @@
             "text": "Beispiel: die Angabe von **_blank** sorgt daf\u00fcr, dass externe Links standardm\u00e4ssig in einem neuen Fenster ge\u00f6ffnet werden."
         },
         "c1ea9d15a4b45722e553d5227d2a68ec": {
-            "text": "Geben Sie eine(n) URL, E-Mail Adresse, Anker oder Worte ein um eine Seite zu finden."
+            "text": "Gib eine(n) URL, E-Mail Adresse, Anker oder Worte ein um eine Seite zu finden."
         },
         "b7a5bb32ec6b8bdd7933e1aed1226051": {
             "text": "Anker im bearbeiteten Text gefunden."
@@ -102,10 +102,10 @@
             "text": "Zeige Dateien auf Seite:"
         },
         "35afa790dae10280b1b4b38417e756ee": {
-            "text": "W\u00e4hlen Sie die zu verlinkende Datei von dieser Seite."
+            "text": "W\u00e4hle die zu verlinkende Datei von dieser Seite."
         },
         "0fc76f2ae9061248b25a11b099e80fd6": {
-            "text": "Um eine Datei einer anderen Seite zu nutzen, klicken Sie oben auf 'Seite ausw\u00e4hlen' und w\u00e4hlen die entsprechende Seite. W\u00e4hlen Sie anschliessend hier die Datei aus."
+            "text": "Um eine Datei einer anderen Seite zu nutzen, klicken Sie oben auf 'Seite ausw\u00e4hlen' und w\u00e4hlen die entsprechende Seite. W\u00e4hle anschliessend hier die Datei aus."
         },
         "97e7c9a7d06eac006a28bf05467fcc8b": {
             "text": "="

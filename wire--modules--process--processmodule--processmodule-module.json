@@ -18,7 +18,7 @@
             "text": "Kein Modul angegeben"
         },
         "e45037779e7b459b4ea29944f1b2ef5c": {
-            "text": "Dieses Modul deinstallieren? Nach der Deinstallation k\u00f6nnen Sie die Modul-Dateien vom Server entfernen, falls nicht andere Module von ihm abh\u00e4ngen."
+            "text": "Dieses Modul deinstallieren? Nach der Deinstallation kannst du die Modul-Dateien vom Server entfernen, falls nicht andere Module von ihm abh\u00e4ngen."
         },
         "a0ab914bff40f68598d99e99d39d859c": {
             "text": "Dies wird weitere Module deinstallieren"
@@ -324,7 +324,7 @@
             "text": "Gew\u00fcnschte Modul-Datei"
         },
         "fc93b2cc57529c815c8810364ec885ea": {
-            "text": "Es sind mehrere Kopien dieses Moduls vorhanden. W\u00e4hlen Sie die gew\u00fcnschte Modul-Datei aus."
+            "text": "Es sind mehrere Kopien dieses Moduls vorhanden. W\u00e4hle die gew\u00fcnschte Modul-Datei aus."
         },
         "1c4336473685430feefceabf2d42669c": {
             "text": "Autoload deaktiviert?"
@@ -339,7 +339,7 @@
             "text": "Modul-Cache aktualisiert (%d Module)"
         },
         "326051e869bfb9785613fcb1e957a71e": {
-            "text": "Um ein Modul zu entfernen klicken Sie das Modul an (zum bearbeiten), dann w\u00e4hlen Sie 'Deinstallieren' und speichern es. Sobald es deinstalliert ist, k\u00f6nnen Sie die Modul-Datei(en) aus \/site\/modules\/ entfernen. Wenn es immer noch in der Liste oben erscheint, m\u00fcssen Sie eventuell den Button 'Nach neuen Modulen suchen' klicken, damit ProcessWire die \u00c4nderung erfasst."
+            "text": "Um ein Modul zu entfernen klicken Sie das Modul an (zum bearbeiten), dann w\u00e4hlen Sie 'Deinstallieren' und speichern es. Sobald es deinstalliert ist, kannst du die Modul-Datei(en) aus \/site\/modules\/ entfernen. Wenn es immer noch in der Liste oben erscheint, m\u00fcssen Sie eventuell den Button 'Nach neuen Modulen suchen' klicken, damit ProcessWire die \u00c4nderung erfasst."
         },
         "83168e6cb289d732cc78427b51f93153": {
             "text": "="
@@ -405,7 +405,7 @@
             "text": "Sie k\u00f6nnen das Modulverzeichnis durchsuchen und das Modul finden, das Sie herunterladen und installieren m\u00f6chten."
         },
         "a2eff7125bf22d0665eb96166b471821": {
-            "text": "Geben Sie den Klassennamen f\u00fcr das zu installierende Modul ein oder f\u00fcgen Sie ihn ein und klicken Sie dann auf die Schaltfl\u00e4che \"%s\", um fortzufahren."
+            "text": "Gib den Klassennamen f\u00fcr das zu installierende Modul ein oder f\u00fcgen Sie ihn ein und klicken Sie dann auf die Schaltfl\u00e4che \"%s\", um fortzufahren."
         },
         "9508427b7e6579d141f8c3b79dae6d96": {
             "text": "Modul manuell hinzuf\u00fcgen"

@@ -15,7 +15,7 @@
             "text": "Filter"
         },
         "602717d1b0adbf6ff41366d6371e375d": {
-            "text": "W\u00e4hlen Sie ein Feld. Nur Templates, die das Feld benutzen, werden angezeigt."
+            "text": "W\u00e4hle ein Feld. Nur Templates, die das Feld benutzen, werden angezeigt."
         },
         "3f8255a0588417dee11d58e2b92c59b4": {
             "text": "Templates mit Feld: %s"
@@ -36,7 +36,7 @@
             "text": "Templates gefunden in: %s"
         },
         "66c97c50054d31c710d96c0073ec4c78": {
-            "text": "Die folgenden neuen Templates wurden gefunden. W\u00e4hlen Sie die Boxen neben den Templates aus, die Sie hinzuf\u00fcgen m\u00f6chten."
+            "text": "Die folgenden neuen Templates wurden gefunden. W\u00e4hle die Boxen neben den Templates aus, die Sie hinzuf\u00fcgen m\u00f6chten."
         },
         "f392144a3652c7daf4ee4f0377497709": {
             "text": "Keine neuen Template-Dateien gefunden in: %s"
@@ -111,10 +111,10 @@
             "text": "*Um die Performance zu maximieren werden alle Cache-Dateien in einer Gruppe geleert anstatt individuell."
         },
         "7ebdcad871020558be972578bdf46a10": {
-            "text": "Geben Sie die anderen Seiten an, deren Cache geleert werden soll"
+            "text": "Gib die anderen Seiten an, deren Cache geleert werden soll"
         },
         "501a09415d30cab1819195e5566a0c0d": {
-            "text": "Wenn Seiten, die dieses Template nutzen, gespeichert werden, werden ihre Cache-Dateien geleert. W\u00e4hlen Sie unten alle weiteren Seiten, deren Cache ebenfalls geleert werden soll."
+            "text": "Wenn Seiten, die dieses Template nutzen, gespeichert werden, werden ihre Cache-Dateien geleert. W\u00e4hle unten alle weiteren Seiten, deren Cache ebenfalls geleert werden soll."
         },
         "d6b522c2ed20093505dfa63be2ba0454": {
             "text": "Caching beim Seitenaufbau f\u00fcr diese Benutzer"
@@ -135,7 +135,7 @@
             "text": "Den Cache deaktivierende POST-Variablen"
         },
         "f32d42af055544c46a989bceee851733": {
-            "text": "Geben Sie optional einen oder mehrere Variablennamen an. Falls sie mehrere angeben, trennen Sie diese durch ein Leerzeichen."
+            "text": "Gib optional einen oder mehrere Variablennamen an. Falls sie mehrere angeben, trennen Sie diese durch ein Leerzeichen."
         },
         "f1a2199b60e95006b3d66f9eb5a9e621": {
             "text": "Der Name, der benutzt wird, um dieses Template zu referenzieren. Dies ist auch der erwartete Dateiname der Template-Datei (mit .php-Suffix) in \/site\/templates\/."
@@ -162,7 +162,7 @@
             "text": "Liste der Felder, die in der Seitenliste im Admin-Bereich angezeigt werden"
         },
         "61b468c296e8ff1ed4c18bd86392e1cc": {
-            "text": "Geben Sie einen oder mehrere mit diesem Template verkn\u00fcpfte Feld-Namen an, die in der Seitenliste im Admin-Bereich angezeigt werden sollen, wenn Seiten aufgelistet werden, die diese Template verwenden. Falls leer, werden stattdessen die Felder verwendet, die in der Konfiguration des Moduls Seiten-Liste vorgegeben sind. Feld-Namen sollten mit einem Leerzeichen und\/oder Komma getrennt werden. Leere Felder werden ignoriert."
+            "text": "Gib einen oder mehrere mit diesem Template verkn\u00fcpfte Feld-Namen an, die in der Seitenliste im Admin-Bereich angezeigt werden sollen, wenn Seiten aufgelistet werden, die diese Template verwenden. Falls leer, werden stattdessen die Felder verwendet, die in der Konfiguration des Moduls Seiten-Liste vorgegeben sind. Feld-Namen sollten mit einem Leerzeichen und\/oder Komma getrennt werden. Leere Felder werden ignoriert."
         },
         "b1a8a50c7276f36aeca631c5f4d18c9d": {
             "text": "Sie k\u00f6nnen eines oder mehrere dieser Felder angeben:"
@@ -198,7 +198,7 @@
             "text": "Feld 'Name' im Inhalts-Tab anzeigen?"
         },
         "61788997b579a9bcfe17e394d394ad01": {
-            "text": "Voreingestellt ist, dass das integrierte Feld 'Name' im Einstellungs-Tab des Seiteneditors erscheint. W\u00e4hlen Sie diese Box aus, wenn Sie es stattdessen im Inhalts-Tab ausgeben m\u00f6chten."
+            "text": "Voreingestellt ist, dass das integrierte Feld 'Name' im Einstellungs-Tab des Seiteneditors erscheint. W\u00e4hle diese Box aus, wenn Sie es stattdessen im Inhalts-Tab ausgeben m\u00f6chten."
         },
         "e864c0d94cbc5dc0faf1ce78d9021e63": {
             "text": "API: $template->nameContentTab = 1; \/\/ oder mit 0 deaktivieren"
@@ -249,7 +249,7 @@
             "text": "Zul\u00e4ssige(s) Template(s) f\u00fcr Elternseiten"
         },
         "8d3a827d5474c79dc3434e5e29f7a80f": {
-            "text": "W\u00e4hlen Sie das\/die Template(s), welche(s) Elternseiten von Seiten, die dieses Template verwenden, haben d\u00fcrfen. Benutzen Sie dies nur, falls Sie die Platzierung von Seiten, die dieses Template verwenden, spezifisch einschr\u00e4nken m\u00f6chten."
+            "text": "W\u00e4hle das\/die Template(s), welche(s) Elternseiten von Seiten, die dieses Template verwenden, haben d\u00fcrfen. Benutzen Sie dies nur, falls Sie die Platzierung von Seiten, die dieses Template verwenden, spezifisch einschr\u00e4nken m\u00f6chten."
         },
         "dc70febc65985c326b6d7a85502ddc0a": {
             "text": "Falls keine ausgew\u00e4hlt werden, ist jedes Eltern-Template (innerhalb des Zugriffsrechte eines Benutzers) erlaubt. Zum Beispiel k\u00f6nnte ein Template 'angestellte' existieren, das nur Seiten mit dem Template 'firmen-uebersicht' als Elternseite haben darf."
@@ -258,7 +258,7 @@
             "text": "Zul\u00e4ssige(s) Template(s) f\u00fcr Unterseiten"
         },
         "fcdd2e278208618dfa795ed85ba1eb06": {
-            "text": "W\u00e4hlen Sie das\/die Template(s), welche(s) Unterseiten von Seiten, die dieses Template verwenden, haben d\u00fcrfen. Benutzen Sie dies nur, falls Sie die Platzierung von Seiten, die dieses Template verwenden, spezifisch einschr\u00e4nken m\u00f6chten."
+            "text": "W\u00e4hle das\/die Template(s), welche(s) Unterseiten von Seiten, die dieses Template verwenden, haben d\u00fcrfen. Benutzen Sie dies nur, falls Sie die Platzierung von Seiten, die dieses Template verwenden, spezifisch einschr\u00e4nken m\u00f6chten."
         },
         "9927f70231db8b53612513d00b934a7c": {
             "text": "Falls keine ausgew\u00e4hlt werden, ist jedes Template (innerhalb des Zugriffsrechte eines Benutzers) erlaubt. Zum Beispiel k\u00f6nnte ein Template 'news-liste' existieren, das nur Seiten mit dem Template 'news-meldung' oder 'presse-mitteilung' als Unterseiten haben darf."
@@ -291,13 +291,13 @@
             "text": "Nur HTTP"
         },
         "ecb1f1de9e0f813e37e40e2aa016c008": {
-            "text": "Falls Ihre Site ein SSL-Zertifikat besitzt und \u00fcber HTTPS erreichbar ist, k\u00f6nnen Sie einstellen, dass Seiten, die dieses Template nutzen, nur per HTTPS oder HTTP abrufbar sind. Falls Sie unten zum Beispiel 'Nur HTTPS' ausw\u00e4hlen und eine Anfrage f\u00fcr eine Seite per HTTP erfolgt, wird sie automatisch auf die HTTPS-Version umgeleitet. Standard ist, dass ProcessWire Verbindungen \u00fcber HTTP oder HTTPS zul\u00e4sst."
+            "text": "Falls Ihre Site ein SSL-Zertifikat besitzt und \u00fcber HTTPS erreichbar ist, kannst du einstellen, dass Seiten, die dieses Template nutzen, nur per HTTPS oder HTTP abrufbar sind. Falls Sie unten zum Beispiel 'Nur HTTPS' ausw\u00e4hlen und eine Anfrage f\u00fcr eine Seite per HTTP erfolgt, wird sie automatisch auf die HTTPS-Version umgeleitet. Standard ist, dass ProcessWire Verbindungen \u00fcber HTTP oder HTTPS zul\u00e4sst."
         },
         "707380d7bcc2ece9eead5a5879fb1c22": {
             "text": "M\u00f6chten Sie die Berechtigung verwalten, Seiten, die dieses Template verwenden, zu betrachten und zu bearbeiten?"
         },
         "22ac5f69365966a7ce509e349b23539a": {
-            "text": "Falls Sie 'Ja' ausw\u00e4hlen, k\u00f6nnen Sie festlegen, welche Benutzerrollen Zugriff auf Seiten haben, die dieses Template verwenden. Falls Sie 'Nein' ausw\u00e4hlen, erben Seiten, die dieses Template verwenden, die Zugriffsrechte Ihrer Elternseiten."
+            "text": "Falls Sie 'Ja' ausw\u00e4hlen, kannst du festlegen, welche Benutzerrollen Zugriff auf Seiten haben, die dieses Template verwenden. Falls Sie 'Nein' ausw\u00e4hlen, erben Seiten, die dieses Template verwenden, die Zugriffsrechte Ihrer Elternseiten."
         },
         "26b6d64574e88f30f407e16212dc4d57": {
             "text": "Was soll geschehen, wenn ein Benutzer ohne Zugriffsrechte versucht, eine Seite zu betrachten?"
@@ -312,7 +312,7 @@
             "text": "Login-Seite anzeigen: %s"
         },
         "2f2055affca16d8404e278fc1d6c3a07": {
-            "text": "Optional: Bei Bedarf k\u00f6nnen Sie Ihrer URL das Tag '{id}' (vielleicht als GET-Variable) hinzuf\u00fcgen. Es wird durch die ID der angeforderten Seite ersetzt."
+            "text": "Optional: Bei Bedarf kannst du Ihrer URL das Tag '{id}' (vielleicht als GET-Variable) hinzuf\u00fcgen. Es wird durch die ID der angeforderten Seite ersetzt."
         },
         "77b116ba76d6cad7420de0729f5437cb": {
             "text": "Sollen Seiten f\u00fcr Besucher ohne Zugriffsrechte durchsuchbar sein?"
@@ -357,7 +357,7 @@
             "text": "Felder, die gel\u00f6scht werden"
         },
         "c69da3a709ad376098eb517be436a12b": {
-            "text": "Sie haben eine \u00c4nderung der Feld-Gruppe von \"%1$s\" zu \"%2$s\" angefordert."
+            "text": "Du hast eine \u00c4nderung der Feld-Gruppe von \"%1$s\" zu \"%2$s\" angefordert."
         },
         "0cd878f5f6c3ecd2d309d74c608cf0e3": {
             "text": "Die folgenden Felder werden auf Seiten, die dieses Template verwenden, dauerhaft gel\u00f6scht:"
@@ -384,7 +384,7 @@
             "text": "Felder aus dem Template entfernen"
         },
         "297401f75a53c46e41a44c9d91738f1e": {
-            "text": "Sie haben angeordnet, eines oder mehrere Felder aus dem Template zu entfernen. Das bewirkt, dass mit dem\/den Feld(ern) verkn\u00fcpfte Daten dauerhaft gel\u00f6scht werden. Falls die zu l\u00f6schenden Felder viele Daten enthalten, kann die Ausf\u00fchrung dieses Vorgangs eine Weile dauern, nachdem Sie best\u00e4tigt und das Formular abgeschickt haben. Best\u00e4tigen Sie bitte, dass Sie dies verstanden haben und das\/die Feld(er) l\u00f6schen m\u00f6chten, indem Sie die unten stehenden Boxen ausw\u00e4hlen."
+            "text": "Du hast angeordnet, eines oder mehrere Felder aus dem Template zu entfernen. Das bewirkt, dass mit dem\/den Feld(ern) verkn\u00fcpfte Daten dauerhaft gel\u00f6scht werden. Falls die zu l\u00f6schenden Felder viele Daten enthalten, kann die Ausf\u00fchrung dieses Vorgangs eine Weile dauern, nachdem Sie best\u00e4tigt und das Formular abgeschickt haben. Best\u00e4tigen Sie bitte, dass Sie dies verstanden haben und das\/die Feld(er) l\u00f6schen m\u00f6chten, indem Sie die unten stehenden Boxen ausw\u00e4hlen."
         },
         "b9b9ac08c6bde335d1b5758d4dfcd1da": {
             "text": "Entferne Feld \"%1$s\" aus Template \"%2$s\""
@@ -576,7 +576,7 @@
             "text": "Template Umschalter"
         },
         "249d044ac9d6d23ba96d1515cc4717e4": {
-            "text": "Diesen Schalter generell nicht ausw\u00e4hlen, es sei denn Sie haben eine spezielle Verwendung daf\u00fcr."
+            "text": "Diesen Schalter generell nicht ausw\u00e4hlen, es sei denn Du hast eine spezielle Verwendung daf\u00fcr."
         },
         "0095a9fa74d1713e43e370a7d7846224": {
             "text": "Exportieren"
@@ -624,7 +624,7 @@
             "text": "Symbol"
         },
         "4f50a13dad7a9fb97496e4b62718d3a8": {
-            "text": "W\u00e4hlen Sie ein Symbol das diesem Template und den Seiten, welche dieses Template nutzen, zugeordnet wird (im Admin-Bereich)."
+            "text": "W\u00e4hle ein Symbol das diesem Template und den Seiten, welche dieses Template nutzen, zugeordnet wird (im Admin-Bereich)."
         },
         "e2cbec4ffca6b29170e0a79d38d2b6dd": {
             "text": "Umbenennen des Templates \u00fcbersprungen - bitte nach der laufenden Aktion vervollst\u00e4ndigen"
@@ -642,7 +642,7 @@
             "text": "Welche URL-Segmente sind zul\u00e4ssig?"
         },
         "db2a37c1bdec2b30f0c7c9d789b3bfcc": {
-            "text": "Geben Sie ein zul\u00e4ssiges Segment, einen Segment-Pfad oder einen regul\u00e4ren Ausdruck pro Zeile ein. Durch leer lassen ist alles zul\u00e4ssig."
+            "text": "Gib ein zul\u00e4ssiges Segment, einen Segment-Pfad oder einen regul\u00e4ren Ausdruck pro Zeile ein. Durch leer lassen ist alles zul\u00e4ssig."
         },
         "2d234a37f1f09a868ff9e51cbec93c0a": {
             "text": "Schema\/Protokoll"
@@ -753,7 +753,7 @@
             "text": "Standardm\u00e4ssig werden alle Einstellungen des Zugriffs f\u00fcr dieses Template durch den Seitenbaum vererbt, bis eine Seite mit einem anderen Template mit anderen Zugriffen dies \u00fcberschreibt."
         },
         "6aee0c8c870a84f930c97c2eb1427c8d": {
-            "text": "W\u00e4hlen Sie hier die Option \"Nein\", wenn das Vererben des Zugriffs zum Bearbeiten zwischen den Seiten, welche dieses Template nutzen, verhindert werden soll. Der Zugriff zum Ansehen wird weiterhin vererbt."
+            "text": "W\u00e4hle hier die Option \"Nein\", wenn das Vererben des Zugriffs zum Bearbeiten zwischen den Seiten, welche dieses Template nutzen, verhindert werden soll. Der Zugriff zum Ansehen wird weiterhin vererbt."
         },
         "2678dd0fb63b2adfb38fe14f66d6c6b5": {
             "text": "Erlaube Vererbung des Zugriffs zum Bearbeiten an Kindseiten, welche nicht durch Zugriff kontrolliert werden."
@@ -861,7 +861,7 @@
             "text": "Falls ausgew\u00e4hlt, werden Seiten, welche dieses Template nutzen, nur die Standard-Sprache verwenden."
         },
         "4b5a4101eef9107a93653ecef0418ed1": {
-            "text": "Geben Sie den Namen des neuen zu erstellenden Templates an. Der Klon wird angelegt, wenn Sie speichern. Falls Ihr Template-Verzeichnis beschreibbar ist und dem Template eine Datei zugeordnet ist, wird diese ebenfalls geklont."
+            "text": "Gib den Namen des neuen zu erstellenden Templates an. Der Klon wird angelegt, wenn Sie speichern. Falls Ihr Template-Verzeichnis beschreibbar ist und dem Template eine Datei zugeordnet ist, wird diese ebenfalls geklont."
         },
         "0ce8e11f27f5cff906b08ff533da5567": {
             "text": "Klon von Template \"%1$s\" erstellt mit Namen \"%2$s\"."
@@ -876,7 +876,7 @@
             "text": "Wenn Sie oben nur Felder hinzugef\u00fcgt haben, speichern Sie zuerst und kehren Sie dann hierher zur\u00fcck, um sie auszuw\u00e4hlen."
         },
         "6be7133083e1d91f772589bf24aa5e48": {
-            "text": "Geben Sie 0 an, um sie zu deaktivieren"
+            "text": "Gib 0 an, um sie zu deaktivieren"
         },
         "1f1e0f35a65380b2fb521f45ebe074d4": {
             "text": "Template-Namen k\u00f6nnen Buchstaben (a-z A-Z), Zahlen (0-9), Bindestriche und Unterstriche verwenden."
@@ -912,7 +912,7 @@
             "text": "Login-URL oder Seiten-ID zum Rendern umleiten"
         },
         "ba5068f94547142a71a790f6dedc9a77": {
-            "text": "Geben Sie die URL ein, zu der Sie umleiten m\u00f6chten ODER die Seiten-ID, die Sie rendern m\u00f6chten, wenn ein Benutzer keinen Zugriff hat."
+            "text": "Gib die URL ein, zu der Sie umleiten m\u00f6chten ODER die Seiten-ID, die Sie rendern m\u00f6chten, wenn ein Benutzer keinen Zugriff hat."
         },
         "9f0e0bbab28d57fef318155ea51c6d68": {
             "text": "Wenn Sie eine Seiten-ID angeben, beachten Sie bitte, dass die resultierende Seite f\u00fcr den Benutzer gerendert wird, unabh\u00e4ngig davon, ob er Ansichtsrechte hat oder nicht."
@@ -951,7 +951,7 @@
             "text": "Definieren Sie die benutzerdefinierten Felder f\u00fcr \"%s\". Es ist nicht notwendig, hier etwas anderes zu konfigurieren."
         },
         "1ee7f0f967f1817a4d0df8dac4105ebc": {
-            "text": "W\u00e4hlen Sie die Felder aus, die von diesem Template verwendet werden, und bringen Sie sie per Drag & Drop in die gew\u00fcnschte Reihenfolge."
+            "text": "W\u00e4hle die Felder aus, die von diesem Template verwendet werden, und bringen Sie sie per Drag & Drop in die gew\u00fcnschte Reihenfolge."
         },
         "2e5b330cc3f63247217f9a7aff0ba468": {
             "text": "Sie k\u00f6nnen auch auf den Feldnamen oder die Beschriftung klicken, um sie im Kontext dieses Templates zu bearbeiten, auf die Prozentanzeige klicken\/ziehen, um die Breite anzupassen, oder [ein neues Feld erstellen](%s)."
@@ -972,7 +972,7 @@
             "text": "Wenn Sie von einem anderen Template verwendete Felder kopieren m\u00f6chten, w\u00e4hlen Sie diese hier aus. Felder, die bereits in diesem Template vorhanden sind, werden nicht \u00fcbernommen."
         },
         "9fbbf36953078c8761263aac49cbcc76": {
-            "text": "Zum Deaktivieren leer lassen. Geben Sie \"title\" (ohne Anf\u00fchrungszeichen) ein, um den Namen automatisch aus dem Seitentitel zu generieren. [Weitere Optionen](%s), einschliesslich benutzerdefinierter Felder und Datumsformate, sind ebenfalls verf\u00fcgbar."
+            "text": "Zum Deaktivieren leer lassen. Gib \"title\" (ohne Anf\u00fchrungszeichen) ein, um den Namen automatisch aus dem Seitentitel zu generieren. [Weitere Optionen](%s), einschliesslich benutzerdefinierter Felder und Datumsformate, sind ebenfalls verf\u00fcgbar."
         },
         "cd0cf5a5ee30d30f0261238f5875a33b": {
             "text": "Verhindern Sie den direkten Zugriff auf Datei-Assets, die zu Seiten geh\u00f6ren, die dieses Template verwenden?"
@@ -1014,7 +1014,7 @@
             "text": "Tag-Name"
         },
         "8b3a3179c770d5cda3e5d38d7eb45ca2": {
-            "text": "W\u00e4hlen Sie alle Templates aus, die dieses Tag haben sollen"
+            "text": "W\u00e4hle alle Templates aus, die dieses Tag haben sollen"
         },
         "cb1828d1114a1e3b73c8ffd78723339c": {
             "text": "In der Liste der Templates als zugeklappt anzeigen?"
@@ -1029,7 +1029,7 @@
             "text": "Tag \"%1$s\" aus Template entfernt: %2$s"
         },
         "b8bda8719893c4a385d4025c60c78ec2": {
-            "text": "Mit Tags k\u00f6nnen Sie Sammlungen von Templates f\u00fcr die Auflistung erstellen."
+            "text": "Mit Tags kannst du Sammlungen von Templates f\u00fcr die Auflistung erstellen."
         },
         "9fc8691fab39cc1433cd39430edb0501": {
             "text": "Neues Tag hinzuf\u00fcgen"

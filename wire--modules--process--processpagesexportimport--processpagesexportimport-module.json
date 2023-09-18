@@ -33,7 +33,7 @@
             "text": "Keine Importdetails anzeigbar"
         },
         "6c1d0fdc993bfa095bfa6a0cb500742e": {
-            "text": "W\u00e4hlen Sie beim Erstellen dieser Seiten ein Template aus."
+            "text": "W\u00e4hle beim Erstellen dieser Seiten ein Template aus."
         },
         "612bd2323b570ffd7610d860b5fc5b9a": {
             "text": "OK: Ersetze TEMPLATE \"%1$s\" mit \"%2$s\""
@@ -177,7 +177,7 @@
             "text": "Elternseite ausw\u00e4hlen"
         },
         "8a6a2112bdf498013db64d59f301d886": {
-            "text": "W\u00e4hlen Sie die Elternseite der zu exportierenden Seiten. Die Kinder dieser Seite werden exportiert."
+            "text": "W\u00e4hle die Elternseite der zu exportierenden Seiten. Die Kinder dieser Seite werden exportiert."
         },
         "e128ece85361c066ea30a503fb868121": {
             "text": "Zus\u00e4tzliche Optionen"
@@ -261,7 +261,7 @@
             "text": "Seiten mit Elternseite \"%s\" k\u00f6nnen nicht importiert werden weil diese Seite hier nicht existiert."
         },
         "9d9d340fef6ece85d9fa8cb168e4cc4b": {
-            "text": "W\u00e4hlen Sie eine Elternseite aus, anstatt diese Seiten zu erstellen."
+            "text": "W\u00e4hle eine Elternseite aus, anstatt diese Seiten zu erstellen."
         },
         "b8fd4cfffa13fd37bbb33085b3d99559": {
             "text": "Ressourcenkonflikte"
@@ -297,7 +297,7 @@
             "text": "Falls keine Auswahl getroffen wird, werden alle unterst\u00fctzten Felder in den Export eingeschlossen."
         },
         "52bf0f8917ee90a9e2d755751c651cb3": {
-            "text": "W\u00e4hlen Sie immer die Option ZIP-Datei wenn Datei- oder Bild-Felder im Export enthalten sein sollen."
+            "text": "W\u00e4hle immer die Option ZIP-Datei wenn Datei- oder Bild-Felder im Export enthalten sein sollen."
         },
         "f27cd90ca25ec83caa63a757fc2efcb4": {
             "text": "Seiten exportieren Daten f\u00fcr copy\/paste"

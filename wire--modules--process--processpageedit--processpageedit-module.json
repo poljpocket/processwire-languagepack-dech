@@ -105,7 +105,7 @@
             "text": "Diese Seite ist f\u00fcr \u00c4nderungen gesperrt"
         },
         "386397f000925f7d90c87a913a678eed": {
-            "text": "Sie haben keine Berechtigung, diese Seite zu \u00e4ndern"
+            "text": "Du hast keine Berechtigung, diese Seite zu \u00e4ndern"
         },
         "36c2b914f293a142343cba0f3157d748": {
             "text": "Berechtigungen"
@@ -285,10 +285,10 @@
             "text": "Neue Redirect-URLs hinzuf\u00fcgen"
         },
         "71fc4eb5d7649ced69d2936060e7774c": {
-            "text": "Geben Sie zus\u00e4tzliche Pfade \/ URLs (eine pro Zeile) ein, die auf diese Seite weitergeleitet werden sollen."
+            "text": "Gib zus\u00e4tzliche Pfade \/ URLs (eine pro Zeile) ein, die auf diese Seite weitergeleitet werden sollen."
         },
         "1715e12396d2512d6a079d39809bd855": {
-            "text": "Geben Sie nur den URL-Pfad ein (z.B. \"\/hello\/world\/\"), schliessen Sie Schema, Domain, Port, Query-String oder Fragmente NICHT ein."
+            "text": "Gib nur den URL-Pfad ein (z.B. \"\/hello\/world\/\"), schliessen Sie Schema, Domain, Port, Query-String oder Fragmente NICHT ein."
         },
         "05977549ad6511429ee4d274f710771d": {
             "text": "Pfade sind relativ zur Site-Root, daher sollten Sie das Unterverzeichnis %s NICHT am Anfang einbeziehen."
@@ -369,7 +369,7 @@
             "text": "Keine Seite gefunden"
         },
         "16e420c38c1ef8f3708d849146207b74": {
-            "text": "Geben Sie die ID des erstellenden Benutzers ein."
+            "text": "Gib die ID des erstellenden Benutzers ein."
         },
         "802d4ac742bc4c352f14d68f10856b2d": {
             "text": "Der Zugang ist im Template dieser Seite definiert: %s"

@@ -15,7 +15,7 @@
             "text": "Tabellenfelder zur Darstellung im Admin"
         },
         "420fb882b998481add0d526522ffff81": {
-            "text": "Geben Sie hier die Namen der Felder (1 pro Zeile) an, welche als Spalten in der Tabelle angezeigt werden sollen. Um eine Spaltenbreite f\u00fcr das Feld festzulegen, gibt man \"feld_name=30\" an. \"30\" entspricht hier der Breite (in Prozent) der Spalte. Bei Angabe von Breiten darauf achten, dass die Summe aller Spalten 100 ergibt."
+            "text": "Gib hier die Namen der Felder (1 pro Zeile) an, welche als Spalten in der Tabelle angezeigt werden sollen. Um eine Spaltenbreite f\u00fcr das Feld festzulegen, gibt man \"feld_name=30\" an. \"30\" entspricht hier der Breite (in Prozent) der Spalte. Bei Angabe von Breiten darauf achten, dass die Summe aller Spalten 100 ergibt."
         },
         "290cc1b749092b6f62035343a4e4f9eb": {
             "text": "Sie k\u00f6nnen jedes vorgegebene oder eigene Felder angeben. Sie k\u00f6nnen ebenso Subfelder (field.subfield) verwenden, mit Feldern welche mehrere Eigenschaften beinhalten, wie page references."

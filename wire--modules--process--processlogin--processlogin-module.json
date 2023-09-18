@@ -24,7 +24,7 @@
             "text": "Passwort vergessen?"
         },
         "0d5dfb1efbd4144f5e7c8d80df1d09f1": {
-            "text": "Sie haben sich ausgeloggt"
+            "text": "Du hast dich ausgeloggt"
         },
         "1860fb17b107cbb39cf6bbfa61130803": {
             "text": "Profil bearbeiten"
@@ -99,7 +99,7 @@
             "text": "Dadurch wird den Benutzern bei der Anmeldung auf der Codeeingabeseite die Option \"An diesen Computer erinnern\" angezeigt."
         },
         "275269a543b575d0897e5a56d291cbf1": {
-            "text": "Geben Sie die Anzahl der Tage ein, f\u00fcr die der Browser\/Standort eines Benutzers gespeichert werden kann, oder 0, um ihn zu deaktivieren."
+            "text": "Gib die Anzahl der Tage ein, f\u00fcr die der Browser\/Standort eines Benutzers gespeichert werden kann, oder 0, um ihn zu deaktivieren."
         },
         "37eb4d02a9ee33ced10a5ad495bc7ad8": {
             "text": "Benutzer-Agent (Browser, Plattform und deren Versionen)"

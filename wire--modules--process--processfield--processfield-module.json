@@ -339,7 +339,7 @@
             "text": "Wollen Sie den Zugriff f\u00fcr dieses Feld verwalten?"
         },
         "8c234d4afc42f71cef48c0093be30aa5": {
-            "text": "Wenn aktiviert, k\u00f6nnen Sie den Zugriff zur Ansicht und Bearbeitung auf dieses Feld mit einer Benutzerrolle limitieren."
+            "text": "Wenn aktiviert, kannst du den Zugriff zur Ansicht und Bearbeitung auf dieses Feld mit einer Benutzerrolle limitieren."
         },
         "146cec6f36689ef0531abb613c24f68d": {
             "text": "Welche Benutzerrollen k\u00f6nnen dieses Feld ansehen und\/oder bearbeiten?"
@@ -516,7 +516,7 @@
             "text": "Fehler in Einstellung \"%s\""
         },
         "86cdc0e0ad458e6450b25153b0ca0248": {
-            "text": "(Sie haben \"%s\" angegeben)"
+            "text": "(Du hast \"%s\" angegeben)"
         },
         "ce1e5086faa587952093bfb31f7af1c1": {
             "text": "Kann nicht validiert werden"
@@ -540,7 +540,7 @@
             "text": "Zeigt alle Felder an, einschliesslich der eingebauten System- und permanenten Felder."
         },
         "5da3b0e9c19f86443f6ad42f6d0d1456": {
-            "text": "W\u00e4hlen Sie alle Felder aus, die dieses Stichwort haben sollen"
+            "text": "W\u00e4hle alle Felder aus, die dieses Stichwort haben sollen"
         },
         "2eea24744a636478929cd8cbbe444ded": {
             "text": "Zusammengeklappt in der Feldliste anzeigen?"

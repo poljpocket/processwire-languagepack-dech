@@ -9,7 +9,7 @@
             "text": "W\u00e4hlbare Optionen\/Tags Quelle"
         },
         "a1d8d28cd17bc9713cb6d9bf779b1422": {
-            "text": "Geben Sie diese hier an"
+            "text": "Gib diese hier an"
         },
         "2d4026ab7ebafbc34d0c0cee4bc6a8f9": {
             "text": "Laden von einer von Ihnen angegebenen URL (Ajax)"
@@ -36,7 +36,7 @@
             "text": "Liste der vordefinierten Optionen\/Tags"
         },
         "dcf387ef8e5f3f0bbd745b1855a2a9a5": {
-            "text": "Geben Sie vordefinierte Tags ein, 1 pro Zeile. Um einen separaten Wert und eine Bezeichnung f\u00fcr die Markierung zu definieren, geben Sie value=label in der Zeile an."
+            "text": "Gib vordefinierte Tags ein, 1 pro Zeile. Um einen separaten Wert und eine Bezeichnung f\u00fcr die Markierung zu definieren, geben Sie value=label in der Zeile an."
         },
         "b23854b10090d03184c424927a1c221f": {
             "text": "Tags d\u00fcrfen das unten ausgew\u00e4hlte Trennzeichen nicht enthalten, Labels aber schon."

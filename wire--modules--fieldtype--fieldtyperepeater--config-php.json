@@ -33,7 +33,7 @@
             "text": "Label f\u00fcr neu hinzu zuf\u00fcgendes Element"
         },
         "db9d65ca0ad208926207fbf99636b1f4": {
-            "text": "W\u00e4hlen Sie das gew\u00fcnschte Label f\u00fcr den \"Neues Element hinzuf\u00fcgen\" Text\/Button, oder leer lassen f\u00fcr den Standard."
+            "text": "W\u00e4hle das gew\u00fcnschte Label f\u00fcr den \"Neues Element hinzuf\u00fcgen\" Text\/Button, oder leer lassen f\u00fcr den Standard."
         },
         "ef9eb3b1c72a3d00e09495aa7ecf195a": {
             "text": "Sichtbarkeit des Repeater-Element im Editor"
@@ -120,7 +120,7 @@
             "text": "Um eine Tiefe von Elementen zu unterst\u00fctzen, hier die maximal erlaubte Tiefe eingeben oder zur Deaktivierung leer lassen."
         },
         "ea3a2c41fc47d9150f65147b030a3ad8": {
-            "text": "Beim Bearbeiten eines Repeaters k\u00f6nnen Sie die Tiefe ver\u00e4ndern. Klicken Sie auf den Verschiebe-Pfeil des Repeater-Elements und schieben das Element nach rechts oder links."
+            "text": "Beim Bearbeiten eines Repeaters kannst du die Tiefe ver\u00e4ndern. Klicken Sie auf den Verschiebe-Pfeil des Repeater-Elements und schieben das Element nach rechts oder links."
         },
         "c8a9e54dcabe5cdebed9c5bd1fa334d4": {
             "text": "Tiefen sind nullbasierend. Dies bedeutet, eine Tiefe von 3 erlaubt Tiefen von 0, 1, 2 und 3."

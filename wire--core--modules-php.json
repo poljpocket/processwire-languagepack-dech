@@ -3,7 +3,7 @@
     "textdomain": "wire--core--modules-php",
     "translations": {
         "3919fe955716c54c409b522a1003f3e0": {
-            "text": "Sie haben keine Berechtigung um dieses Modul auszuf\u00fchren"
+            "text": "Du hast keine Berechtigung um dieses Modul auszuf\u00fchren"
         },
         "8fbd3d16ca5c99185a023c9b7e6bb3e9": {
             "text": "Berechtigung hinzugef\u00fcgt: %s"
