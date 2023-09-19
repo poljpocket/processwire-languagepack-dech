@@ -30,7 +30,7 @@
             "text": "Wenn dieses Checkbox aktiviert ist, wird eine hochgeladene Datei mit demselben Namen wie eine vorhandene Datei die vorhandene Datei ersetzen (Beschreibung und Tags bleiben erhalten). Wenn diese Option nicht aktiviert ist, werden hochgeladene Dateinamen umbenannt, um eindeutig zu sein."
         },
         "2713d4f20fb5e7947fb2bb844d57322d": {
-            "text": "Bitte beachten Sie, dass bei aktivierter Option die mit AJAX hochgeladenen Dateien sofort beim Hochladen mit der Seite gespeichert werden und nicht erst, wenn Sie auf \"Speichern\" klicken. Daher sollten Sie diese Option nicht aktivieren, es sei denn, Du hast einen besonderen Bedarf daf\u00fcr."
+            "text": "Bitte beachte, dass bei aktivierter Option die mit AJAX hochgeladenen Dateien sofort beim Hochladen mit der Seite gespeichert werden und nicht erst, wenn Sie auf \"Speichern\" klicken. Daher sollten Sie diese Option nicht aktivieren, es sei denn, Du hast einen besonderen Bedarf daf\u00fcr."
         },
         "43628388b79e6369717cab54df99fc62": {
             "text": "Datei-Beschreibungen"

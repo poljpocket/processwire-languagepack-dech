@@ -9,7 +9,7 @@
             "text": "Nein"
         },
         "729a51874fe901b092899e9e8b31c97a": {
-            "text": "Sind Sie sicher?"
+            "text": "Bist du sicher?"
         },
         "f3f43e30c8c7d78c6ac0173515e57a00": {
             "text": "Filter"
@@ -24,7 +24,7 @@
             "text": "System-Templates anzeigen?"
         },
         "19a3fc9f896f1ef86f69f782be122c37": {
-            "text": "Standardm\u00e4ssig werden interne und System-Templates nicht angezeigt. Klicken Sie 'Ja', um sie der Templateliste unten hinzuzuf\u00fcgen."
+            "text": "Standardm\u00e4ssig werden interne und System-Templates nicht angezeigt. Klicke auf 'Ja', um sie der Templateliste unten hinzuzuf\u00fcgen."
         },
         "86ec8350e4740a4cc47328ee7c984d40": {
             "text": "Neue Templates hinzuf\u00fcgen"
@@ -36,7 +36,7 @@
             "text": "Templates gefunden in: %s"
         },
         "66c97c50054d31c710d96c0073ec4c78": {
-            "text": "Die folgenden neuen Templates wurden gefunden. W\u00e4hle die Boxen neben den Templates aus, die Sie hinzuf\u00fcgen m\u00f6chten."
+            "text": "Die folgenden neuen Templates wurden gefunden. W\u00e4hle die Boxen neben den Templates aus, die du hinzuf\u00fcgen m\u00f6chtest."
         },
         "f392144a3652c7daf4ee4f0377497709": {
             "text": "Keine neuen Template-Dateien gefunden in: %s"
@@ -45,7 +45,7 @@
             "text": "Ein neues Template ohne Datei anlegen"
         },
         "524fe63ba99d979ba854d38529c9abc1": {
-            "text": "Wenn Sie ein neues Template anlegen m\u00f6chten, obwohl zur Zeit keine Datei damit verkn\u00fcpft ist, geben Sie hier den Namen des Templates ein."
+            "text": "Wenn du ein neues Template anlegen m\u00f6chtest, obwohl zur Zeit keine Datei damit verkn\u00fcpft ist, gib hier den Namen des Templates ein."
         },
         "24a144ffc0e6aae299d3a23c2152e7fa": {
             "text": "Template bearbeiten: %s"
@@ -72,7 +72,7 @@
             "text": "Hinweis: L\u00f6schen des Templates entfernt es nur aus der Datenbank, die Template-Datei auf der Festplatte wird nicht gel\u00f6scht."
         },
         "0968f67bf85224770756cc134016da2b": {
-            "text": "Als Standard verwaltet jedes Template seine eigene Gruppe von Feldern. Falls Sie diesem Template die Felder eines anderen Templates zuweisen m\u00f6chten, w\u00e4hlen Sie es hier aus."
+            "text": "Als Standard verwaltet jedes Template seine eigene Gruppe von Feldern. Falls du diesem Template die Felder eines anderen Templates zuweisen m\u00f6chtest, w\u00e4hle es hier aus."
         },
         "6f8d1b93e4aad53511c85e29ed36b3d0": {
             "text": "(Standard)"

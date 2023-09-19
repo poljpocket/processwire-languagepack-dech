@@ -54,7 +54,7 @@
             "text": "Das gegebene Wort oder die gegebene Phrase befindet sich am Ende des Vergleichswertes."
         },
         "e0df0786238e11ca0d41f67eaf6d3701": {
-            "text": "Erweitern Sie die Suche um potenziell verwandte Begriffe und Wortvarianten."
+            "text": "Erweitere die Suche um potenziell verwandte Begriffe und Wortvarianten."
         },
         "64c83a96645ef7012024814ec8667639": {
             "text": "Alle angegebenen W\u00f6rter kommen im Vergleichswert vor, in beliebiger Reihenfolge."
@@ -129,10 +129,10 @@
             "text": "Werte mit Befehlen abgleichen: +Wort MUSS vorkommen, -Wort MUSS NICHT vorkommen, und Wort ohne Pr\u00e4fix kann vorkommen."
         },
         "9004a4ff1e6a2ceda507ea1986986057": {
-            "text": "F\u00fcgen Sie ein Sternchen f\u00fcr eine teilweise \u00dcbereinstimmung hinzu: Bar oder +Bar passt zu bar, barn, barge; w\u00e4hrend -Bar* verhindert, dass sie gefunden werden."
+            "text": "F\u00fcge ein Sternchen f\u00fcr eine teilweise \u00dcbereinstimmung hinzu: Bar oder +Bar passt zu bar, barn, barge; w\u00e4hrend -Bar* verhindert, dass sie gefunden werden."
         },
         "1fb86755a88f3b2c83a11aaaaef0d6ad": {
-            "text": "Verwenden Sie Anf\u00fchrungszeichen, um Phrasen abzugleichen: +(Muss \u00fcbereinstimmen), -(Darf nicht \u00fcbereinstimmen), oder (Kann \u00fcbereinstimmen)."
+            "text": "Verwende Anf\u00fchrungszeichen, um Phrasen abzugleichen: +(Muss \u00fcbereinstimmen), -(Darf nicht \u00fcbereinstimmen), oder (Kann \u00fcbereinstimmen)."
         },
         "13a4a02c365a44407beebb73dddbc554": {
             "text": "Beginnt mit"

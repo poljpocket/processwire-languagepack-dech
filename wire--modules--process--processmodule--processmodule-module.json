@@ -30,7 +30,7 @@
             "text": "Modul kann nicht deinstalliert werden"
         },
         "7c4ba7a5c907fd803087ccd0da925c45": {
-            "text": "Sie m\u00fcssen zun\u00e4chst andere Module deinstallieren"
+            "text": "Du musst zun\u00e4chst andere Module deinstallieren"
         },
         "c6ac99bad720428d69928c160e87c55e": {
             "text": "Dieses Modul hat keine Felder, die konfiguriert werden m\u00fcssen"
@@ -108,10 +108,10 @@
             "text": "Neu"
         },
         "5975f55a2bcd254c58d9fe16d7a21417": {
-            "text": "Falls Sie neue Module unter \/site\/modules\/ abgelegt haben, klicken sie diesen Button um sie zu finden."
+            "text": "Falls du neue Module unter \/site\/modules\/ abgelegt hast, klicke diesen Button, um sie zu finden."
         },
         "2b0c95ea68acdfcd4e4d995f89bf3b92": {
-            "text": "Dieses Modul scheint nicht kompatibel mit der verwendeten ProcessWire Version zu sein. Es kann trotzdem funktionieren, aber Sie sollten den Modul-Autor kontaktieren."
+            "text": "Dieses Modul scheint nicht kompatibel mit der verwendeten ProcessWire Version zu sein. Es kann trotzdem funktionieren, aber du solltest den Modul-Autor kontaktieren."
         },
         "5259630c836d951d40cd2771922dfb5e": {
             "text": "Die installierte Version ist bereits aktuell"
@@ -129,7 +129,7 @@
             "text": "Support Seite"
         },
         "baa2c21bbd137636014e8f357698761e": {
-            "text": "Bevor Sie fortfahren: vergewissern Sie sich, ob diese ZIP-Datei von einer vertrauensvollen Quelle stammt!"
+            "text": "Bevor du fortf\u00e4hrst: vergewissere dich, ob diese ZIP-Datei von einer vertrauensvollen Quelle stammt!"
         },
         "2d30ce478ce5e77c288d80f804617331": {
             "text": "Dieses Modul hat keine festgelegte URL und muss manuell installiert werden:"
@@ -267,19 +267,19 @@
             "text": "Modul von URL hinzuf\u00fcgen"
         },
         "dc975a9e6b0112228c42a6abbe82ae93": {
-            "text": "Vergewissern Sie sich, ob diese ZIP-Datei von einer vertrauensvollen Quelle stammt."
+            "text": "Vergewisser dich, ob diese ZIP-Datei von einer vertrauensvollen Quelle stammt."
         },
         "d5f38db4e3d76c9a7cda57c660ac0dad": {
             "text": "Modul ZIP-Datei URL"
         },
         "29b21610722fa13430132a8d4e757d1f": {
-            "text": "Herunterladen einer ZIP-Datei welche ein Modul enth\u00e4lt. Falls Sie ein bereits installiertes Modul herunterladen, wird die installierte Version mit der neu heruntergeladenen \u00fcberschrieben."
+            "text": "Herunterladen einer ZIP-Datei welche ein Modul enth\u00e4lt. Falls du ein bereits installiertes Modul herunterl\u00e4dst, wird die installierte Version mit der neu heruntergeladenen \u00fcberschrieben."
         },
         "e7aef889dd1b168dc269e9ddff6a57a5": {
             "text": "Modul ZIP-Datei"
         },
         "6010e3962902142283df28e6d1a1d897": {
-            "text": "Hochladen eine ZIP-Datei welche Modul Datei(en) enth\u00e4lt. Falls Sie ein bereits installiertes Modul hochladen, wird dies durch das hochgeladene \u00fcberschrieben."
+            "text": "Hochladen eine ZIP-Datei welche Modul Datei(en) enth\u00e4lt. Falls du ein bereits installiertes Modul hochlädst, wird dies durch das hochgeladene \u00fcberschrieben."
         },
         "822213aa38da92d8819e5c3b4ebe4c71": {
             "text": "\u00e4lter als das bereits installierte!"
@@ -288,7 +288,7 @@
             "text": "Fehler beim decodieren des JSON vom Web Service"
         },
         "19d1a8e075651f072ba0771e6cbc831b": {
-            "text": "Schauen Sie sich im Modul-Verzeichnis unter %s um"
+            "text": "Schaue dich im Modul-Verzeichnis unter %s um"
         },
         "67f02952b064d6064216f2639a516eca": {
             "text": "Ben\u00f6tigt Modul \"%s\" bevor es installiert werden kann"
@@ -330,7 +330,7 @@
             "text": "Autoload deaktiviert?"
         },
         "0e7a5c8e978678d4124240dafccdc636": {
-            "text": "Seien Sie vorsichtig, das markieren dieser Box kann das Modul oder ihre Seite st\u00f6ren. Nur zum tempor\u00e4ren Test verwenden."
+            "text": "Sei vorsichtig, Markieren dieser Box kann das Modul oder die Seite st\u00f6ren. Nur zum tempor\u00e4ren Test verwenden."
         },
         "7f3e66ccbb2c396210f9f58ad5a75e39": {
             "text": "Fehlersuche"
@@ -339,7 +339,7 @@
             "text": "Modul-Cache aktualisiert (%d Module)"
         },
         "326051e869bfb9785613fcb1e957a71e": {
-            "text": "Um ein Modul zu entfernen klicken Sie das Modul an (zum bearbeiten), dann w\u00e4hlen Sie 'Deinstallieren' und speichern es. Sobald es deinstalliert ist, kannst du die Modul-Datei(en) aus \/site\/modules\/ entfernen. Wenn es immer noch in der Liste oben erscheint, m\u00fcssen Sie eventuell den Button 'Nach neuen Modulen suchen' klicken, damit ProcessWire die \u00c4nderung erfasst."
+            "text": "Um ein Modul zu entfernen klicke das Modul an (zum bearbeiten), dann w\u00e4hle 'Deinstallieren' und speichere es. Sobald es deinstalliert ist, kannst du die Modul-Datei(en) aus \/site\/modules\/ entfernen. Wenn es immer noch in der Liste oben erscheint, musst du eventuell den Button 'Nach neuen Modulen suchen' klicken, damit ProcessWire die \u00c4nderung erfasst."
         },
         "83168e6cb289d732cc78427b51f93153": {
             "text": "="
@@ -393,7 +393,7 @@
             "text": "%s + Beenden"
         },
         "f83f6b012ba134e5168ab27e4587b2d3": {
-            "text": "Modulanforderungen sind nicht erf\u00fcllt, die Installation kann Probleme verursachen. Sind Sie sicher, dass Sie installieren wollen?"
+            "text": "Modulanforderungen sind nicht erf\u00fcllt, die Installation kann Probleme verursachen. Bist du sicher, dass du installieren willst?"
         },
         "43e59b407ace3714a7913e09ad22a594": {
             "text": "Hole Modul-Informationen"
@@ -402,10 +402,10 @@
             "text": "Jetzt herunterladen"
         },
         "bb767ff00426d9e68c6a09aef27403b1": {
-            "text": "Sie k\u00f6nnen das Modulverzeichnis durchsuchen und das Modul finden, das Sie herunterladen und installieren m\u00f6chten."
+            "text": "Du kannst das Modulverzeichnis durchsuchen und das Modul finden, das du herunterladen und installieren m\u00f6chtest."
         },
         "a2eff7125bf22d0665eb96166b471821": {
-            "text": "Gib den Klassennamen f\u00fcr das zu installierende Modul ein oder f\u00fcgen Sie ihn ein und klicken Sie dann auf die Schaltfl\u00e4che \"%s\", um fortzufahren."
+            "text": "Gib den Klassennamen f\u00fcr das zu installierende Modul ein oder f\u00fcge ihn ein und klicke dann auf die Schaltfl\u00e4che \"%s\", um fortzufahren."
         },
         "9508427b7e6579d141f8c3b79dae6d96": {
             "text": "Modul manuell hinzuf\u00fcgen"
@@ -417,16 +417,16 @@
             "text": "Modulname"
         },
         "35d7f630296905e9a75b2419e1b94182": {
-            "text": "1. Kopieren Sie die Dateien eines Moduls in ein neues Verzeichnis %s auf dem Server."
+            "text": "1. Kopiere die Dateien eines Moduls in ein neues Verzeichnis %s auf dem Server."
         },
         "f7cc8104813457b0243bd76df9c6a3e6": {
-            "text": "2. Klicken Sie auf die Schaltfl\u00e4che \"%s\" unten, um das neue Modul zu finden."
+            "text": "2. Klicken auf die Schaltfl\u00e4che \"%s\" unten, um das neue Modul zu finden."
         },
         "850f7ec6c49d2fb734785a8f52ad4a0e": {
-            "text": "3. Suchen Sie das neue Modul und klicken Sie auf die Schaltfl\u00e4che \"%s\" neben dem neuen Modul."
+            "text": "3. Suche das neue Modul und klicke auf die Schaltfl\u00e4che \"%s\" neben dem neuen Modul."
         },
         "aad2eb78d1969fc8b53488a5f5a054ba": {
-            "text": "Ersetzen Sie \"%s\" durch den tats\u00e4chlichen Modulnamen, der in der Regel der PHP-Klassenname ist."
+            "text": "Ersetze \"%s\" durch den tats\u00e4chlichen Modulnamen, der in der Regel der PHP-Klassenname ist."
         },
         "fb61fc284cf893013b55de02da9c9948": {
             "text": "Modul: %s"
@@ -444,7 +444,7 @@
             "text": "Fehlt"
         },
         "95044757c9e0df8925fe4a63a324d3d8": {
-            "text": "Module in der Datenbank, die im Dateisystem nicht gefunden werden. Klicken Sie unten auf einen Modulnamen, um Optionen zur Behebung anzuzeigen."
+            "text": "Module in der Datenbank, die im Dateisystem nicht gefunden werden. Klicke unten auf einen Modulnamen, um Optionen zur Behebung anzuzeigen."
         },
         "9ce8cbfc28789646dfd5d735f4da3d0b": {
             "text": "="
@@ -453,7 +453,7 @@
             "text": "Ung\u00fcltiger Modulname: \"%s\""
         },
         "ca400fb4206c743189c906d352bd4830": {
-            "text": "Bitte verwenden Sie Grossbuchstaben [A-Z] f\u00fcr das erste Zeichen, Kleinbuchstaben [a-z] f\u00fcr das zweite Zeichen und [a-z A-Z 0-9] f\u00fcr den Rest."
+            "text": "Bitte verwende Grossbuchstaben [A-Z] f\u00fcr das erste Zeichen, Kleinbuchstaben [a-z] f\u00fcr das zweite Zeichen und [a-z A-Z 0-9] f\u00fcr den Rest."
         },
         "4b0877a5e7f5ee4cc39e6fdfc4cd00dd": {
             "text": "Zum Beispiel: \"%s\""

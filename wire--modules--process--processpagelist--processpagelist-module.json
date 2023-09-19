@@ -45,7 +45,7 @@
             "text": "Unbekannter Fehler, bitte sp\u00e4ter noch einmal versuchen"
         },
         "bdfca484a650a86abab2578865834ac3": {
-            "text": "Jede Seite in einer PageList wird anhand eines Labels identifiziert, typischerweise ein Titel- oder \u00dcberschriftenfeld. Sie k\u00f6nnen festlegen welches Feld hier genutzt werden soll. Um mehrere Felder festzulegen, die Feldnamen mit einem Leerzeichen trennen oder eigenen Format-String verwenden und die Feldnamen in {Klammern} einschliessen. Falls das Feld zu einem Objekt f\u00fchrt (wie z.B. eine andere Seite) definieren Sie die Eigenschaft mit einem Punkt, z.B. anotherpage.title. Beachten Sie, wenn das festgelegte Feld zu einem leeren Wert f\u00fchrt, wird ProcessWire das Feld \"Name\" der Seite verwenden."
+            "text": "Jede Seite in einer PageList wird anhand eines Labels identifiziert, typischerweise ein Titel- oder \u00dcberschriftenfeld. Du kannst festlegen, welches Feld hier genutzt werden soll. Um mehrere Felder festzulegen, die Feldnamen mit einem Leerzeichen trennen oder eigenen Format-String verwenden und die Feldnamen in {Klammern} einschliessen. Falls das Feld zu einem Objekt f\u00fchrt (wie z.B. eine andere Seite) definiere die Eigenschaft mit einem Punkt, z.B. anotherpage.title. Beachte, wenn das festgelegte Feld zu einem leeren Wert f\u00fchrt, wird ProcessWire das Feld \"Name\" der Seite verwenden."
         },
         "7f46e875eed0badd2516b23657f4f320": {
             "text": "Aktionen zu Seiten beim hovern anzeigen?"
@@ -54,7 +54,7 @@
             "text": "Standardm\u00e4ssig erscheinen Aktionen zu einer Seite nach einem Klick (zumindest im Standard-Admin-Theme). Diese Box markieren um sie stattdessen beim hovern anzuzeigen."
         },
         "bcf77f341a0ec5189588bdad819c9ee7": {
-            "text": "Weitere Optionen hierzu finden Sie unter der $config->pageList Einstellung in \/wire\/config.php. Sie k\u00f6nnen diese Einstellungen in die \/site\/config.php kopieren, um sie zu \u00fcberschreiben."
+            "text": "Weitere Optionen hierzu findest du unter der $config->pageList Einstellung in \/wire\/config.php. Du kannst diese Einstellungen in die \/site\/config.php kopieren, um sie zu \u00fcberschreiben."
         },
         "eceb8bf0921f19bb3ae6972e7902c887": {
             "text": "Standardwert ist %d."

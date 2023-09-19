@@ -6,7 +6,7 @@
             "text": "Ein oder mehrere Templates f\u00fcr Elemente w\u00e4hlen"
         },
         "23eb7651d596fbeec11e64a6c67925d9": {
-            "text": "Dies sind die Templates, welche von Seiten genutzt werden, die mit diesem Feld verwaltet werden. Sie k\u00f6nnen auch ein neues Template zur spezifischen Verwendung mit diesem Feld erstellen."
+            "text": "Dies sind die Templates, welche von Seiten genutzt werden, die mit diesem Feld verwaltet werden. Du kannst auch ein neues Template zur spezifischen Verwendung mit diesem Feld erstellen."
         },
         "cc338cc1f9035c657183288e8a8679c4": {
             "text": "Bitte nach der Auswahl eines Templates auf Speichern dr\u00fccken. Die verbleibende Konfiguration im Eingabe-Tab wird dann mehr Kontext enthalten."
@@ -72,7 +72,7 @@
             "text": "Name des Feldes eintragen, nach welchem die Tabelle sortiert werden soll. F\u00fcr absteigende Sortierung dem Feldname einen f\u00fchrenden Bindestrich geben, z.B. \"-date\" statt \"date\"."
         },
         "bad3d943c1f7443d2205de6edd995d6e": {
-            "text": "Sie k\u00f6nnen mehrere Felder zur Sortierung festlegen, indem man sie mit einem Komma trennt, z.B. \"last_name, first_name, -birthday\"."
+            "text": "Du kannst mehrere Felder zur Sortierung festlegen, indem man sie mit einem Komma trennt, z.B. \"last_name, first_name, -birthday\"."
         },
         "8198f788c0d53d819605c0dcdfdfe413": {
             "text": "Leer lassen f\u00fcr manuelle Sortierung per Drag-and-Drop (Standard)."

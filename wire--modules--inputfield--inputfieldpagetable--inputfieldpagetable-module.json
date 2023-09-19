@@ -18,13 +18,13 @@
             "text": "Gib hier die Namen der Felder (1 pro Zeile) an, welche als Spalten in der Tabelle angezeigt werden sollen. Um eine Spaltenbreite f\u00fcr das Feld festzulegen, gibt man \"feld_name=30\" an. \"30\" entspricht hier der Breite (in Prozent) der Spalte. Bei Angabe von Breiten darauf achten, dass die Summe aller Spalten 100 ergibt."
         },
         "290cc1b749092b6f62035343a4e4f9eb": {
-            "text": "Sie k\u00f6nnen jedes vorgegebene oder eigene Felder angeben. Sie k\u00f6nnen ebenso Subfelder (field.subfield) verwenden, mit Feldern welche mehrere Eigenschaften beinhalten, wie page references."
+            "text": "Du kannst jedes vorgegebene oder eigene Felder angeben. Du kannst ebenso Subfelder (field.subfield) verwenden, mit Feldern welche mehrere Eigenschaften beinhalten, wie page references."
         },
         "c775db1b4b86e060f703a4e7cedc292f": {
             "text": "Eigene Felder, welche Ihren ausgew\u00e4hlten Templates zugewiesen sind, beinhalten folgendes:"
         },
         "8ea5a88f78fabcfdc906c9cb8ec013f2": {
-            "text": "Um hier eine Liste der m\u00f6glichen eigenen Felder zu sehen, w\u00e4hlen Sie ein Template im Details-Tab. Dann speichern und dies erneut aufrufen."
+            "text": "Um hier eine Liste der m\u00f6glichen eigenen Felder zu sehen, w\u00e4hle ein Template im Details-Tab. Dann speichern und dies erneut aufrufen."
         },
         "34ff6bbc0c075f35e92dc68a218b7cc2": {
             "text": "Automatisches Format f\u00fcr Seitennamen"

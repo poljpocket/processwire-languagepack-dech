@@ -9,7 +9,7 @@
             "text": "Bitte f\u00fcgen sie diesem Repeater Felder aus dem Tab \"Details\" hinzu."
         },
         "f41ae5ce37aeed3613288bb8c0cc3489": {
-            "text": "Definieren Sie die von diesem Repeater benutzten Felder. Sie k\u00f6nnen die Felder mittels Drag 'n' Drop in die gew\u00fcnschte Reihenfolge bringen."
+            "text": "Definiere die von diesem Repeater benutzten Felder. Du kannst die Felder mittels Drag 'n' Drop in die gew\u00fcnschte Reihenfolge bringen."
         },
         "6daa35fd97a645b8e37cae080eab3de9": {
             "text": "Feld hinzuf\u00fcgen"
@@ -21,10 +21,10 @@
             "text": "Feldname eingeben zur Verwendung als Repeater-Label im Seiten-Editor, oder leer lassen f\u00fcr automatische Erstellung."
         },
         "699a4d80b29a2b87e8bea7946afebe8e": {
-            "text": "Zur Verwendung von mehreren Feldern, oder zur Festlegung eines eigenen Format-Strings, umschliessen Sie Feldnamen mit {Klammern}."
+            "text": "Zur Verwendung von mehreren Feldern, oder zur Festlegung eines eigenen Format-Strings, umschliesse Feldnamen mit {Klammern}."
         },
         "c5e90fa5edbe00c619ca4d69c3692627": {
-            "text": "Um jedem Label eine Repeater-Index-Nummer mitzugeben, f\u00fcgen Sie \"#n\" irgendwo in ihrem Format-String hinzu."
+            "text": "Um jedem Label eine Repeater-Index-Nummer mitzugeben, f\u00fcge \"#n\" irgendwo im Format-String hinzu."
         },
         "4c95bcccf333bef2208b02fbd212af55": {
             "text": "Beispiel: #n: {title}"
@@ -75,10 +75,10 @@
             "text": "Repeater-Typ"
         },
         "cb1f0ec5795fd6ab9a2e980b428cfff5": {
-            "text": "'attached': Der Repeater wird sein Template und seine Eltern-Seite selbst verwalten, ohne dass Sie etwas davon mitbekommen oder dar\u00fcber nachdenken m\u00fcssen."
+            "text": "'attached': Der Repeater wird sein Template und seine Eltern-Seite selbst verwalten, ohne dass du etwas davon mitbekommst oder dar\u00fcber nachdenken musst."
         },
         "e3d6af2ddc6a90779dd75a3f9c753d7f": {
-            "text": "'detached': Sie k\u00f6nnen Template und Eltern-Seite des Repeaters verschieben und ver\u00e4ndern, wie sie es f\u00fcr richtig halten."
+            "text": "'detached': Du kannst Template und Eltern-Seite des Repeaters verschieben und ver\u00e4ndern, wie du es f\u00fcr richtig h\u00e4ltst."
         },
         "77e23d8e1ff8e93bfc6e188f62e409bd": {
             "text": "Hinweise: Falls 'detached' gew\u00e4hlt wird, wird ProcessWire Eltern-Seite oder Template nicht l\u00f6schen, falls das Feld gel\u00f6scht wird."

@@ -15,7 +15,7 @@
             "text": "Wert f\u00fcr: Nicht ausgew\u00e4hlt"
         },
         "371048ea93404f39d61ae613be3a0b36": {
-            "text": "Erscheint nur in Ergebnis-Eintr\u00e4gen, nicht im Formular selbst. Sie sollten es leer lassen, sofern Sie ihm keinen spezifischen Wert zuweisen m\u00f6chten."
+            "text": "Erscheint nur in Ergebnis-Eintr\u00e4gen, nicht im Formular selbst. Du solltest es leer lassen, sofern du ihm keinen spezifischen Wert zuweisen m\u00f6chtest."
         },
         "4f8222964f9a317cef99dddc23a121bd": {
             "text": "="
@@ -30,7 +30,7 @@
             "text": "Checkbox-Beschriftung"
         },
         "ad96619d37c6ca42363be76aba496b26": {
-            "text": "Wenn Sie separate Feld- und Checkboxbeschriftungen haben m\u00f6chten, geben Sie die Beschriftung an, die hier neben der Checkbox angezeigt wird."
+            "text": "Wenn du separate Feld- und Checkboxbeschriftungen haben m\u00f6chtest, gib die Beschriftung an, die hier neben der Checkbox angezeigt wird."
         },
         "fee76a03fa4f7d7f0cbb391c9474316d": {
             "text": "Wenn nicht angegeben, wird stattdessen die Feldbezeichnung verwendet."

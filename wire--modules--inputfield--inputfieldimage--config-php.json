@@ -12,7 +12,7 @@
             "text": "Im Admin wird die Liste der Bilder standardm\u00e4ssig in diesem Modus angezeigt. Der Benutzer kann dies jederzeit \u00e4ndern, indem er auf die Symbole in der oberen rechten Ecke des Feldes klickt."
         },
         "e6c7b90087278c53b5361182358a2d92": {
-            "text": "Wenn Sie dieses Bildfeld k\u00fcrzlich verwendet haben, m\u00fcssen Sie Ihre Cookies l\u00f6schen, bevor Sie die \u00c4nderungen in dieser Einstellung sehen."
+            "text": "Wenn du dieses Bildfeld k\u00fcrzlich verwendet hast, musst du deine Cookies l\u00f6schen, bevor du die \u00c4nderungen in dieser Einstellung sehen kannst."
         },
         "a188c29fb8020eee47113073e366f78e": {
             "text": "Quadratische Bilder"
@@ -51,7 +51,7 @@
             "text": "Gilt f\u00fcr JPG-, PNG- und GIF-Bilder."
         },
         "1a2b9bdaad8fc3ebd6b83463a0def69e": {
-            "text": "Gib den Wert in Pixel ein oder lassen Sie ihn leer, wenn es keine Begrenzung gibt."
+            "text": "Gib den Wert in Pixel ein oder lasse ihn leer, wenn es keine Begrenzung gibt."
         },
         "e69ccb31941d2fd7923c6b0c01957db3": {
             "text": "Maximale Breite f\u00fcr hochgeladene Bilder"
@@ -66,7 +66,7 @@
             "text": "Mit der clientseitigen Gr\u00f6ssen\u00e4nderung kannst du die Dateigr\u00f6sse und -abmessungen vor dem Hochladen reduzieren."
         },
         "c265ab5c0405e78595f05a15d5279278": {
-            "text": "Wenn Sie die clientseitige Gr\u00f6ssen\u00e4nderung verwenden, geben Sie bitte sowohl die maximale Breite *als auch* die maximale H\u00f6he in den Feldern oben oder die maximalen Megapixel in dem Feld unten an."
+            "text": "Wenn du die clientseitige Gr\u00f6ssen\u00e4nderung verwendest, gib bitte sowohl die maximale Breite *als auch* die maximale H\u00f6he in den Feldern oben oder die maximalen Megapixel in dem Feld unten an."
         },
         "edcf99dacdc6160d6eb8d2efb90ee189": {
             "text": "Client-seitige Gr\u00f6ssen\u00e4nderung verwenden, wenn m\u00f6glich"

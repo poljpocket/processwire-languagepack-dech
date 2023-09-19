@@ -18,19 +18,19 @@
             "text": "Gib als erste Option ein Gleichheitszeiten \"=\" an, um der Liste eine leere Option voranzustellen"
         },
         "378f6008c3dc6eb2be984683df372592": {
-            "text": "Stellen Sie einer Option ein Pluszeichen voran, um sie vorauszuw\u00e4hlen. Beispiel: +My Option"
+            "text": "Stelle einer Option ein Pluszeichen voran, um sie vorauszuw\u00e4hlen. Beispiel: +My Option"
         },
         "75d2fefda1196dd14f506b0273ebed38": {
-            "text": "Um Wert und Beschriftung zu unterscheiden, trennen Sie diese mit einem Gleichheitszeichen. Beispiel: value=My Option"
+            "text": "Um Wert und Beschriftung zu unterscheiden, trenne diese mit einem Gleichheitszeichen. Beispiel: value=My Option"
         },
         "663f303f44a9a25504e3c434fc37b34d": {
-            "text": "Um eine Optionen-Gruppe (optgroup) zu erzeugen, r\u00fccken Sie die Optionen in der Gruppe um 3 oder mehr Leerzeichen ein."
+            "text": "Um eine Optionen-Gruppe (optgroup) zu erzeugen, r\u00fccke die Optionen in der Gruppe um 3 oder mehr Leerzeichen ein."
         },
         "7c63f89ebf4832b00f3e7365c794b642": {
-            "text": "Um vorausgew\u00e4hlte Standardwerte zu erhalten, tragen Sie die optionalen Werte (einen pro Zeile) unten ein."
+            "text": "Um vorausgew\u00e4hlte Standardwerte zu erhalten, trage die optionalen Werte (einen pro Zeile) unten ein."
         },
         "032f6def0f9076885bcd8366ce324178": {
-            "text": "Um einen vorausgew\u00e4hlten Standardwert zu erhalten, tragen Sie den optionalen Wert unten ein."
+            "text": "Um einen vorausgew\u00e4hlten Standardwert zu erhalten, trage den optionalen Wert unten ein."
         },
         "31ce3cdcd67850870b616f75b555bbc5": {
             "text": "Standardwert"
@@ -42,7 +42,7 @@
             "text": "WICHTIG: Der Standardwert wird nur verwendet wenn dieses Feld ein Pflichtfeld ist (siehe Checkbox \"Pflichtfeld\")."
         },
         "be1ae5e510797cd29556ba58e16bb3cd": {
-            "text": "Um mehrsprachige Option-Labels zu verwenden, lesen Sie bitte die Anweisungen unter diesem Feld."
+            "text": "Um mehrsprachige Option-Labels zu verwenden, lese bitte die Anweisungen unter diesem Feld."
         },
         "e1d42070d11f4e125dd41933a7931336": {
             "text": "Anweisungen"
@@ -57,7 +57,7 @@
             "text": "Wir empfehlen die Verwendung von value=label, wobei der Wert in allen Sprachen gleich ist und das Label \u00fcbersetzt wird."
         },
         "276062e72d8dad493a3c12ee48129c09": {
-            "text": "Definieren Sie zun\u00e4chst Ihre Standard-Sprachoptionen, und kopieren Sie dann in die anderen Sprachen und \u00fcbersetzen Sie Labels."
+            "text": "Definiere zun\u00e4chst deine Standard-Sprachoptionen, und kopiere sie dann in die anderen Sprachen und \u00fcbersetze Labels."
         },
         "1de150b2c32ea78f720ed5680ede3e36": {
             "text": "Ausgew\u00e4hlte Optionen und Optionsgruppen werden in der Standardsprache definiert; die anderen Eingabefelder dienen nur der Label-\u00dcbersetzung."
