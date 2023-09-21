@@ -3,7 +3,7 @@
     "textdomain": "wire--modules--inputfield--inputfieldimage--inputfieldimage-module",
     "translations": {
         "7e4cc6c00140cefcecd178df1836fbba": {
-            "text": "Das Bild wurde auf die maximal erlaubte Gr\u00f6\u00dfe skaliert"
+            "text": "Das Bild wurde auf die maximal erlaubte Gr\u00f6sse skaliert"
         },
         "fff0d600f8a0b5e19e88bfb821dd1157": {
             "text": "Bilder"
@@ -15,10 +15,10 @@
             "text": "Nicht zul\u00e4ssiges Bild"
         },
         "41cfe40655c4b51507eff9d22bd777f2": {
-            "text": "Bild von %s entspricht nicht der Mindestgr\u00f6\u00dfe"
+            "text": "Bild von %s entspricht nicht der Mindestgr\u00f6sse"
         },
         "5e244fccb2d4cda18bebf756dacce94c": {
-            "text": "Bild von %s \u00fcberschreitet die maximal erlaubte Gr\u00f6\u00dfe"
+            "text": "Bild von %s \u00fcberschreitet die maximal erlaubte Gr\u00f6sse"
         },
         "d388632d05e8826abe4b95de0b110529": {
             "text": "Zuschneiden"
@@ -30,7 +30,7 @@
             "text": "Dimensionen"
         },
         "b18c29b8470190a02813415a04a2191f": {
-            "text": "Dateigr\u00f6\u00dfe"
+            "text": "Dateigr\u00f6sse"
         },
         "7dce122004969d56ae2e0245cb754d35": {
             "text": "Bearbeiten"
@@ -117,7 +117,7 @@
             "text": "Fokus"
         },
         "819258e827e9ef9ba926940f30b2697e": {
-            "text": "Ziehen Sie den Kreis zum Fokuszentrum"
+            "text": "Ziehe den Kreis zum Fokuszentrum"
         },
         "40c760714d188227815e2e1ed3369c29": {
             "text": "Fokus entfernen"

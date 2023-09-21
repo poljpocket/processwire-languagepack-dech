@@ -27,7 +27,7 @@
             "text": "Angezeigter Name des Seitenfeldes"
         },
         "8593fb74b02478b2734e442f86507d7b": {
-            "text": "Optional k\u00f6nnen Sie diese Einstellung innerhalb eines jeden Templates \u00fcberschreiben (unter \"Erweitert\")."
+            "text": "Optional kannst du diese Einstellung innerhalb eines jeden Templates \u00fcberschreiben (unter \"Erweitert\")."
         },
         "43da4fffe875f34908241df94ccb535b": {
             "text": "Anzahl der Seiten welche ohne Pagination angezeigt werden"
@@ -45,16 +45,16 @@
             "text": "Unbekannter Fehler, bitte sp\u00e4ter noch einmal versuchen"
         },
         "bdfca484a650a86abab2578865834ac3": {
-            "text": "Jede Seite in einer PageList wird anhand eines Labels identifiziert, typischerweise ein Titel- oder \u00dcberschriftenfeld. Sie k\u00f6nnen festlegen welches Feld hier genutzt werden soll. Um mehrere Felder festzulegen, die Feldnamen mit einem Leerzeichen trennen oder eigenen Format-String verwenden und die Feldnamen in {Klammern} einschliessen. Falls das Feld zu einem Objekt f\u00fchrt (wie z.B. eine andere Seite) definieren Sie die Eigenschaft mit einem Punkt, z.B. anotherpage.title. Beachten Sie, wenn das festgelegte Feld zu einem leeren Wert f\u00fchrt, wird ProcessWire das Feld \"Name\" der Seite verwenden."
+            "text": "Jede Seite in einer PageList wird anhand eines Labels identifiziert, typischerweise ein Titel- oder \u00dcberschriftenfeld. Du kannst festlegen, welches Feld hier genutzt werden soll. Um mehrere Felder festzulegen, die Feldnamen mit einem Leerzeichen trennen oder eigenen Format-String verwenden und die Feldnamen in {Klammern} einschliessen. Falls das Feld zu einem Objekt f\u00fchrt (wie z.B. eine andere Seite) definiere die Eigenschaft mit einem Punkt, z.B. anotherpage.title. Beachte, wenn das festgelegte Feld zu einem leeren Wert f\u00fchrt, wird ProcessWire das Feld \"Name\" der Seite verwenden."
         },
         "7f46e875eed0badd2516b23657f4f320": {
             "text": "Aktionen zu Seiten beim hovern anzeigen?"
         },
         "04f8c71ea1d550c45b3c987978fe56b3": {
-            "text": "Standardm\u00e4\u00dfig erscheinen Aktionen zu einer Seite nach einem Klick (zumindest im Standard-Admin-Theme). Diese Box markieren um sie stattdessen beim hovern anzuzeigen."
+            "text": "Standardm\u00e4ssig erscheinen Aktionen zu einer Seite nach einem Klick (zumindest im Standard-Admin-Theme). Diese Box markieren um sie stattdessen beim hovern anzuzeigen."
         },
         "bcf77f341a0ec5189588bdad819c9ee7": {
-            "text": "Weitere Optionen hierzu finden Sie unter der $config->pageList Einstellung in \/wire\/config.php. Sie k\u00f6nnen diese Einstellungen in die \/site\/config.php kopieren, um sie zu \u00fcberschreiben."
+            "text": "Weitere Optionen hierzu findest du unter der $config->pageList Einstellung in \/wire\/config.php. Du kannst diese Einstellungen in die \/site\/config.php kopieren, um sie zu \u00fcberschreiben."
         },
         "eceb8bf0921f19bb3ae6972e7902c887": {
             "text": "Standardwert ist %d."
@@ -108,10 +108,10 @@
             "text": "Diese Seiten in Seitenliste(n) ausblenden"
         },
         "41df189ac4766e373988ce9c915491bc": {
-            "text": "W\u00e4hlen Sie eine oder mehrere Seiten aus, die nicht in der\/den Seitenliste(n) erscheinen sollen."
+            "text": "W\u00e4hle eine oder mehrere Seiten aus, die nicht in der\/den Seitenliste(n) erscheinen sollen."
         },
         "7b4ae78013cd06d78b6b04f15dcbf69c": {
-            "text": "Au\u00dfer wenn (UND-Bedingung)"
+            "text": "Ausser wenn (UND-Bedingung)"
         },
         "d60116abe437a67aba5ba11a37144d33": {
             "text": "System im Debug-Modus"

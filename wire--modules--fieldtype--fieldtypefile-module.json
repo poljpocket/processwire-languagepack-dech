@@ -6,7 +6,7 @@
             "text": "Erlaubte Dateiformate"
         },
         "b3f2fb9ff683cc6bb4e353a8c443260c": {
-            "text": "Alle erlaubten Dateiformate eintragen. Jedes Format mit einem Leerzeichen trennen. Keine Punkte oder Kommas. Es wird nicht wird zwischen Gro\u00df- und Kleinschreibung unterschieden."
+            "text": "Alle erlaubten Dateiformate eintragen. Jedes Format mit einem Leerzeichen trennen. Keine Punkte oder Kommas. Es wird nicht wird zwischen Gross- und Kleinschreibung unterschieden."
         },
         "6231c154d164f467041abbb0151816dc": {
             "text": "Maximale erlaubte Anzahl an Dateien"
@@ -39,7 +39,7 @@
             "text": "Formatierter Wert"
         },
         "f09906b55a7a66786de08cb25550a2c8": {
-            "text": "W\u00e4hlen Sie den Typ des Wertes, welchen dieses Feld ausgeben soll, wenn \u00fcber die API auf dem Frontend Ihrer Seite darauf zugegriffen wird."
+            "text": "W\u00e4hle den Typ des Wertes, welchen dieses Feld ausgeben soll, wenn \u00fcber die API auf dem Frontend Ihrer Seite darauf zugegriffen wird."
         },
         "ffb520d31a51841782cf1cba617fc875": {
             "text": "Wenn die Formatierung der Ausgabe nicht aktiv ist, entspricht der Wert immer einem Array (WireArray)."
@@ -54,28 +54,28 @@
             "text": "Einzelnes Element (null falls leer)"
         },
         "6f836d738a527f80156286edc9d1f829": {
-            "text": "Gerenderte Textfolge (die Sie anbieten)"
+            "text": "Gerenderte Textfolge (die du anbietest)"
         },
         "ad3f5d66e216a4f1b65654b8b70d592f": {
             "text": "Gerenderte Textfolge"
         },
         "fefb41e13016890d511b8d55d8057c37": {
-            "text": "Gibt die Textfolge aus, welche Sie als Wert f\u00fcr dieses Feld w\u00fcnschen. Falls das Feld mehrere Elemente enth\u00e4lt, wird die Textfolge mehrmals ausgegeben. Enth\u00e4lt das Feld keine Elemente, wird eine leere Textfolge ausgegeben."
+            "text": "Gibt die Textfolge aus, welche du als Wert f\u00fcr dieses Feld w\u00fcnschst. Falls das Feld mehrere Elemente enth\u00e4lt, wird die Textfolge mehrmals ausgegeben. Enth\u00e4lt das Feld keine Elemente, wird eine leere Textfolge ausgegeben."
         },
         "839047fe3f6109257399fe301ddb7912": {
-            "text": "Sie k\u00f6nnen jeden der folgenden Tags verwenden:"
+            "text": "Du kannst jeden der folgenden Tags verwenden:"
         },
         "a1ede0a9a3c447cb83c7b6598dc556ff": {
             "text": "Standardwert (wenn leer)"
         },
         "05ac72cc4df427baf9db44228a577ed7": {
-            "text": "Optional w\u00e4hlen Sie eine Seite welche den Standardwert (in selben Feld) enth\u00e4lt. Es bleibt ihnen \u00fcberlassen, eine Seite speziell f\u00fcr diesen Zweck zu erstellen."
+            "text": "Optional w\u00e4hlst du eine Seite, welche den Standardwert (in selben Feld) enth\u00e4lt. Es bleibt dir \u00fcberlassen, eine Seite speziell f\u00fcr diesen Zweck zu erstellen."
         },
         "b17288f2ed130badc7ac8919f95fd5f1": {
             "text": "Text-Formatierer (f\u00fcr Dateibeschreibung)"
         },
         "8d664d296530bbabc76043e4e499b272": {
-            "text": "W\u00e4hlen Sie einen oder mehrere Text-Formatierer (und ihre Reihenfolge), welche auf die Dateibeschreibung angewendet werden, wenn die Formatierung der Ausgabe aktiviert ist. Mindestens der HTML Entity Encoder wird empfohlen."
+            "text": "W\u00e4hle einen oder mehrere Text-Formatierer (und ihre Reihenfolge), welche auf die Dateibeschreibung angewendet werden, wenn die Formatierung der Ausgabe aktiviert ist. Mindestens der HTML Entity Encoder wird empfohlen."
         },
         "a8d5114d10f7846bf0263c4e4207137e": {
             "text": "Einstellungen wurden noch nicht ausgef\u00fchrt."

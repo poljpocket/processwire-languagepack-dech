@@ -6,10 +6,10 @@
             "text": "Wie soll der formatierte Wert Ihres Umschaltfeldes aussehen?"
         },
         "6309837e6ce0a3f0fa946345c7167eb3": {
-            "text": "W\u00e4hlen Sie den von %s zur\u00fcckgegebenen formatierten Wert."
+            "text": "W\u00e4hle den von %s zur\u00fcckgegebenen formatierten Wert."
         },
         "be626e72635b0ea8fbdafa5d3028fcb4": {
-            "text": "Bitte beachten Sie auch den Reiter \"Eingabe\" f\u00fcr alle anderen Umschaltfeld-Einstellungen."
+            "text": "Bitte beachte auch den Reiter \"Eingabe\" f\u00fcr alle anderen Umschaltfeld-Einstellungen."
         },
         "f94e479441f41c15b899438240ca67d1": {
             "text": "F\u00fcr alle oben genannten F\u00e4lle wird die Nichtauswahl immer durch eine leere Zeichenfolge dargestellt."
@@ -27,7 +27,7 @@
             "text": "Boolisch: Wahr oder falsch f\u00fcr Ja\/Nein-Zust\u00e4nde."
         },
         "53559d654a38f34b067b188cde584853": {
-            "text": "String: Verwenden Sie Textbeschriftungen, die mit den \"Eingabe\"-Einstellungen konfiguriert sind."
+            "text": "String: Verwende Textbeschriftungen, die mit den \"Eingabe\"-Einstellungen konfiguriert sind."
         },
         "047f245cdf987a38461e1a12559ff71a": {
             "text": "Entit\u00e4ten: Wie oben (String), aber f\u00fcr die HTML-Ausgabe kodierte Entit\u00e4t."

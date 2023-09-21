@@ -3,7 +3,7 @@
     "textdomain": "wire--modules--process--processfield--processfieldexportimport-php",
     "translations": {
         "71eaa2b13692809e39c2f0c36e7f1d7f": {
-            "text": "W\u00e4hlen Sie die zu exportierenden Felder aus"
+            "text": "W\u00e4hle die zu exportierenden Felder aus"
         },
         "2f1fb3d9f25082e7fdb0befdad16da5f": {
             "text": "Daten exportieren"
@@ -45,7 +45,7 @@
             "text": "\u00c4nderungen \u00fcbernehmen"
         },
         "16babeb0401a3e00da9891b97e94d6fe": {
-            "text": "Ihre \u00c4nderungen wurden durchgef\u00fchrt!"
+            "text": "Deine \u00c4nderungen wurden durchgef\u00fchrt!"
         },
         "15055fb4c054396bf293c21c12c578be": {
             "text": "Keine \u00c4nderungen vorhanden"
@@ -129,10 +129,10 @@
             "text": "Wir empfehlen, den Typ dieses Feldes manuell auf \"%s\" zu \u00e4ndern, um dann danach weitere \u00c4nderungen durch zu f\u00fchren."
         },
         "47a35a358887cc2c9994fb517d6a2b0b": {
-            "text": "Manchmal k\u00f6nnen zwei Durchg\u00e4nge notwendig sein bevor alle \u00c4nderungen umgesetzt wurden. Bitte beachten Sie unten die noch offenen \u00c4nderungen und f\u00fchren diese nach Bedarf durch."
+            "text": "Manchmal k\u00f6nnen zwei Durchg\u00e4nge notwendig sein bevor alle \u00c4nderungen umgesetzt wurden. Bitte beachte unten die noch offenen \u00c4nderungen und f\u00fchre diese nach Bedarf durch."
         },
         "b2ba5835eaaa55607da59f696dcd4a87": {
-            "text": "Bitte \u00fcberpr\u00fcfen und best\u00e4tigen Sie danach die \u00c4nderungen unten. Falls einige \u00c4nderungen nicht gew\u00fcnscht werden, die entsprechende Checkbox nicht markieren."
+            "text": "Bitte \u00fcberpr\u00fcfe und best\u00e4tige danach die \u00c4nderungen unten. Falls einige \u00c4nderungen nicht gew\u00fcnscht werden, die entsprechende Checkbox nicht markieren."
         },
         "19b7fb53a85de3c8ba85672a91a7398b": {
             "text": "Exportieren"

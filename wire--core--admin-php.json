@@ -6,7 +6,7 @@
             "text": "Unbekannter HTTP-Host:"
         },
         "b6823820033b6cf18c3aa27d252861e0": {
-            "text": "Bitte aktualisieren Sie ihre Einstellung $config->httpHosts in \/site\/config.php"
+            "text": "Bitte aktualisiere deine Einstellung $config->httpHosts in \/site\/config.php"
         },
         "d959bbe25cc020e2db5276cb42927c7c": {
             "text": "mehr lesen"
@@ -27,7 +27,7 @@
             "text": "Zwei-Faktor-Authentifizierung aktivieren"
         },
         "7d1e877f40bcb7e917038fddfbc95043": {
-            "text": "Sie haben die PHP-Einstellung \"max_input_vars\" von %d erreicht - bitte erh\u00f6hen Sie diese."
+            "text": "Du hast die PHP-Einstellung \"max_input_vars\" von %d erreicht - bitte erh\u00f6he diese."
         }
     }
 }

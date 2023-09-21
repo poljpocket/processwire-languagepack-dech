@@ -24,7 +24,7 @@
             "text": "Welche Optionen sollen vorgew\u00e4hlt sein? (wenn \u00fcberhaupt)"
         },
         "ad560982b535502d63dbf2f46ea8b3a6": {
-            "text": "Dieses Feld dient auch als Vorschau f\u00fcr Ihre(n) ausgew\u00e4hlten Eingabetyp (%s) und Optionen."
+            "text": "Dieses Feld dient auch als Vorschau f\u00fcr deinen ausgew\u00e4hlten Eingabetyp (%s) und Optionen."
         },
         "c3524d56fb147114b84d6e9dd56110a9": {
             "text": "Diese Option entfernen"
@@ -33,10 +33,10 @@
             "text": "Diese Optionen entfernen"
         },
         "a088b8e4d1d572f82e2661ab0862f00b": {
-            "text": "Je nach dem, welchen Eingabetyp Sie ausw\u00e4hlen, kann der Benutzer entweder eine einzelne oder mehrere Optionen w\u00e4hlen. Einige Eingabetypen (wie AsmSelect) unterst\u00fctzen auch eine durch den Benutzer sortierbare Auswahl. Einige Eingabetypen bieten auch weitere Einstellungen im Eingabe-Tab (sichtbar nach dem Speichern)."
+            "text": "Je nach dem, welchen Eingabetyp du ausw\u00e4hlest, kann der Benutzer entweder eine einzelne oder mehrere Optionen w\u00e4hlen. Einige Eingabetypen (wie AsmSelect) unterst\u00fctzen auch eine durch den Benutzer sortierbare Auswahl. Einige Eingabetypen bieten auch weitere Einstellungen im Eingabe-Tab (sichtbar nach dem Speichern)."
         },
         "7ca00a9ac9a521d8e1d62919da2e66c6": {
-            "text": "Geben Sie eine w\u00e4hlbare Option pro Zeile an. Nach dem Speichern wird jeder Ihrer Optionen eine ID zugewiesen, welche z.B. als `123=title` angezeigt werden. Weitere Informationen in der [Anleitung zur Nutzung dieses Feldes](%s)."
+            "text": "Gib eine w\u00e4hlbare Option pro Zeile an. Nach dem Speichern wird jeder Ihrer Optionen eine ID zugewiesen, welche z.B. als `123=title` angezeigt werden. Weitere Informationen in der [Anleitung zur Nutzung dieses Feldes](%s)."
         },
         "ebe68b1a7edd199230885058ca3f3351": {
             "text": "Hinweis zu Mehrsprachigkeit: Optionen zuerst in der Standard-Sprache festlegen und speichern, bevor man diese in andere Sprachen \u00fcbersetzt."
@@ -51,13 +51,13 @@
             "text": "Ausgabe mehrerer Auswahlen:"
         },
         "d51f7ee41ebdd5252b9a4410e297b306": {
-            "text": "Wenn Sie Werte anstelle von Titeln ausgeben m\u00f6chten, ersetzen Sie in den obigen Beispielen \"title\" durch \"value\"."
+            "text": "Wenn du Werte anstelle von Titeln ausgeben m\u00f6chtest, ersetze sie in den obigen Beispielen \"title\" durch \"value\"."
         },
         "d8773b3c985910685f4f4aca03604c14": {
             "text": "Mehrere sortierbare Werte"
         },
         "69a114a946943d26c4ea03ba031b4124": {
-            "text": "Bitte beachten: Ihre Vorauswahl ist nicht aktiv, da dieses Feld kein Pflichtfeld ist. Aktivieren Sie dazu die Option \"Pflichtfeld\" im Eingabe-Tab des Feldes."
+            "text": "Bitte beachte: Deine Vorauswahl ist nicht aktiv, da dieses Feld kein Pflichtfeld ist. Aktiviere dazu die Option \"Pflichtfeld\" im Eingabe-Tab des Feldes."
         },
         "67f541f6547ed8217b9d81909acc241f": {
             "text": "Die Vorauswahl ist aktiv, weil dieses Feld ein Pflichtfeld ist."

@@ -15,7 +15,7 @@
             "text": "Benutzer-Profil"
         },
         "1a59a80bd045dd8cb5a37b841028cc00": {
-            "text": "Erlaubt dem Benutzer, Passwort, E-Mail-Adresse und andere Einstellungen zu \u00e4ndern, die Sie vorgeben."
+            "text": "Erlaubt dem Benutzer, Passwort, E-Mail-Adresse und andere Einstellungen zu \u00e4ndern, die du vorgibst."
         },
         "85337e04345622f27e1230c61efa9fd0": {
             "text": "Welche Felder d\u00fcrfen Benutzer in ihrem eigenen Profil bearbeiten?"
@@ -39,7 +39,7 @@
             "text": "Nicht erlaubt"
         },
         "c41276451b92f986f438a836dd99ed69": {
-            "text": "Bereinigt zu \"%s\", das sich von dem unterscheidet, was Sie eingegeben haben"
+            "text": "Bereinigt zu \"%s\", das sich von dem unterscheidet, was du eingegeben hast"
         },
         "c012e2a8b9e129403f8b93547086500a": {
             "text": "Zu kurz"
@@ -66,7 +66,7 @@
             "text": "+"
         },
         "75ac88c5fefdf1235b5f0484d3c88a2b": {
-            "text": "Zur Sicherheit geben Sie bitte Ihr aktuelles Passwort ein, um diese \u00c4nderungen zu speichern:"
+            "text": "Gib zur Sicherheit bitte dein aktuelles Passwort ein, um diese \u00c4nderungen zu speichern:"
         }
     }
 }

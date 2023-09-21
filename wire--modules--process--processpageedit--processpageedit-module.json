@@ -105,7 +105,7 @@
             "text": "Diese Seite ist f\u00fcr \u00c4nderungen gesperrt"
         },
         "386397f000925f7d90c87a913a678eed": {
-            "text": "Sie haben keine Berechtigung, diese Seite zu \u00e4ndern"
+            "text": "Du hast keine Berechtigung, diese Seite zu \u00e4ndern"
         },
         "36c2b914f293a142343cba0f3157d748": {
             "text": "Berechtigungen"
@@ -117,7 +117,7 @@
             "text": "Zuletzt ge\u00e4ndert von %1$s am %2$s"
         },
         "ea1a60a080fc428d2c18d9e6d33ded08": {
-            "text": "Falls Sie wollen, dass alle derzeitigen und zuk\u00fcnftigen Unterseiten automatisch nach einem bestimmten Feld sortiert werden, w\u00e4hlen Sie das Feld unten aus und kreuzen Sie ggf. die \"Umgekehrte Sortierreihenfolge?\"-Checkbox an, um eine absteigend Sortierreihenfolge zu nutzen. Ignorieren Sie die Sortiereinstellungen einfach, falls Sie die Seiten per Drag'n'Drop selbst ordnen wollen."
+            "text": "Falls du möchtest, dass alle derzeitigen und zuk\u00fcnftigen Unterseiten automatisch nach einem bestimmten Feld sortiert werden, w\u00e4hle das Feld unten aus und kreuze ggf. die \"Umgekehrte Sortierreihenfolge?\"-Checkbox an, um eine absteigend Sortierreihenfolge zu nutzen. Ignoriere die Sortiereinstellungen einfach, falls du die Seiten per Drag'n'Drop selbst ordnen willst."
         },
         "62a92c8e1a013dc0c9a67f2769642e9f": {
             "text": "Kreuzen sie die Box an, um zu best\u00e4tigen, dass sie dies wollen."
@@ -138,25 +138,25 @@
             "text": "Template von \"%1$s\" zu \"%2$s\" wechseln"
         },
         "11daf8e4f72e87c440ed3e0cac443157": {
-            "text": "Best\u00e4tigen Sie die \u00c4nderung des Templates"
+            "text": "Best\u00e4tige die \u00c4nderung des Templates"
         },
         "48af63aeec834982fcf91e325aaea998": {
             "text": "Achtung, die \u00c4nderung des Templates wird folgende Felder l\u00f6schen:"
         },
         "729a51874fe901b092899e9e8b31c97a": {
-            "text": "Sind Sie sicher?"
+            "text": "Bist du sicher?"
         },
         "e4c2fcbaac781d00fe1e192a4d94c0e9": {
-            "text": "Bitte best\u00e4tigen Sie, dass Sie das obere verstanden haben, in dem Sie die Checkbox unten ankreuzen."
+            "text": "Bitte best\u00e4tige, dass du das obere verstanden hast, indem du die Checkbox unten ankreuzt."
         },
         "d4ad7f8661990f191def1fb3a6accbd9": {
             "text": "Template ge\u00e4ndert zu: \"%s\""
         },
         "fcdd8c7fe4647ee6186ea45dd69d425d": {
-            "text": "Unterseiten werden gem\u00e4\u00df Template-Einstellungen mittels \"%s\" sortiert."
+            "text": "Unterseiten werden gem\u00e4ss Template-Einstellungen mittels \"%s\" sortiert."
         },
         "7ddc881b8c4b63699dd8487273384a38": {
-            "text": "Unterseiten werden sortiert gem\u00e4\u00df"
+            "text": "Unterseiten werden sortiert gem\u00e4ss"
         },
         "6adf97f83acf6453d4a6a4b1070f3754": {
             "text": "Keine"
@@ -216,7 +216,7 @@
             "text": "Standard Bereich\/Aktion bei \"Anzeigen\""
         },
         "d6b9987fabd38f232ada46d046aa4f88": {
-            "text": "Die standardm\u00e4\u00dfig genutzte Aktion wenn im Seiten-Editor der \"Ansehen\" Tab geklickt wird."
+            "text": "Die standardm\u00e4ssig genutzte Aktion wenn im Seiten-Editor der \"Ansehen\" Tab geklickt wird."
         },
         "25ed18e06e982b711a80310caf119563": {
             "text": "Seitenansicht"
@@ -240,7 +240,7 @@
             "text": "Es gibt keine weitere bearbeitbare Seite."
         },
         "109f29a4bda4c9b4a00ffd5452fe9515": {
-            "text": "Sind Sie sicher? Im Moment l\u00e4uft ein Upload. Dieser geht verloren, wenn Sie fortfahren."
+            "text": "Bist du sicher? Im Moment l\u00e4uft ein Upload. Dieser geht verloren, wenn du fortf\u00a4hrst."
         },
         "ea1056a7e305406e5662eb74ed8eb9f1": {
             "text": "L\u00f6schen"
@@ -270,10 +270,10 @@
             "text": "Wann immer eine Seite verschoben wird oder sich der Name \u00e4ndert, erinnern wir uns an die vorherige Position f\u00fcr Umleitungen."
         },
         "d9a0149000506e68eb258bab1ef93e2f": {
-            "text": "Nachfolgend finden Sie eine Liste von URLs (Pfaden), die automatisch auf diese Seite weitergeleitet werden (mittels 301 permanenter Umleitung)."
+            "text": "Nachfolgend findest du eine Liste von URLs (Pfaden), die automatisch auf diese Seite weitergeleitet werden (mittels 301 permanenter Umleitung)."
         },
         "bc84a6916935bff7a425f45f894a18a6": {
-            "text": "Sie k\u00f6nnen alle Pfade und URLs l\u00f6schen oder manuell neue hinzuf\u00fcgen."
+            "text": "Du kannst alle Pfade und URLs l\u00f6schen oder manuell neue hinzuf\u00fcgen."
         },
         "1324a129fbb956748409f981833c0736": {
             "text": "Keine Umleitungspfade"
@@ -285,16 +285,16 @@
             "text": "Neue Redirect-URLs hinzuf\u00fcgen"
         },
         "71fc4eb5d7649ced69d2936060e7774c": {
-            "text": "Geben Sie zus\u00e4tzliche Pfade \/ URLs (eine pro Zeile) ein, die auf diese Seite weitergeleitet werden sollen."
+            "text": "Gib zus\u00e4tzliche Pfade \/ URLs (eine pro Zeile) ein, die auf diese Seite weitergeleitet werden sollen."
         },
         "1715e12396d2512d6a079d39809bd855": {
-            "text": "Geben Sie nur den URL-Pfad ein (z.B. \"\/hello\/world\/\"), schlie\u00dfen Sie Schema, Domain, Port, Query-String oder Fragmente NICHT ein."
+            "text": "Gib nur den URL-Pfad ein (z.B. \"\/hello\/world\/\"), schliesse Schema, Domain, Port, Query-String oder Fragmente NICHT ein."
         },
         "05977549ad6511429ee4d274f710771d": {
-            "text": "Pfade sind relativ zur Site-Root, daher sollten Sie das Unterverzeichnis %s NICHT am Anfang einbeziehen."
+            "text": "Pfade sind relativ zur Site-Root, daher solltest du das Unterverzeichnis %s NICHT am Anfang einbeziehen."
         },
         "b74adc728406a06b4e47a2bcfd534281": {
-            "text": "Um eine Sprache f\u00fcr die Umleitung anzugeben, geben Sie den Pfad\/URL ein, dem der Sprachname vorangestellt ist:"
+            "text": "Um eine Sprache f\u00fcr die Umleitung anzugeben, gib den Pfad\/URL ein, dem der Sprachname vorangestellt ist:"
         },
         "e638e85311e9a6c568c715cb46e7ac01": {
             "text": "Umleitung hinzugef\u00fcgt: %s"
@@ -306,7 +306,7 @@
             "text": "Aus dem Papierkorb nehmen und an Originalort wiederherstellen"
         },
         "514327d866bf40803bfdf3a678af92ba": {
-            "text": "Aktivieren Sie die Checkbox, um zu best\u00e4tigen, dass Sie diese Seite wiederherstellen m\u00f6chten."
+            "text": "Aktiviere die Checkbox, um zu best\u00e4tigen, dass du diese Seite wiederherstellen m\u00f6chtest."
         },
         "d8514ace7bcb47e0d419377402b13142": {
             "text": "Die Seite wird wiederhergestellt: %s."
@@ -348,10 +348,10 @@
             "text": "Aktuell"
         },
         "beb808c0ab58b957ea0350e633392cee": {
-            "text": "\/ihre\/%s\/url\/"
+            "text": "\/deine\/%s\/url\/"
         },
         "19959897b0f9d04ebbea294594c10f5d": {
-            "text": "Diese Seite kann ein oder mehrere unvollst\u00e4ndige Felder enthalten (versuchen Sie zu speichern oder zu ver\u00f6ffentlichen, um weitere Informationen zu erhalten)"
+            "text": "Diese Seite kann ein oder mehrere unvollst\u00e4ndige Felder enthalten (versuche zu speichern oder zu ver\u00f6ffentlichen, um weitere Informationen zu erhalten)"
         },
         "0bcdea7c9e6f5289b7cf4c51e001a8fa": {
             "text": "Einzigartig: Der Seitenname \"%s\" muss global eindeutig sein."
@@ -369,7 +369,7 @@
             "text": "Keine Seite gefunden"
         },
         "16e420c38c1ef8f3708d849146207b74": {
-            "text": "Geben Sie die ID des erstellenden Benutzers ein."
+            "text": "Gib die ID des erstellenden Benutzers ein."
         },
         "802d4ac742bc4c352f14d68f10856b2d": {
             "text": "Der Zugang ist im Template dieser Seite definiert: %s"

@@ -21,7 +21,7 @@
             "text": "ZIP-Dateien entpacken?"
         },
         "fab7f7d0de48baa58342b39e975c9aab": {
-            "text": "Wenn diese Option aktiviert ist, werden ZIP-Archive entpackt und alle g\u00fcltigen Dateien als Uploads hinzugef\u00fcgt (sofern dies von der Hosting-Umgebung unterst\u00fctzt wird). Die maximale Dateigr\u00f6\u00dfe muss auf 0 gesetzt werden, damit die ZIP-Uploads funktionieren."
+            "text": "Wenn diese Option aktiviert ist, werden ZIP-Archive entpackt und alle g\u00fcltigen Dateien als Uploads hinzugef\u00fcgt (sofern dies von der Hosting-Umgebung unterst\u00fctzt wird). Die maximale Dateigr\u00f6sse muss auf 0 gesetzt werden, damit die ZIP-Uploads funktionieren."
         },
         "4839f7d2588943e6763c3c91cbd8d7f2": {
             "text": "Vorhandene Dateien \u00fcberschreiben?"
@@ -30,7 +30,7 @@
             "text": "Wenn dieses Checkbox aktiviert ist, wird eine hochgeladene Datei mit demselben Namen wie eine vorhandene Datei die vorhandene Datei ersetzen (Beschreibung und Tags bleiben erhalten). Wenn diese Option nicht aktiviert ist, werden hochgeladene Dateinamen umbenannt, um eindeutig zu sein."
         },
         "2713d4f20fb5e7947fb2bb844d57322d": {
-            "text": "Bitte beachten Sie, dass bei aktivierter Option die mit AJAX hochgeladenen Dateien sofort beim Hochladen mit der Seite gespeichert werden und nicht erst, wenn Sie auf \"Speichern\" klicken. Daher sollten Sie diese Option nicht aktivieren, es sei denn, Sie haben einen besonderen Bedarf daf\u00fcr."
+            "text": "Bitte beachte, dass bei aktivierter Option die mit AJAX hochgeladenen Dateien sofort beim Hochladen mit der Seite gespeichert werden und nicht erst, wenn du auf \"Speichern\" klickst. Daher solltest du diese Option nicht aktivieren, es sei denn, du hast einen besonderen Bedarf daf\u00fcr."
         },
         "43628388b79e6369717cab54df99fc62": {
             "text": "Datei-Beschreibungen"
@@ -39,16 +39,16 @@
             "text": "Anzahl der Zeilen f\u00fcr das Feld Beschreibung?"
         },
         "27eebd9281cfaa6f4173d02986c9ad71": {
-            "text": "Geben Sie die Anzahl der Zeilen ein, die f\u00fcr das Dateibeschreibungsfeld zur Verf\u00fcgung stehen, oder geben Sie 0 ein, um kein Beschreibungsfeld zu haben."
+            "text": "Gib die Anzahl der Zeilen ein, die f\u00fcr das Dateibeschreibungsfeld zur Verf\u00fcgung stehen, oder gib 0 ein, um kein Beschreibungsfeld zu haben."
         },
         "1aac69c83eb57d215a710401956430f1": {
             "text": "Mehrsprachige Beschreibungen deaktivieren?"
         },
         "d2bb3cb572d2e8478e3f5eed6cd914aa": {
-            "text": "Standardm\u00e4\u00dfig sind die Beschreibungen mehrsprachig, wenn Sie die Sprachunterst\u00fctzung installiert haben."
+            "text": "Standardm\u00e4ssig sind die Beschreibungen mehrsprachig, wenn du die Sprachunterst\u00fctzung installiert hast."
         },
         "e1b05eaa8a39a1ff5b825c94b80e77db": {
-            "text": "Wenn Sie keine mehrsprachigen Beschreibungen f\u00fcr Dateien ben\u00f6tigen, k\u00f6nnen Sie sie hier deaktivieren."
+            "text": "Wenn du keine mehrsprachigen Beschreibungen f\u00fcr Dateien ben\u00f6tigst, kannst du sie hier deaktivieren."
         }
     }
 }

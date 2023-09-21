@@ -9,7 +9,7 @@
             "text": "Der Suchoperator, der in der API verwendet wird, um nach Autocomplete-Treffern zu suchen"
         },
         "ddc1a98a2c8309eab3292b5fda7e0506": {
-            "text": "Falls Sie unsicher sind, was Sie hier verwenden sollen, behalten Sie den Standardwert bei: *="
+            "text": "Falls du unsicher bist, was du hier verwenden sollst, behalte den Standardwert bei: *="
         },
         "b956d301c10771357a356a80d9f0d3a5": {
             "text": "Felder, die f\u00fcr Autocomplete abgefragt werden"
@@ -30,13 +30,13 @@
             "text": "Neues Element:"
         },
         "b167d45586a5cb2582394b5ec1545065": {
-            "text": "Geben Sie die Namen der Felder ein, deren Text nach Autocomplete-Treffern durchsucht werden soll."
+            "text": "Gib die Namen der Felder ein, deren Text nach Autocomplete-Treffern durchsucht werden soll."
         },
         "6429d0ba1de3ee46f49581535ac36cf4": {
-            "text": "Typischerweise ist dies das title-Feld, aber Sie k\u00f6nnen weitere durch Leerzeichen getrennt hinzuf\u00fcgen."
+            "text": "Typischerweise ist dies das title-Feld, aber du kannst weitere durch Leerzeichen getrennt hinzuf\u00fcgen."
         },
         "db47517eeed0761aad011565e44e8390": {
-            "text": "Hinweis: Dies ist unterschiedlich zum \"Label-Feld\". Hier geben Sie an, welche Felder durchsucht werden statt welche Felder angezeigt werden."
+            "text": "Hinweis: Dies ist unterschiedlich zum \"Label-Feld\". Hier gibst an, welche Felder durchsucht werden statt welche Felder angezeigt werden."
         }
     }
 }

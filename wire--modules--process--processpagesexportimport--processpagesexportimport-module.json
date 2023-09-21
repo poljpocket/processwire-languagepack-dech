@@ -33,7 +33,7 @@
             "text": "Keine Importdetails anzeigbar"
         },
         "6c1d0fdc993bfa095bfa6a0cb500742e": {
-            "text": "W\u00e4hlen Sie beim Erstellen dieser Seiten ein Template aus."
+            "text": "W\u00e4hle beim Erstellen dieser Seiten ein Template aus."
         },
         "612bd2323b570ffd7610d860b5fc5b9a": {
             "text": "OK: Ersetze TEMPLATE \"%1$s\" mit \"%2$s\""
@@ -93,7 +93,7 @@
             "text": "Folgende Felder wurden in den Importdaten gefunden."
         },
         "21f3733b4c29eea78a95595e8fecfdbd": {
-            "text": "Deaktivieren Sie alle Felder, die Sie beim Import \u00fcberspringen m\u00f6chten."
+            "text": "Deaktiviere alle Felder, die du beim Import \u00fcberspringen m\u00f6chtest."
         },
         "49ee3087348e8d44e1feda1917443987": {
             "text": "="
@@ -156,7 +156,7 @@
             "text": "+"
         },
         "726d6246df516f81a1716ab64006f70a": {
-            "text": "Welche Seiten m\u00f6chten Sie exportieren?"
+            "text": "Welche Seiten m\u00f6chtest du exportieren?"
         },
         "9a4ecf5d3003837af473e07e59527178": {
             "text": "Seiten, welche ich ausw\u00e4hle"
@@ -177,7 +177,7 @@
             "text": "Elternseite ausw\u00e4hlen"
         },
         "8a6a2112bdf498013db64d59f301d886": {
-            "text": "W\u00e4hlen Sie die Elternseite der zu exportierenden Seiten. Die Kinder dieser Seite werden exportiert."
+            "text": "W\u00e4hle die Elternseite der zu exportierenden Seiten. Die Kinder dieser Seite werden exportiert."
         },
         "e128ece85361c066ea30a503fb868121": {
             "text": "Zus\u00e4tzliche Optionen"
@@ -198,10 +198,10 @@
             "text": "Export Felder"
         },
         "3aee85d275f14778870a9a59094a3248": {
-            "text": "Standardm\u00e4\u00dfig werden alle unterst\u00fctzten Felder einer Seite in den Export eingef\u00fcgt."
+            "text": "Standardm\u00e4ssig werden alle unterst\u00fctzten Felder einer Seite in den Export eingef\u00fcgt."
         },
         "e2fe1c296c63b89f877ed53a8be349a1": {
-            "text": "Wie m\u00f6chten Sie den Export speichern?"
+            "text": "Wie m\u00f6chtest du den Export speichern?"
         },
         "e97986e2d093cf22639cdabd17762178": {
             "text": "ZIP-Datei herunterladen"
@@ -252,7 +252,7 @@
             "text": "Das Feld \"%s\" vom Typ %s erscheint in den Importdaten, existiert aber nicht lokal."
         },
         "e7b3e14b8ea6b4e9b9ded5935a787200": {
-            "text": "Falls Sie dieses Feld importieren wollen, w\u00e4hlen Sie hier ein Ersatzfeld aus."
+            "text": "Falls du dieses Feld importieren willst, w\u00e4hle hier ein Ersatzfeld aus."
         },
         "f3418f35aed2653864c898b1fbfa7f89": {
             "text": "M\u00f6gliche Ersatzfelder"
@@ -261,7 +261,7 @@
             "text": "Seiten mit Elternseite \"%s\" k\u00f6nnen nicht importiert werden weil diese Seite hier nicht existiert."
         },
         "9d9d340fef6ece85d9fa8cb168e4cc4b": {
-            "text": "W\u00e4hlen Sie eine Elternseite aus, anstatt diese Seiten zu erstellen."
+            "text": "W\u00e4hle eine Elternseite aus, anstatt diese Seiten zu erstellen."
         },
         "b8fd4cfffa13fd37bbb33085b3d99559": {
             "text": "Ressourcenkonflikte"
@@ -270,7 +270,7 @@
             "text": "Wenn ausgew\u00e4hlt, werden die Seiten zu der selektierten Elternseite importiert."
         },
         "dc5065164c53ccdaf2afab0a4e92821b": {
-            "text": "Importieren Sie Seiten in das ausgew\u00e4hlte Elternteil und pflegen Sie die Seitenpfadstruktur darunter"
+            "text": "Importiere Seiten in das ausgew\u00e4hlte Elternteil und pflege die Seitenpfadstruktur darunter"
         },
         "9a4182341877068a0de58ca06532a6b5": {
             "text": "Importiere Seiten nur als Kinder der ausgew\u00e4hlten Elternseite"
@@ -285,28 +285,28 @@
             "text": "Exportiert Seitenbaum statt nur die direkten Kinder"
         },
         "afbe62b4d04b9023683b0b64f63fb629": {
-            "text": "Erstellen Sie eine Suche, um Seiten f\u00fcr den Export abzugleichen"
+            "text": "Erstelle eine Suche, um Seiten f\u00fcr den Export abzugleichen"
         },
         "5487c98ab1a908b9700fa20e3a3ffc1f": {
-            "text": "F\u00fcgen Sie der Suche ein oder mehrere Felder hinzu und gleichen Seiten f\u00fcr den Export ab"
+            "text": "F\u00fcge der Suche ein oder mehrere Felder hinzu und gleiche Seiten f\u00fcr den Export ab"
         },
         "6a3dac44a256e9471b5fd2ed42b12c0f": {
-            "text": "Falls der Export nur bestimmte Felder enthalten soll, w\u00e4hlen Sie diese hier aus."
+            "text": "Falls der Export nur bestimmte Felder enthalten soll, w\u00e4hle diese hier aus."
         },
         "cb8c3657faa795632ec15cbd7721a912": {
             "text": "Falls keine Auswahl getroffen wird, werden alle unterst\u00fctzten Felder in den Export eingeschlossen."
         },
         "52bf0f8917ee90a9e2d755751c651cb3": {
-            "text": "W\u00e4hlen Sie immer die Option ZIP-Datei wenn Datei- oder Bild-Felder im Export enthalten sein sollen."
+            "text": "W\u00e4hle immer die Option ZIP-Datei wenn Datei- oder Bild-Felder im Export enthalten sein sollen."
         },
         "f27cd90ca25ec83caa63a757fc2efcb4": {
             "text": "Seiten exportieren Daten f\u00fcr copy\/paste"
         },
         "3e0018e76b5cc05092e1129c9b46dad7": {
-            "text": "Klicken Sie beliebig in den Text unten um ihn zum kopieren auszuw\u00e4hlen."
+            "text": "Klicke beliebig in den Text unten um ihn zum kopieren auszuw\u00e4hlen."
         },
         "abdb2686b241382010a3933e591a1cbb": {
-            "text": "Sie k\u00f6nnen den Text dann im Import-Tab einer anderen Installation einf\u00fcgen."
+            "text": "Du kannst den Text dann im Import-Tab einer anderen Installation einf\u00fcgen."
         },
         "7273b7477ad1aad558b4c4fbaba5e3ac": {
             "text": "ZIP-Datei herunterladen"

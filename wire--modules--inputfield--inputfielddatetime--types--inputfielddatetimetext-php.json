@@ -30,7 +30,7 @@
             "text": "Datumseingabeformat"
         },
         "7656e28d6e435ffecc453794149e6a0d": {
-            "text": "W\u00e4hlen Sie das Format, das f\u00fcr die Benutzereingabe in dieses Feld verwendet werden soll. Ihre Auswahl f\u00fcllt das Feld darunter, das Sie bei Bedarf weiter anpassen k\u00f6nnen."
+            "text": "W\u00e4hle das Format, das f\u00fcr die Benutzereingabe in dieses Feld verwendet werden soll. Deine Auswahl f\u00fcllt das Feld darunter, das du bei Bedarf weiter anpassen kannst."
         },
         "b4857dd659bf6e86731ccda0a3b581fb": {
             "text": "(Unix-Zeitstempel)"
@@ -42,7 +42,7 @@
             "text": "Keine"
         },
         "44d9d932f51a771c8c76c2dc6ff57e1f": {
-            "text": "W\u00e4hlen Sie ein optionales Zeitformat, das f\u00fcr die Eingabe verwendet werden soll. Falls verwendet, enth\u00e4lt die Kalenderoption eine Zeitauswahl."
+            "text": "W\u00e4hle ein optionales Zeitformat, das f\u00fcr die Eingabe verwendet werden soll. Falls verwendet, enth\u00e4lt die Kalenderoption eine Zeitauswahl."
         },
         "91c4223a8591eed0ecab28c3a1a880b2": {
             "text": "Zeiteingabe Typ"
@@ -60,19 +60,19 @@
             "text": "Datumseingabeformat Code"
         },
         "20f706119fa58d0787ea397d413bf1e0": {
-            "text": "Dieses wird automatisch aus dem oben ausgew\u00e4hlten Datum erstellt, sofern Sie es nicht \u00e4ndern."
+            "text": "Dieses wird automatisch aus dem oben ausgew\u00e4hlten Datum erstellt, sofern du es nicht \u00e4nderst."
         },
         "e87ce06927649f8cdfff9e27c4ac8e3d": {
-            "text": "Weitere Informationen \u00fcber die Anpassung dieser Formate finden Sie in der Referenz der Funktion [PHP date](http:\/\/www.php.net\/manual\/en\/function.date.php)."
+            "text": "Weitere Informationen \u00fcber die Anpassung dieser Formate findest du in der Referenz der Funktion [PHP date](http:\/\/www.php.net\/manual\/en\/function.date.php)."
         },
         "3668c3ec43f4b401c6de009e3abb73f9": {
-            "text": "Optional k\u00f6nnen Sie hier auch Formate f\u00fcr andere Sprachen angeben. Alle Sprachen, die Sie leer lassen, \u00fcbernehmen die Standardeinstellung."
+            "text": "Optional kannst du hier auch Formate f\u00fcr andere Sprachen angeben. Alle Sprachen, die du leer l\u00e4sst, \u00fcbernehmen die Standardeinstellung."
         },
         "b3641a0b694cd7a82856611ce58d4979": {
             "text": "Uhrzeit Eingabeformat Code"
         },
         "3dd984b18a5880f9279e17ff2e53a5de": {
-            "text": "Diese wird automatisch aus der oben ausgew\u00e4hlten Zeit erstellt, sofern Sie sie nicht \u00e4ndern."
+            "text": "Diese wird automatisch aus der oben ausgew\u00e4hlten Zeit erstellt, sofern du sie nicht \u00e4nderst."
         },
         "6485c7641245873388f0170f472183c6": {
             "text": "Platzhaltertext"
@@ -81,7 +81,7 @@
             "text": "Optionaler Platzhaltertext, der in dem Feld erscheint, wenn es leer ist."
         },
         "6f6cb72d544962fa333e2e34ce64f719": {
-            "text": "Gr\u00f6\u00dfe"
+            "text": "Gr\u00f6sse"
         },
         "49e0e66405106d4f9cf741207255476f": {
             "text": "Die angezeigte Breite dieses Feldes (in Zeichen)."
@@ -93,7 +93,7 @@
             "text": "Wenn eine vordefinierte Jahresauswahl m\u00f6glich ist, gibt es einen Bereich von plus oder minus 10 Jahren ab dem aktuellen Jahr."
         },
         "57bed892b74c37659d8705088727032e": {
-            "text": "Um diesen Zeitraum zu \u00e4ndern, geben Sie die Anzahl der Jahre vor und nach dem aktuellen Jahr in diesem Format an: 30:+20\", was 30 Jahre vor dem aktuellen Jahr und 20 Jahre nach dem aktuellen Jahr anzeigen w\u00fcrde."
+            "text": "Um diesen Zeitraum zu \u00e4ndern, gib die Anzahl der Jahre vor und nach dem aktuellen Jahr in diesem Format an: 30:+20\", was 30 Jahre vor dem aktuellen Jahr und 20 Jahre nach dem aktuellen Jahr anzeigen w\u00fcrde."
         },
         "ef538874da76f56a05956925c0a162bb": {
             "text": "Die Standardeinstellung ist -10:+10, was einen Jahresbereich von 10 Jahren vor und nach dem jetzigen Zeitpunkt anzeigt."

@@ -6,7 +6,7 @@
             "text": "Eingabefeld-Typ"
         },
         "127852afa67b41673ab8ea17b383847c": {
-            "text": "Dieser Feldtyp wird genutzt um Eingaben zu sammeln (Textarea ist Standard). Hinweis: falls Sie dies \u00e4ndern und best\u00e4tigen, k\u00f6nnen sich auch die m\u00f6glichen Optionen in den Einstellungen des Eingabefeldes \u00e4ndern."
+            "text": "Dieser Feldtyp wird genutzt um Eingaben zu sammeln (Textarea ist Standard). Hinweis: falls du dies \u00e4nderst und best\u00e4tigst, k\u00f6nnen sich auch die m\u00f6glichen Optionen in den Einstellungen des Eingabefeldes \u00e4ndern."
         },
         "5d85f44b69f9d7e86c7f3f473f97f771": {
             "text": "="
@@ -21,10 +21,10 @@
             "text": "Die [u]Markup\/HTML[\/u] Option wird empfohlen f\u00fcr Felder, welche einen Rich-Text-Editor (wie CKEditor) verwenden und welche HTML enthalten. Diese Option unterst\u00fctzt einen zus\u00e4tzlichen Filter zur Laufzeit f\u00fcr die Qualit\u00e4tssicherung."
         },
         "0601bf716a208a7476c5f97c040fc44c": {
-            "text": "Falls Sie die Option [u]Unbekannt\/Text[\/u] ausw\u00e4hlen, wird (zur Sicherheit) dringend empfohlen, ebenfalls den \"HTML Entity Encoder\" im oberen Feld [u]Textformatierung[\/u] zu w\u00e4hlen."
+            "text": "Falls du die Option [u]Unbekannt\/Text[\/u] ausw\u00e4hlst, wird (zur Sicherheit) dringend empfohlen, ebenfalls den \"HTML Entity Encoder\" im oberen Feld [u]Textformatierung[\/u] zu w\u00e4hlen."
         },
         "f49044eb0f5ff823c157a2feedf2b9f8": {
-            "text": "Weitere Informationen zu den oben genannten Optionen finden Sie in der [Beschreibung f\u00fcr die Inhaltstypen](%s)."
+            "text": "Weitere Informationen zu den oben genannten Optionen findest du in der [Beschreibung f\u00fcr die Inhaltstypen](%s)."
         },
         "2addde1795e171e77196f84ba88dbcbf": {
             "text": "HTML-Optionen"
@@ -33,7 +33,7 @@
             "text": "Die folgenen Optionen sorgen f\u00fcr eine zus\u00e4tzliche Qualit\u00e4tssicherung des HTML zur Laufzeit."
         },
         "6691dadd4bc16c7d23fee64a309e2eaa": {
-            "text": "**Hinweis:** Diese Optionen sind derzeit experimentell. Bitte achten Sie auf Probleme und melden alle Fehler."
+            "text": "**Hinweis:** Diese Optionen sind derzeit experimentell. Bitte achte auf Probleme und melden alle Fehler."
         },
         "8985f62bfdbc5d278d07342bc4a7f5c2": {
             "text": "Die oberen Optionen protokollieren Fehler unter Verwaltung > Protokolle > markup-qa-errors."
@@ -66,13 +66,13 @@
             "text": "HTML-Optionen jetzt anwenden"
         },
         "5fe0528e0c4b792b394749289ad392f1": {
-            "text": "Markieren Sie diese Box, um die oberen Optionen nun auf alle bestehenden Seiten anzuwenden. Dies konzentriert sich haupts\u00e4chlich auf die Option der Link-Abstraktion."
+            "text": "Markieren diese Box, um die oberen Optionen nun auf alle bestehenden Seiten anzuwenden. Dies konzentriert sich haupts\u00e4chlich auf die Option der Link-Abstraktion."
         },
         "7b4f1bb8cb43086b5d5f3b850d06a6c3": {
-            "text": "Achtung, dies f\u00fchrt eine Aktualisierung von m\u00f6glicherweise hunderten von Seiten (max 300 pro Lauf) durch und akualisiert die \u00c4nderungszeit der Seite. Falls Ihre Site sehr viele Seiten hat, m\u00fcssen Sie mehrere L\u00e4ufe durchf\u00fchren."
+            "text": "Achtung, dies f\u00fchrt eine Aktualisierung von m\u00f6glicherweise hunderten von Seiten (max 300 pro Lauf) durch und akualisiert die \u00c4nderungszeit der Seite. Falls deine Site sehr viele Seiten hat, musst du mehrere L\u00e4ufe durchf\u00fchren."
         },
         "d9acd327c0ee998a16c85324936d214d": {
-            "text": "**Als zus\u00e4tzliche Vorsichtsmassnahme wird empfohlen, vor Durchf\u00fchrung Ihre Datenbank zu sichern.**"
+            "text": "**Als zus\u00e4tzliche Vorsichtsmassnahme wird empfohlen, vor Durchf\u00fchrung die Datenbank zu sichern.**"
         },
         "0f754c670b9d8c02b22eaeebd630181e": {
             "text": "Alles erledigt! Die HTML-Optionen sind nun vollst\u00e4ndig angewendet."
@@ -81,10 +81,10 @@
             "text": "Zuk\u00fcnftige Aktualisierungen werden automatisch beim speichern einer Seite angewendet."
         },
         "4b9ad9f31022ef1c2c6d202da55a0365": {
-            "text": "Es sind noch weitere Seiten zur Verarbeitung bereit. Markieren Sie erneut die Box um dies auf die restlichen Seiten anzuwenden."
+            "text": "Es sind noch weitere Seiten zur Verarbeitung bereit. Markiere erneut die Box, um dies auf die restlichen Seiten anzuwenden."
         },
         "2c1df5375d9f20282b3df677f8a4bc0c": {
-            "text": "M\u00fcssen Sie mehr Seiten auf einmal verarbeiten? Sie k\u00f6nnen eine %s Einstellung in ihrer \/site\/config.php Datei hinzuf\u00fcgen."
+            "text": "Musst du mehr Seiten auf einmal verarbeiten? Du kannst eine %s Einstellung in der \/site\/config.php Datei hinzuf\u00fcgen."
         },
         "d4705c271d7e1e75a05e9b6236ad836c": {
             "text": "(siehe %s Log)"

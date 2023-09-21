@@ -12,7 +12,7 @@
             "text": "Beschriftung der Checkbox"
         },
         "ad96619d37c6ca42363be76aba496b26": {
-            "text": "Wenn Sie getrennte Feld- und Checkboxbeschriftungen haben m\u00f6chten, geben Sie hier die Beschriftung an, die neben der Checkbox erscheinen soll."
+            "text": "Wenn du getrennte Feld- und Checkboxbeschriftungen haben m\u00f6chten, gib hier die Beschriftung an, die neben der Checkbox erscheinen soll."
         },
         "fee76a03fa4f7d7f0cbb391c9474316d": {
             "text": "Wird nichts angegeben, wird stattdessen die Feldbezeichnung verwendet."
@@ -27,7 +27,7 @@
             "text": "Wert wenn nicht angehakt"
         },
         "371048ea93404f39d61ae613be3a0b36": {
-            "text": "Dies erscheint nur in den Ergebniseintr\u00e4gen, nicht im Formular selbst. Sie sollten dies leer lassen, es sei denn, Sie m\u00f6chten, dass es einen bestimmten Wert enth\u00e4lt."
+            "text": "Dies erscheint nur in den Ergebniseintr\u00e4gen, nicht im Formular selbst. Du solltest dies leer lassen, es sei denn, du m\u00f6chtest, dass es einen bestimmten Wert enth\u00e4lt."
         },
         "4f8222964f9a317cef99dddc23a121bd": {
             "text": "+"

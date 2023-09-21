@@ -72,16 +72,16 @@
             "text": "Dies sind die Arten von Suchanfragen, die w\u00e4hrend einer Admin-Live-Suche durchgef\u00fchrt werden."
         },
         "e6325f7d83769dd875f667c2dbcd5fd7": {
-            "text": "Ziehen Sie sie in die Reihenfolge, in der die Suchergebnisse aufgelistet werden sollen."
+            "text": "Ziehe sie in die Reihenfolge, in der die Suchergebnisse aufgelistet werden sollen."
         },
         "94d8d93a863e2724dc409c7b5771bf76": {
             "text": "(ausgeschlossen)"
         },
         "8cf4111a5e458360994845128c2b07b3": {
-            "text": "Suchtypen ausschlie\u00dfen"
+            "text": "Suchtypen ausschliessen"
         },
         "fbb4e524dc820fa07f82c23211611ad9": {
-            "text": "W\u00e4hlen Sie alle Suchtypen aus, die Sie von der Live-Suche ausschlie\u00dfen m\u00f6chten. Dies k\u00f6nnen Typen sein, die Sie nicht oft suchen m\u00fcssen."
+            "text": "W\u00e4hle alle Suchtypen aus, die du von der Live-Suche ausschliessen m\u00f6chtest. Dies k\u00f6nnen Typen sein, die du nicht oft suchen musst."
         },
         "cee52fb451f657b046988a3535ad9fad": {
             "text": "Je mehr Typen ausgeschlossen sind, desto schneller wird die Live-Suche durchgef\u00fchrt."
@@ -90,7 +90,7 @@
             "text": "Alle ausgew\u00e4hlten Typen k\u00f6nnen weiterhin durchsucht werden, wenn sie bei der Suche gezielt abgefragt werden."
         },
         "5b2201bc8bf61333c472ab98b9f3b2c3": {
-            "text": "Wenn Sie beispielsweise den Typ \"trash\" ausgeschlossen haben, kann er trotzdem durchsucht werden, wenn Sie Ihrer Suche \"trash=\" vorangestellt haben, wie z.B. \"trash=hello\"."
+            "text": "Wenn du beispielsweise den Typ \"trash\" ausgeschlossen hast, kann er trotzdem durchsucht werden, wenn du der Suche \"trash=\" vorangestellt hast, wie z.B. \"trash=hello\"."
         },
         "e1eee8c1f21fe51aa15f3006cd6419f4": {
             "text": "Seitenfelder zur Suche"
@@ -99,16 +99,16 @@
             "text": "Dies gilt nur f\u00fcr Suchergebnisse von \"Seiten\" und \"Papierkorb\"."
         },
         "4f745aea666e6efcb5ff18f1d9275693": {
-            "text": "Wir empfehlen, dies auf maximal 1 oder 2 Felder zu beschr\u00e4nken, um eine schnelle Live-Suche zu gew\u00e4hrleisten. Normalerweise w\u00fcrden Sie einfach das Feld \"Titel\" durchsuchen."
+            "text": "Wir empfehlen, dies auf maximal 1 oder 2 Felder zu beschr\u00e4nken, um eine schnelle Live-Suche zu gew\u00e4hrleisten. Normalerweise w\u00fcrdest du einfach das Feld \"Titel\" durchsuchen."
         },
         "719994663f2fff9ce4cd0935acc6c6a5": {
             "text": "Seitenfelder die durchsucht werden, wenn der Benutzer im Suchfeld \"Enter\" dr\u00fcckt"
         },
         "50570447523d04b47c7c79f8c135a3ae": {
-            "text": "Normalerweise w\u00e4re dies das gleiche wie oben, aber Sie k\u00f6nnen auch zus\u00e4tzliche Felder hinzuf\u00fcgen."
+            "text": "Normalerweise w\u00e4re dies das gleiche wie oben, aber du kannst auch zus\u00e4tzliche Felder hinzuf\u00fcgen."
         },
         "72dc6e522da22345e91fd3dde26d792e": {
-            "text": "Anstatt nur das Feld \"Titel\" zu durchsuchen, k\u00f6nnen Sie beispielsweise auch ein Feld \"body\" durchsuchen."
+            "text": "Anstatt nur das Feld \"Titel\" zu durchsuchen, kannst du beispielsweise auch ein Feld \"body\" durchsuchen."
         },
         "f9702fc01ddd6b314fe6d74ac54995b6": {
             "text": "Standard-Suchoperator f\u00fcr Einzel- und Teilwortsuche"
