@@ -42,7 +42,7 @@
             "text": "*Seitenleistenlayouts sind nicht mit dem SystemNotifications-Modul kompatibel und k\u00f6nnen Probleme mit anderen Modulen haben."
         },
         "fd57cabd74aeddd5a95d662e680dd5ef": {
-            "text": "Wir empfehlen, dies nicht zu \u00e4ndern, es sei denn, Sie sind ein Admin-Designentwickler."
+            "text": "Wir empfehlen, dies nicht zu \u00e4ndern, es sei denn, du bist ein Admin-Designentwickler."
         },
         "21909eb7e7cbb04d9c804458848a7af3": {
             "text": "Diese Einstellungen betreffen alle Formularfelder im Admin."
