@@ -486,7 +486,7 @@
             "text": "Dieses Modul hat keine Konfigurationsdaten"
         },
         "490f8475055b941d956558bdd4184b1f": {
-            "text": "entfernen Sie diese nicht"
+            "text": "entferne diese nicht"
         },
         "b662bf6fb6b77c6d4fc74b1445ea2362": {
             "text": "Speichern nicht m\u00f6glich, da JSON nicht geparst werden konnte (ung\u00fcltiges JSON)"
@@ -510,7 +510,7 @@
             "text": "Das Modul \"%s\" existiert in der Datenbank, aber nicht auf dem Dateisystem."
         },
         "3f7ac7b9e02123a6f7ad6b0a30d22b6d": {
-            "text": "Erw\u00e4gen Sie, die Moduldateien in %s abzulegen oder das Modul aus der Datenbank zu entfernen."
+            "text": "Erw\u00e4ge, die Moduldateien in %s abzulegen oder das Modul aus der Datenbank zu entfernen."
         },
         "5726ea1babd2fd38df90eb9181ccc652": {
             "text": "Dieses Modul aus der Datenbank entfernen?"

@@ -3,7 +3,7 @@
     "textdomain": "wire--modules--inputfield--inputfieldemail-module",
     "translations": {
         "16f09bacbf690906417db0a60cda359c": {
-            "text": "Bitte geben Sie eine g\u00fcltige E-Mail-Adresse ein"
+            "text": "Bitte gib eine g\u00fcltige E-Mail-Adresse ein"
         },
         "3918809b01dd88b1c1c892aec102512b": {
             "text": "E-Mail-Adresse in g\u00fcltigem Format"
@@ -27,7 +27,7 @@
             "text": "Wenn markiert, erscheinen zwei Eingabefelder. Der Nutzer muss dann die E-Mail-Adresse zur Best\u00e4tigung zweimal eingeben."
         },
         "14d866744fd30744389cd711c4a8d4c7": {
-            "text": "E-Mail \"%s\" wird bereits verwendet, bitte verwenden Sie eine andere"
+            "text": "E-Mail \"%s\" wird bereits verwendet, bitte verwende eine andere"
         },
         "f462a55cf22cc9382696a17a198c2aae": {
             "text": "E-Mail \u00fcberschritt die maximal zul\u00e4ssige L\u00e4nge von %d-Zeichen"

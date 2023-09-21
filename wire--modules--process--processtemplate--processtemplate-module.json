@@ -81,7 +81,7 @@
             "text": "Feld hinzuf\u00fcgen"
         },
         "0f62a8abd379b96004d8118b0d9a2399": {
-            "text": "Um die Ausgabe dieses Templates zu cachen, geben sie die Dauer (in Sekunden) an, f\u00fcr die die Ausgabe gecached werden soll. Caching kann auf ressourcenlastigen Seiten signifikant den Seitenaufbau verbessern. Caching sollte aber nicht bei Templates verwendet werden, deren Daten sich st\u00e4ndig \u00e4ndern (z.B. Formulare oder Sessions). Beachten Sie auch, dass URL-Segmente zwar cachef\u00e4hig sind, die Variablen GET und POST aber nicht."
+            "text": "Um die Ausgabe dieses Templates zu cachen, geben sie die Dauer (in Sekunden) an, f\u00fcr die die Ausgabe gecached werden soll. Caching kann auf ressourcenlastigen Seiten signifikant den Seitenaufbau verbessern. Caching sollte aber nicht bei Templates verwendet werden, deren Daten sich st\u00e4ndig \u00e4ndern (z.B. Formulare oder Sessions). Beachten auch, dass URL-Segmente zwar cachef\u00e4hig sind, die Variablen GET und POST aber nicht."
         },
         "e71a260bc8db16e30f2dedeba9440a25": {
             "text": "Beispiel: 60 = 1 Minute, 600 = 10 Minuten, 3600 = 1 Stunde, 86400 = 1 Tag, 604800 = 1 Woche, 2419200 = 1 Monat."
@@ -126,7 +126,7 @@
             "text": "F\u00fcr G\u00e4ste und eingeloggte Benutzer"
         },
         "8d5e98c594942c49efea1af30c90efe5": {
-            "text": "Beachten Sie, dass der Cache f\u00fcr Seiten, auf die der Benutzer Schreibzugriff hat, stets deaktiviert ist \u2013 unabh\u00e4ngig davon, was Sie hier einstellen."
+            "text": "Beachten, dass der Cache f\u00fcr Seiten, auf die der Benutzer Schreibzugriff hat, stets deaktiviert ist \u2013 unabh\u00e4ngig davon, was du hier einstellst."
         },
         "d1db89af3df82862d45c9755e9aa0075": {
             "text": "Den Cache deaktivierende GET-Variablen"
@@ -135,7 +135,7 @@
             "text": "Den Cache deaktivierende POST-Variablen"
         },
         "f32d42af055544c46a989bceee851733": {
-            "text": "Gib optional einen oder mehrere Variablennamen an. Falls sie mehrere angeben, trennen Sie diese durch ein Leerzeichen."
+            "text": "Gib optional einen oder mehrere Variablennamen an. Falls sie mehrere angeben, trenne diese durch ein Leerzeichen."
         },
         "f1a2199b60e95006b3d66f9eb5a9e621": {
             "text": "Der Name, der benutzt wird, um dieses Template zu referenzieren. Dies ist auch der erwartete Dateiname der Template-Datei (mit .php-Suffix) in \/site\/templates\/."
@@ -144,7 +144,7 @@
             "text": "Der Dateiname des Templates ist schreibbar und wird ebenfalls umbenannt."
         },
         "8d5a5a7af810d2ef80cf02082615c9dd": {
-            "text": "Der Dateiname des Templates ist nicht schreibbar, daher m\u00fcssen Sie ihn von Hand \u00e4ndern (Anweisungen folgen, nachdem Sie gespeichert haben)."
+            "text": "Der Dateiname des Templates ist nicht schreibbar, daher musst du ihn von Hand \u00e4ndern (Anweisungen folgen, nachdem du gespeichert hast)."
         },
         "e9c90e0ba4fdd701df9d4ff73c82dc3e": {
             "text": "Alternativer Template-Dateiname"
@@ -165,10 +165,10 @@
             "text": "Gib einen oder mehrere mit diesem Template verkn\u00fcpfte Feld-Namen an, die in der Seitenliste im Admin-Bereich angezeigt werden sollen, wenn Seiten aufgelistet werden, die diese Template verwenden. Falls leer, werden stattdessen die Felder verwendet, die in der Konfiguration des Moduls Seiten-Liste vorgegeben sind. Feld-Namen sollten mit einem Leerzeichen und\/oder Komma getrennt werden. Leere Felder werden ignoriert."
         },
         "b1a8a50c7276f36aeca631c5f4d18c9d": {
-            "text": "Sie k\u00f6nnen eines oder mehrere dieser Felder angeben:"
+            "text": "Du kannst eines oder mehrere dieser Felder angeben:"
         },
         "dc8ce981931b1e9b1f784c57730a67c1": {
-            "text": "Beachten Sie bitte, dass alle diese Systemeinstellungen f\u00fcr die Systementwicklung von ProcessWire vorgesehen sind (nicht f\u00fcr die Seiten-Entwicklung). Benutzung auf eigene Gefahr."
+            "text": "Beachte bitte, dass alle diese Systemeinstellungen f\u00fcr die Systementwicklung von ProcessWire vorgesehen sind (nicht f\u00fcr die Seiten-Entwicklung). Benutzung auf eigene Gefahr."
         },
         "3920cc9a9feba6acfae659a68688f13c": {
             "text": "System-Flag?"

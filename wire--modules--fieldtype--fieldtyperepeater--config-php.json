@@ -105,7 +105,7 @@
             "text": "Maximale Anzahl von Elementen"
         },
         "528f529d4617eb805a332c782f8666fe": {
-            "text": "Falls Sie die Anzahl der erlaubten Elemente begrenzen wollen, geben Sie hier das Limit ein (0=kein Limit)."
+            "text": "Falls du die Anzahl der erlaubten Elemente begrenzen willst, gib hier das Limit ein (0=kein Limit)."
         },
         "f504e6acf8424e003e90434b8f4ada08": {
             "text": "Mindestanzahl von Elementen"
@@ -120,7 +120,7 @@
             "text": "Um eine Tiefe von Elementen zu unterst\u00fctzen, hier die maximal erlaubte Tiefe eingeben oder zur Deaktivierung leer lassen."
         },
         "ea3a2c41fc47d9150f65147b030a3ad8": {
-            "text": "Beim Bearbeiten eines Repeaters kannst du die Tiefe ver\u00e4ndern. Klicken Sie auf den Verschiebe-Pfeil des Repeater-Elements und schieben das Element nach rechts oder links."
+            "text": "Beim Bearbeiten eines Repeaters kannst du die Tiefe ver\u00e4ndern. Klicke auf den Verschiebe-Pfeil des Repeater-Elements und schieben das Element nach rechts oder links."
         },
         "c8a9e54dcabe5cdebed9c5bd1fa334d4": {
             "text": "Tiefen sind nullbasierend. Dies bedeutet, eine Tiefe von 3 erlaubt Tiefen von 0, 1, 2 und 3."
@@ -174,7 +174,7 @@
             "text": "Mit der \"Dar\u00fcberfahren\"-Option kann die Oberfl\u00e4che \u00fcbersichtlicher gestaltet werden, indem die Aktionen\/Steuerelemente f\u00fcr Repeater (Klonen, Einf\u00fcgen, L\u00f6schen usw.) nur dann angezeigt werden, wenn der Mauszeiger \u00fcber dem Elementkopf steht."
         },
         "9e6025a2fc5d0a32028e42373c622d66": {
-            "text": "Beachten Sie, dass Bedienelemente f\u00fcr Touch-Ger\u00e4te unabh\u00e4ngig von dieser Einstellung immer angezeigt werden."
+            "text": "Beachte, dass Bedienelemente f\u00fcr Touch-Ger\u00e4te unabh\u00e4ngig von dieser Einstellung immer angezeigt werden."
         },
         "ee6e6bb07faa02ed6526f941bc76b535": {
             "text": "Speicherung von Repeatern"
@@ -201,7 +201,7 @@
             "text": "%d unn\u00f6tige Repeater-Eltern gefunden, die entweder 0 Repeater-Elemente oder keine eigene Seite hatten."
         },
         "07077b028489c0f29f7433928bb27c32": {
-            "text": "F\u00fchren Sie vor Massenl\u00f6schungen immer ein Backup durch."
+            "text": "F\u00fchre vor Massenl\u00f6schungen immer ein Backup durch."
         },
         "96508e17d64d763df5bc4f802b25e99b": {
             "text": "%d unn\u00f6tige Repeater-Elternseiten gefunden"
@@ -210,7 +210,7 @@
             "text": "Keine unn\u00f6tigen Seiten gefunden"
         },
         "57939466ad1ae6358cadab32c9b04c15": {
-            "text": "Maximale Anzahl von %d Elementen pro Anfrage erreicht, Sie sollten den Vorgang wiederholen."
+            "text": "Maximale Anzahl von %d Elementen pro Anfrage erreicht, du solltest den Vorgang wiederholen."
         },
         "88574909be3f083f32ba1fa6a0e4dcf1": {
             "text": "%d unn\u00f6tige Seiten gel\u00f6scht"

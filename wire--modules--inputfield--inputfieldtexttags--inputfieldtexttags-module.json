@@ -21,7 +21,7 @@
             "text": "Wenn diese Funktion aktiviert ist, verh\u00e4lt sie sich wie eine automatische Vervollst\u00e4ndigung, bei der der Benutzer mit der Eingabe beginnt und eine URL nach passenden Seiten abfragt wird."
         },
         "26644aceea0417eed7cc9b89b5d217fe": {
-            "text": "Sie m\u00fcssen auch eine \"Ajax-URL\" angeben (siehe unten, wenn \"Ja\" ausgew\u00e4hlt ist), um die Abfrage durchzuf\u00fchren. Ein funktionierender Beispielcode ist enthalten."
+            "text": "Du musst auch eine \"Ajax-URL\" angeben (siehe unten, wenn \"Ja\" ausgew\u00e4hlt ist), um die Abfrage durchzuf\u00fchren. Ein funktionierender Beispielcode ist enthalten."
         },
         "113e5eb7479e4757efe217b2b4df3a9c": {
             "text": "Ist diese Option nicht aktiviert, werden alle ausw\u00e4hlbaren Optionen zur Laufzeit ausgef\u00fcllt."
@@ -30,37 +30,37 @@
             "text": "Die Verwendung von Ajax-Optionen\/Seiten ist n\u00fctzlich, wenn die potenzielle Anzahl der ausw\u00e4hlbaren Seiten gross ist."
         },
         "9cba2db480057b2c65e239915198a3bc": {
-            "text": "Erw\u00e4gen Sie dies, wenn mehrere hundert oder tausend (oder mehr) Seiten zur Auswahl stehen."
+            "text": "Erw\u00e4ge dies, wenn mehrere hundert oder tausend (oder mehr) Seiten zur Auswahl stehen."
         },
         "8d303ccb1721972ffbf890a84a24c7a5": {
             "text": "Liste der vordefinierten Optionen\/Tags"
         },
         "dcf387ef8e5f3f0bbd745b1855a2a9a5": {
-            "text": "Gib vordefinierte Tags ein, 1 pro Zeile. Um einen separaten Wert und eine Bezeichnung f\u00fcr die Markierung zu definieren, geben Sie value=label in der Zeile an."
+            "text": "Gib vordefinierte Tags ein, 1 pro Zeile. Um einen separaten Wert und eine Bezeichnung f\u00fcr die Markierung zu definieren, gib value=label in der Zeile an."
         },
         "b23854b10090d03184c424927a1c221f": {
             "text": "Tags d\u00fcrfen das unten ausgew\u00e4hlte Trennzeichen nicht enthalten, Labels aber schon."
         },
         "3f29cea14274476fd290ab2357acf53b": {
-            "text": "Um getrennte Bezeichnungen f\u00fcr jede Sprache zu definieren, geben Sie f\u00fcr jede Sprache den Tag `value=label` ein, wobei der `value` f\u00fcr jede Sprache gleich ist, w\u00e4hrend der `label` unterschiedlich ist."
+            "text": "Um getrennte Bezeichnungen f\u00fcr jede Sprache zu definieren, gib f\u00fcr jede Sprache den Tag `value=label` ein, wobei der `value` f\u00fcr jede Sprache gleich ist, w\u00e4hrend der `label` unterschiedlich ist."
         },
         "863a617186799199c167888e3f858ed7": {
             "text": "URL-Handler-Beispiel in Datei %s f\u00fcr URL %s"
         },
         "0e3fd3cf510a091336f62cffa8fed928": {
-            "text": "Kopieren Sie diese URL und f\u00fcgen Sie sie in das obige Feld ein, wenn Sie das unten stehende Beispiel verwenden m\u00f6chten."
+            "text": "Kopiere diese URL und f\u00fcge sie in das obige Feld ein, wenn du das unten stehende Beispiel verwenden m\u00f6chtest."
         },
         "ae43497613e9bce166e79c93a3a3288f": {
             "text": "Ajax-URL"
         },
         "578b189f9605804a55dec2f726107836": {
-            "text": "Wenn Sie eine URL eingeben, wird diese nach Elementen abgefragt, die den Benutzereingaben entsprechen, und automatisch vervollst\u00e4ndigt."
+            "text": "Wenn du eine URL eingibst, wird diese nach Elementen abgefragt, die den Benutzereingaben entsprechen, und automatisch vervollst\u00e4ndigt."
         },
         "3094591b42aeeae0f6f5743dd58ff360": {
             "text": "Die angegebene URL muss irgendwo den Platzhalter {q} enthalten, der durch den vom Benutzer eingegebenen Text ersetzt wird."
         },
         "6de08d5e99d2f49b707fbe84bf2babc4": {
-            "text": "Sie k\u00f6nnen eine vollst\u00e4ndige http\/https-URL oder eine relative URL angeben."
+            "text": "Du kannst eine vollst\u00e4ndige http\/https-URL oder eine relative URL angeben."
         },
         "b9b2836d05319756a7f9b1797166d2c5": {
             "text": "Wenn Sie eine relative URL (ohne Schema\/Host) angeben, werden ihr zur Laufzeit das aktuelle Schema, der aktuelle Host und die Root-URL vorangestellt."

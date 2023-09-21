@@ -177,7 +177,7 @@
             "text": "Keine Probleme zu Feld %s gefunden"
         },
         "50092a77c044bc5d91bb703429c29157": {
-            "text": "Die folgenden Eigenschaften wurden zu diesem Feld gefunden, werden aber offensichtlich nicht genutzt. Zum Entfernen markieren Sie die Box neben der jeweiligen Eigenschaft. Falls Sie nicht sicher sind, k\u00f6nnen diese auch ohne weiteres dort verbleiben."
+            "text": "Die folgenden Eigenschaften wurden zu diesem Feld gefunden, werden aber offensichtlich nicht genutzt. Zum Entfernen markiere die Box neben der jeweiligen Eigenschaft. Falls du nicht sicher bist, kannst du diese auch ohne weiteres dort verbleiben."
         },
         "b2ab31c6f8fbc066d4840baa6c081821": {
             "text": "In diesem Feld scheinen unbekannte Eigenschaften zu sein. Bitte den Tab \"Warnung\" beachten."
@@ -189,7 +189,7 @@
             "text": "Daten des Feldes \u00fcberpr\u00fcfen"
         },
         "494bfa7cbe1a6aaf0e24e92c54664859": {
-            "text": "Das Feld auf ungenutzte Daten oder andere m\u00f6gliche Optimierungen \u00fcberpr\u00fcfen. Falls Probleme gefunden werden, haben Sie die M\u00f6glichkeit diese nach dem speichern \u00fcber den Tab Warnung zu korrigieren."
+            "text": "Das Feld auf ungenutzte Daten oder andere m\u00f6gliche Optimierungen \u00fcberpr\u00fcfen. Falls Probleme gefunden werden, hast du die M\u00f6glichkeit, diese nach dem speichern \u00fcber den Tab Warnung zu korrigieren."
         },
         "1d44463bf74c66ac465f0f51cee9a827": {
             "text": "%d verwaiste Zeilen gel\u00f6scht"
@@ -198,10 +198,10 @@
             "text": "Einstellungen des Feldes behalten?"
         },
         "7d912a6056deaad44add9eda5494d120": {
-            "text": "Diese Box markieren um alle eigenen Einstellungen zu diesem Feld (vom Details und Eingabe Tab) zu behalten. Dies ist empfehlenswert wenn der neue Feldtyp die gleichen oder \u00e4hnliche Eigenschaften zur Konfiguration wie der alte Feldtyp hat. Allerdings kann dies auch zu unn\u00f6tigen oder redundanten Konfig-Daten f\u00fchren, welche Platz im Feld beanspruchen. Sie k\u00f6nnen dies jederzeit sp\u00e4ter analysieren \u00fcber: Erweitert > Daten des Feldes \u00fcberpr\u00fcfen."
+            "text": "Diese Box markieren um alle eigenen Einstellungen zu diesem Feld (vom Details und Eingabe Tab) zu behalten. Dies ist empfehlenswert wenn der neue Feldtyp die gleichen oder \u00e4hnliche Eigenschaften zur Konfiguration wie der alte Feldtyp hat. Allerdings kann dies auch zu unn\u00f6tigen oder redundanten Konfig-Daten f\u00fchren, welche Platz im Feld beanspruchen. Du kannst dies jederzeit sp\u00e4ter analysieren \u00fcber: Erweitert > Daten des Feldes \u00fcberpr\u00fcfen."
         },
         "ee9fe18e631383755ce658daed18b15e": {
-            "text": "Falls Sie diesem Feld ein Symbol zuordnen m\u00f6chten, w\u00e4hlen Sie unten ein Symbol aus. F\u00fcr eine visuelle Auswahl auf den Link \"Alle Symbole anzeigen\" klicken."
+            "text": "Falls du diesem Feld ein Symbol zuordnen m\u00f6chtest, w\u00e4hle unten ein Symbol aus. F\u00fcr eine visuelle Auswahl auf den Link \"Alle Symbole anzeigen\" klicken."
         },
         "c32404a847502e9920d7582aa7fcd811": {
             "text": "Feld zu\/von Templates hinzuf\u00fcgen oder entfernen"

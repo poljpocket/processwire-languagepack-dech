@@ -132,13 +132,13 @@
             "text": "Selektor String"
         },
         "14d274b0d81592a035d1fb04ee031fb6": {
-            "text": "Falls Sie ausw\u00e4hlbare Seiten mit einem ProcessWire-Selektor finden wollen, geben Sie hier den Selektor ein. Dieser Selektor f\u00fchrt zu einer $pages->find(\"your selector\"); Anweisung."
+            "text": "Falls du ausw\u00e4hlbare Seiten mit einem ProcessWire-Selektor finden willst, gib hier den Selektor ein. Dieser Selektor f\u00fchrt zu einer $pages->find(\"your selector\"); Anweisung."
         },
         "c53eb6ef357cebe320e9c359e7adfaeb": {
-            "text": "F\u00fcgen Sie folgenden Hook zu einer %s Datei hinzu und modifizieren es bei Bedarf. Der Hook sollte selektierbare Seiten finden und in einem PageArray zur\u00fcckgeben."
+            "text": "F\u00fcge folgenden Hook zu einer %s Datei hinzu und modifiziere es bei Bedarf. Der Hook sollte selektierbare Seiten finden und in einem PageArray zur\u00fcckgeben."
         },
         "06d1dad5791272bfde6c76b87289a62b": {
-            "text": "Wenn Sie die zu bearbeitende Seite kennen m\u00fcssen, ist sie erreichbar von: %s"
+            "text": "Wenn du die zu bearbeitende Seite kennen musst, ist sie erreichbar von: %s"
         },
         "89ba456c93408d4bc5888a8e960dbb79": {
             "text": "Eigener PHP-Code"
@@ -147,7 +147,7 @@
             "text": "Der Eingabefeld-Typ (Inputfield Modul), welcher zum Ausw\u00e4hlen von Seiten f\u00fcr dieses Feld genutzt werden soll."
         },
         "215c501706b9ef0657264f0cb931dbd3": {
-            "text": "Nutzen Sie einen, mit dem \"Eingabewert\" im \"Details-Tab\" kompatiblen, Typ f\u00fcr die Auswahl von Einzel- oder Multi-Seiten."
+            "text": "Nutze einen, mit dem \"Eingabewert\" im \"Details-Tab\" kompatiblen, Typ f\u00fcr die Auswahl von Einzel- oder Multi-Seiten."
         },
         "081b70a0b1eb9e48918ebc5d3c8afc6b": {
             "text": "Nach der Auswahl eines Eingabefeld-Typs und speichern Ihrer \u00c4nderungen, k\u00f6nnen weitere Optionen zur Konfiguration direkt unterhalb dieser Sektion angezeigt werden."
@@ -168,10 +168,10 @@
             "text": "Du hast einen Eingabe-Typ gew\u00e4hlt, welcher spezifische Anforderungen hat."
         },
         "d45d37464c307f05fe480979c03fd99b": {
-            "text": "Legen Sie unten nur die Option \"Eltern\" fest beim konfigurieren der \"W\u00e4hlbaren Seiten\"."
+            "text": "Lege unten nur die Option \"Eltern\" fest beim konfigurieren der \"W\u00e4hlbaren Seiten\"."
         },
         "a8e65bab8badd05312e21a13bc8aacf1": {
-            "text": "Beachten Sie, dass Ihre Auswahl der Eltern den Root des Baumes der w\u00e4hlbaren Seiten einschliesst."
+            "text": "Beachte, dass deine Auswahl der Eltern den Root des Baumes der w\u00e4hlbaren Seiten einschliesst."
         },
         "d89af7d091962a34d3d666a54148e1f9": {
             "text": "Falls alles w\u00e4hlbar sein soll, hier nichts festlegen."
@@ -189,7 +189,7 @@
             "text": "Eigenes Suchergebnis"
         },
         "1f6147d9cbae7fa8c3e213824bce6405": {
-            "text": "Um unver\u00f6ffentlichte Seiten zuzulassen, bearbeiten Sie das Feld \"%s\" und lesen Sie die Einstellung auf der Registerkarte \"Details\"."
+            "text": "Um unver\u00f6ffentlichte Seiten zuzulassen, bearbeite das Feld \"%s\" und lese die Einstellung auf der Registerkarte \"Details\"."
         },
         "4475920d50a2c224b86ebf6e79d38dc7": {
             "text": "Werttyp"

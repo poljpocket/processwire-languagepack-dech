@@ -117,7 +117,7 @@
             "text": "Zuletzt ge\u00e4ndert von %1$s am %2$s"
         },
         "ea1a60a080fc428d2c18d9e6d33ded08": {
-            "text": "Falls Sie wollen, dass alle derzeitigen und zuk\u00fcnftigen Unterseiten automatisch nach einem bestimmten Feld sortiert werden, w\u00e4hlen Sie das Feld unten aus und kreuzen Sie ggf. die \"Umgekehrte Sortierreihenfolge?\"-Checkbox an, um eine absteigend Sortierreihenfolge zu nutzen. Ignorieren Sie die Sortiereinstellungen einfach, falls Sie die Seiten per Drag'n'Drop selbst ordnen wollen."
+            "text": "Falls du möchtest, dass alle derzeitigen und zuk\u00fcnftigen Unterseiten automatisch nach einem bestimmten Feld sortiert werden, w\u00e4hle das Feld unten aus und kreuze ggf. die \"Umgekehrte Sortierreihenfolge?\"-Checkbox an, um eine absteigend Sortierreihenfolge zu nutzen. Ignoriere die Sortiereinstellungen einfach, falls du die Seiten per Drag'n'Drop selbst ordnen willst."
         },
         "62a92c8e1a013dc0c9a67f2769642e9f": {
             "text": "Kreuzen sie die Box an, um zu best\u00e4tigen, dass sie dies wollen."
@@ -138,16 +138,16 @@
             "text": "Template von \"%1$s\" zu \"%2$s\" wechseln"
         },
         "11daf8e4f72e87c440ed3e0cac443157": {
-            "text": "Best\u00e4tigen Sie die \u00c4nderung des Templates"
+            "text": "Best\u00e4tige die \u00c4nderung des Templates"
         },
         "48af63aeec834982fcf91e325aaea998": {
             "text": "Achtung, die \u00c4nderung des Templates wird folgende Felder l\u00f6schen:"
         },
         "729a51874fe901b092899e9e8b31c97a": {
-            "text": "Sind Sie sicher?"
+            "text": "Bist du sicher?"
         },
         "e4c2fcbaac781d00fe1e192a4d94c0e9": {
-            "text": "Bitte best\u00e4tigen Sie, dass Sie das obere verstanden haben, in dem Sie die Checkbox unten ankreuzen."
+            "text": "Bitte best\u00e4tige, dass du das obere verstanden hast, indem du die Checkbox unten ankreuzt."
         },
         "d4ad7f8661990f191def1fb3a6accbd9": {
             "text": "Template ge\u00e4ndert zu: \"%s\""

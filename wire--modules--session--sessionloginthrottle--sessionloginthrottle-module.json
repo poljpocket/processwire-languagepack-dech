@@ -3,7 +3,7 @@
     "textdomain": "wire--modules--session--sessionloginthrottle--sessionloginthrottle-module",
     "translations": {
         "87f1eff9c1a8afd8f0ecee1583f88ab2": {
-            "text": "Bitte warten Sie vor dem n\u00e4chsten Login-Versuch mindestens %d Sekunden."
+            "text": "Bitte warten vor dem n\u00e4chsten Login-Versuch mindestens %d Sekunden."
         },
         "55c8511d5d205cbddcbc743e49a39100": {
             "text": "Anzahl Sekunden, welche ein User abwarten muss nach einem fehlgeschlagenen Login-Versuch"
