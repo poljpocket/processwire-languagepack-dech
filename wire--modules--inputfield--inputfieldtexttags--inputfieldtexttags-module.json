@@ -63,28 +63,28 @@
             "text": "Du kannst eine vollst\u00e4ndige http\/https-URL oder eine relative URL angeben."
         },
         "b9b2836d05319756a7f9b1797166d2c5": {
-            "text": "Wenn Sie eine relative URL (ohne Schema\/Host) angeben, werden ihr zur Laufzeit das aktuelle Schema, der aktuelle Host und die Root-URL vorangestellt."
+            "text": "Wenn du eine relative URL (ohne Schema\/Host) angibst, werden ihr zur Laufzeit das aktuelle Schema, der aktuelle Host und die Root-URL vorangestellt."
         },
         "3d68dddcd3aa8f6a61b89149dc3cd5ac": {
-            "text": "Sie m\u00fcssen auch einen URL-Handler definieren, wie im folgenden Beispiel gezeigt."
+            "text": "Du musst auch einen URL-Handler definieren, wie im folgenden Beispiel gezeigt."
         },
         "c55228ab9fb65392d44a1ad232555e5b": {
-            "text": "Der URL-Pfad %s ist nur ein Beispiel, Sie k\u00f6nnen ihn nach Belieben ersetzen."
+            "text": "Der URL-Pfad %s ist nur ein Beispiel, du kannst ihn nach Belieben ersetzen."
         },
         "61900119c9b2f987bb0f2784d219d460": {
-            "text": "In diesem Beispiel werden die Titel von Seiten gesucht, die als Tags verwendet werden sollen, aber Sie k\u00f6nnen jede beliebige Datenquelle verwenden."
+            "text": "In diesem Beispiel werden die Titel von Seiten gesucht, die als Tags verwendet werden sollen, aber du kannst jede beliebige Datenquelle verwenden."
         },
         "a4ead355e5bbbd25f264cae5a69d5d72": {
-            "text": "Ihr Selektor f\u00fcr das finden von Seiten hier"
+            "text": "Dein Selektor f\u00fcr das finden von Seiten hier"
         },
         "1505f61747adf41e94a27b064a284b40": {
-            "text": "Bitte beachten Sie, dass Sie, wenn Sie Ihre Einstellungen f\u00fcr \"Ausw\u00e4hlbare Seiten\" oder \" Beschriftungsfeld\" \u00e4ndern, auch Ihren URL-Handler-Code daf\u00fcr aktualisieren m\u00fcssen."
+            "text": "Bitte beachte, falls du die Einstellungen f\u00fcr \"Ausw\u00e4hlbare Seiten\" oder \" Beschriftungsfeld\" \u00e4nderst, du auch deinen URL-Handler-Code daf\u00fcr aktualisieren musst."
         },
         "6aa01c4fdc82ff85bc6299056ef15167": {
             "text": "Der Platzhalter \"{q}\" ist irgendwo in Ihrer Ajax-URL erforderlich."
         },
         "4c38a85c32ea7ee51ac917693c988269": {
-            "text": "Erlauben Sie den Benutzern, ihre eigenen Tags einzugeben?"
+            "text": "Erlaubst du den Benutzern, ihre eigenen Tags einzugeben?"
         },
         "f03041db1e5b27242c249d020d997331": {
             "text": "Dropdown nach jeder Auswahl schliessen?"
@@ -111,10 +111,10 @@
             "text": "Maximale Tags\/Optionen"
         },
         "66553e3b94c6fdf004b777c7e8187afd": {
-            "text": "Verwenden Sie 0 f\u00fcr keine Begrenzung oder geben Sie die maximale Anzahl von Optionen\/Tags ein, die der Benutzer ausw\u00e4hlen oder eingeben kann."
+            "text": "Verwende 0 f\u00fcr keine Begrenzung oder gib die maximale Anzahl von Optionen\/Tags ein, die der Benutzer ausw\u00e4hlen oder eingeben kann."
         },
         "fd9b78d0ec0b8004cc27a0872e531698": {
-            "text": "Beachten Sie, dass die Eingabe von 1 die Eingabe eher wie eine Auswahl als eine Texteingabe erscheinen l\u00e4sst."
+            "text": "Beachte, dass die Eingabe von 1 die Eingabe eher wie eine Auswahl als eine Texteingabe erscheinen l\u00e4sst."
         },
         "910370309c0af1e93df0ae98ff8cfe5a": {
             "text": "Platzhaltertext"

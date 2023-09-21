@@ -12,13 +12,13 @@
             "text": "Keine hochgeladenen Dateien gefunden"
         },
         "ccb108ad977122d69f8bbc7758997ff2": {
-            "text": "Stellen Sie sicher, dass das Verzeichnis \/site\/assets\/cache\/ Schreibrechte f\u00fcr PHP hat."
+            "text": "Stelle sicher, dass das Verzeichnis \/site\/assets\/cache\/ Schreibrechte f\u00fcr PHP hat."
         },
         "cfe1ee62b0efc597562d0b78c5196d47": {
-            "text": "Stellen Sie sicher, dass das Verzeichnis \/site\/modules\/ Schreibrechte f\u00fcr PHP hat."
+            "text": "Stelle sicher, dass das Verzeichnis \/site\/modules\/ Schreibrechte f\u00fcr PHP hat."
         },
         "34484ec9b680d2670f6c0d0a6ea5cb5a": {
-            "text": "Die ZipArchive Klasse wird ben\u00f6tigt und ihr PHP hat dies nicht."
+            "text": "Die ZipArchive Klasse wird ben\u00f6tigt und deine PHP-Installation hat dies nicht."
         },
         "af32834e6517e929e3993eb018b46ac0": {
             "text": "Kann keine Modul Dateien finden"
@@ -63,7 +63,7 @@
             "text": "nur im Debug-Modus zu aktivieren"
         },
         "060aa54c407428fd1b33c89d00abb0db": {
-            "text": "Zum Aktivieren bearbeiten Sie die Datei %1$s und geben Sie an: %2$s ...oder... %3$s"
+            "text": "Zum Aktivieren, bearbeite die Datei %1$s und gib an: %2$s ...oder... %3$s"
         },
         "7c67236ffb79ce4bb59a4ec3b5a3de0e": {
             "text": "Diese Installationsoption ist so konfiguriert, dass sie nur im Debug-Modus verf\u00fcgbar ist."
@@ -75,10 +75,10 @@
             "text": "Entpackt: %s"
         },
         "c8d7cc9fd8f6298a8ee52a937c29c97d": {
-            "text": "Ihr %s-Pfad ist derzeit nicht beschreibbar."
+            "text": "Der %s-Pfad ist derzeit nicht beschreibbar."
         },
         "58c9ef751665d75133cd9f06c2e99f71": {
-            "text": "Es muss f\u00fcr ProcessWire beschreibbar gemacht werden, bevor Sie diese Modulinstallationsoption aktivieren k\u00f6nnen."
+            "text": "Es muss f\u00fcr ProcessWire beschreibbar gemacht werden, bevor du diese Modulinstallationsoption aktivieren kannst."
         },
         "43b2e82a51daa1adee20374e35b3caa9": {
             "text": "Dateie %d entpackt"

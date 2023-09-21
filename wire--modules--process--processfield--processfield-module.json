@@ -27,7 +27,7 @@
             "text": "Zeige Felder des Typs: %s"
         },
         "2a7b956033d031e555889f8ddd52754f": {
-            "text": "Falls ausgew\u00e4hlt, werden auch integrierte Felder angezeigt, inklusive dauerhaften und System-Feldern. System-Felder werden vom System ben\u00f6tigt; sie k\u00f6nnen weder gel\u00f6scht noch kann Ihr Name ge\u00e4ndert werden. Dauerhafte Felder sind diejenigen, die nicht aus einem Template entfernt werden k\u00f6nnen. Diese Felder werden intern von ProcessWire verwendet."
+            "text": "Falls ausgew\u00e4hlt, werden auch integrierte Felder angezeigt, inklusive dauerhaften und System-Feldern. System-Felder werden vom System ben\u00f6tigt; sie k\u00f6nnen weder gel\u00f6scht noch kann dein Name ge\u00e4ndert werden. Dauerhafte Felder sind diejenigen, die nicht aus einem Template entfernt werden k\u00f6nnen. Diese Felder werden intern von ProcessWire verwendet."
         },
         "288fc0452049b753c8a75464d299ffe3": {
             "text": "Keine Felder entsprachen Ihrem Filter"
@@ -213,10 +213,10 @@
             "text": "Dieses Feld wird zurzeit von keinem Template verwendet."
         },
         "50a4257e8c785ebeb46a186bb2c3e08e": {
-            "text": "Sie k\u00f6nnen dieses Feld schnell zu\/von Templates hinzuf\u00fcgen oder entfernen durch entsprechendes markieren der relevanten Boxen und speichern."
+            "text": "Du kannst dieses Feld schnell zu\/von Templates hinzuf\u00fcgen oder entfernen durch entsprechendes markieren der relevanten Boxen und speichern."
         },
         "8e4fd886f63504810bb594b41a48d32b": {
-            "text": "Im n\u00e4chsten Bildschirm, nach dem Speichern, werden Sie um Best\u00e4tigung des Hinzuf\u00fcgens oder Entfernens gebeten."
+            "text": "Im n\u00e4chsten Bildschirm, nach dem Speichern, wirst du um Best\u00e4tigung des Hinzuf\u00fcgens oder Entfernens gebeten."
         },
         "5920c0593225b73a0d667fe26c95d0f7": {
             "text": "%d System-Templates werden nicht angezeigt weil der erweiterte Modus deaktiviert ist."
@@ -225,13 +225,13 @@
             "text": "Um dieses Feld zu klonen, bitte den Namen des neuen Feldes eingeben."
         },
         "ff0d9fae2d1ae47cb2e3c16ce883ed4e": {
-            "text": "Bitte beachten: nach Best\u00e4tigung dieses Formulars werden Sie die geklonte Kopie bearbeiten."
+            "text": "Bitte beachten: nach Best\u00e4tigung dieses Formulars wirst du die geklonte Kopie bearbeiten."
         },
         "0a198ede7ab46185f2e9fb2a3628419b": {
             "text": "(kopieren)"
         },
         "acdd6513356b1414e6d7ec0181240672": {
-            "text": "Sie bearbeiten nun das geklonte Feld."
+            "text": "Du bearbeitest nun das geklonte Feld."
         },
         "b9b9ac08c6bde335d1b5758d4dfcd1da": {
             "text": "Entferne Feld \"%1$s\" von Template \"%2$s\""
@@ -243,7 +243,7 @@
             "text": "WARNUNG: dies resultiert in Daten welche zu dem dauerhaft gel\u00f6schten Feld geh\u00f6ren."
         },
         "cdd2e54d443ebc672c6a53d756e682cd": {
-            "text": "Bitte haben Sie etwas Geduld. Nach der Best\u00e4tigung kann dieser Vorgang einige Zeit in Anspruch nehmen."
+            "text": "Bitte habe etwas Geduld. Nach der Best\u00e4tigung kann dieser Vorgang einige Zeit in Anspruch nehmen."
         },
         "501a7415f8881524421e7a19287a2c62": {
             "text": "Es scheint so, als gibt es keine zugeh\u00f6rigen Daten-Zeilen zu dieser Feld\/Template Kombination"
@@ -255,7 +255,7 @@
             "text": "Feld \"%1$s\" zu Template \"%2$s\" hinzuf\u00fcgen"
         },
         "968c4c39df4617d7356ee14137658f3f": {
-            "text": "Wo m\u00f6chten Sie \"%s\" hinzuf\u00fcgen?"
+            "text": "Wo m\u00f6chtest du \"%s\" hinzuf\u00fcgen?"
         },
         "6620d0d6ed9996e374e77091f72102be": {
             "text": "Vor %s"
@@ -267,7 +267,7 @@
             "text": "Nicht hinzuf\u00fcgen"
         },
         "c7d0e111bad6f0fd32c701944fb16475": {
-            "text": "Bitte ihre \u00c4nderungen \u00fcberpr\u00fcfen und korrigieren oder best\u00e4tigen"
+            "text": "Bitte deine \u00c4nderungen \u00fcberpr\u00fcfen und korrigieren oder best\u00e4tigen"
         },
         "368f6a2142a5d1f203ccd1a9bd8d974f": {
             "text": "Feld \"%1$s\" zu Template \"%2$s\" vor \"%3$s\" hinzugef\u00fcgt"
@@ -336,7 +336,7 @@
             "text": "\u00dcberschreiben"
         },
         "94109d0b682a5ee9086924792ab5d349": {
-            "text": "Wollen Sie den Zugriff f\u00fcr dieses Feld verwalten?"
+            "text": "Willst du den Zugriff f\u00fcr dieses Feld verwalten?"
         },
         "8c234d4afc42f71cef48c0093be30aa5": {
             "text": "Wenn aktiviert, kannst du den Zugriff zur Ansicht und Bearbeitung auf dieses Feld mit einer Benutzerrolle limitieren."
@@ -438,16 +438,16 @@
             "text": "Wenn ein Feld nicht sichtbar ist (im Frontend mit aktiver Ausgabe-Formatierung), gibt der $page->%s Wert eine leere Version des erwarteten Typs aus. Dies verhindert, dass der Wert angezeigt wird."
         },
         "5dab87f5242c802765e397e82db0840b": {
-            "text": "Markieren Sie die obere Box um dieses Verhalten umgehen. Damit kann immer per API auf den Wert zugegriffen werden. Dies \u00fcberl\u00e4sst Ihnen jede \u00dcberpr\u00fcfung von Zugriffen."
+            "text": "Markiere die obere Box um dieses Verhalten umgehen. Damit kann immer per API auf den Wert zugegriffen werden. Dies \u00fcberl\u00e4sst Ihnen jede \u00dcberpr\u00fcfung von Zugriffen."
         },
         "d96a1b8071d5f5f8eb8bc96839d85407": {
-            "text": "Sie k\u00f6nnen die Berechtigung zum Ansehen f\u00fcr dieses Feld \u00fcber die API so pr\u00fcfen:"
+            "text": "Du kannst die Berechtigung zum Ansehen f\u00fcr dieses Feld \u00fcber die API so pr\u00fcfen:"
         },
         "71f8bd77c0780518e62960d62ebd72bd": {
             "text": "Kontext \u00fcberschreiben entfent"
         },
         "b98e1358fd47b54afceecd12ace8e18c": {
-            "text": "Die folgenden Einstellungen f\u00fcr dieses Feld sind \u00fcberschrieben durch angegebene(s) Template(s). Markieren Sie die Box rechts von der Zeile um die \u00fcberschriebene Einstellung zu entfernen (stellt original Wert wieder her)."
+            "text": "Die folgenden Einstellungen f\u00fcr dieses Feld sind \u00fcberschrieben durch angegebene(s) Template(s). Markiere die Box rechts von der Zeile um die \u00fcberschriebene Einstellung zu entfernen (stellt original Wert wieder her)."
         },
         "62d09c342e50351059153e99a2fdbb47": {
             "text": "Zum bearbeiten einer \u00dcberschreib-Einstellung oder \u00fcberschreiben anderer Einstellungen, ein Template bearbeiten und in der Feld-Liste den Feld-Namen anklicken."
@@ -480,7 +480,7 @@
             "text": "Wir haben Datenzeilen in der Tabelle zu diesem Feld gefunden, welche zu keiner Seite passen oder auf Seiten verweisen, welche dieses Feld nicht haben."
         },
         "f46277b28f420e695210233a9f1401fc": {
-            "text": "Bitte f\u00fchren Sie \"Aktionen > Daten des Feldes \u00fcberpr\u00fcfen\" auf Feld %s durch"
+            "text": "Bitte f\u00fchre \"Aktionen > Daten des Feldes \u00fcberpr\u00fcfen\" auf Feld %s durch"
         },
         "4759b9b64d72e5a1a226e72b31ff919e": {
             "text": "Front-End-Bearbeitung"
@@ -504,7 +504,7 @@
             "text": "Derzeit werden keine Einstellungen vom Template \u00fcberschrieben."
         },
         "7710897a6218283716118180cd494f1e": {
-            "text": "\u00dcberpr\u00fcfte Einstellungen werden als Konfigurationsoptionen angezeigt, wenn Sie dieses Feld im Kontext eines bestimmten Templates bearbeiten."
+            "text": "\u00dcberpr\u00fcfte Einstellungen werden als Konfigurationsoptionen angezeigt, wenn du dieses Feld im Kontext eines bestimmten Templates bearbeitest."
         },
         "2babe53026309ed1bc4d26626dbaf9b3": {
             "text": "="
@@ -546,7 +546,7 @@
             "text": "Zusammengeklappt in der Feldliste anzeigen?"
         },
         "cd83a77df71e48e6273b925549e0af71": {
-            "text": "Um dieses Stichwort zu l\u00f6schen, entfernen Sie alle Felder aus ihm."
+            "text": "Um dieses Stichwort zu l\u00f6schen, entferne alle Felder aus ihm."
         },
         "ed4def612e69863794dc9c98db08b464": {
             "text": "Stichwort \"%1$s\" zum Feld hinzugef\u00fcgt: %2$s"
@@ -588,7 +588,7 @@
             "text": "Daher empfehlen wir, alle \u00c4nderungen an diesen Einstellungen zun\u00e4chst in einer Nicht-Produktions-(Entwicklungs-)Umgebung zu testen."
         },
         "a28cb5dda04811b1ee1749f8b7a5b51d": {
-            "text": "Bitte beachten Sie:"
+            "text": "Bitte beachte:"
         },
         "cb69676cc6783d1f5bf44dc1680f6e2a": {
             "text": "Fettgedruckte Einstellungen sind solche, die das Modul Feldtyp\/Eingabefeld als immer zur \u00dcberschreibung erlaubt gekennzeichnet hat."
@@ -597,7 +597,7 @@
             "text": "Andere Einstellungen k\u00f6nnen f\u00fcr Kontext\u00fcberschreibungen funktionieren oder auch nicht."
         },
         "da23f7900566628f7658f3a693d6bfda": {
-            "text": "Sie sollten alle Einstellungen deaktivieren, die nicht funktionieren oder anderweitig Probleme verursachen."
+            "text": "DU solltest alle Einstellungen deaktivieren, die nicht funktionieren oder anderweitig Probleme verursachen."
         },
         "e036648db74b48abc2b6af1d56d4596c": {
             "text": "\u00c4nderungen"
@@ -606,7 +606,7 @@
             "text": "Tag Name"
         },
         "0056888ec574ec487da813f9c577b27c": {
-            "text": "Sie k\u00f6nnen Buchstaben, Ziffern oder Unterstriche verwenden."
+            "text": "Du kannst Buchstaben, Ziffern oder Unterstriche verwenden."
         },
         "133027c82744d7b44344c6d2fdd3cd2e": {
             "text": "(nicht verwendet)"
@@ -618,7 +618,7 @@
             "text": "Label f\u00fcr den Tab"
         },
         "4cadbe25399aaee62e9d2f735703a5ec": {
-            "text": "Wenn das Feld in einem eigenen Tab angezeigt wird, geben Sie optional eine alternatives Tab Label an, wenn es sich von der Feldbezeichnung unterscheidet."
+            "text": "Wenn das Feld in einem eigenen Tab angezeigt wird, gib optional ein alternatives Tab Label an, wenn es sich von der Feldbezeichnung unterscheidet."
         },
         "9578890ecca660be2de225f2a4339c8d": {
             "text": "Das Tab-Label sollte idealerweise sehr kurz (ein Wort) sein."
@@ -633,7 +633,7 @@
             "text": "="
         },
         "4dd35391663d2adc8123a95b3d725399": {
-            "text": "Auf dem Tab \"Aktionen\" finden Sie Informationen zum Hinzuf\u00fcgen\/Entfernen aus Templates."
+            "text": "Auf dem Tab \"Aktionen\" findest du Informationen zum Hinzuf\u00fcgen\/Entfernen aus Templates."
         },
         "f0165e158f427105fe57cb91d5fa53df": {
             "text": "Dieses Feld wird derzeit nicht verwendet."

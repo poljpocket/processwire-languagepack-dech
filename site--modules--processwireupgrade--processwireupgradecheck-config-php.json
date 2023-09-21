@@ -6,7 +6,7 @@
             "text": "Auf Upgrades beim Login eines Superusers \u00fcberpr\u00fcfen?"
         },
         "cfcc31ef0aa4f562eb31a9ba4226317f": {
-            "text": "Wenn \"Nein\" ausgew\u00e4hlt ist, werden Upgrades nur dann manuell gepr\u00fcft, wenn Sie auf Setup > Upgrades klicken."
+            "text": "Wenn \"Nein\" ausgew\u00e4hlt ist, werden Upgrades nur dann manuell gepr\u00fcft, wenn du auf Setup > Upgrades klickst."
         },
         "716f5e2e44f2093376d9ea23d3616180": {
             "text": "F\u00fcr die automatische Upgrade-Pr\u00fcfung ist ProcessWire 2.5.20 oder neuer erforderlich."

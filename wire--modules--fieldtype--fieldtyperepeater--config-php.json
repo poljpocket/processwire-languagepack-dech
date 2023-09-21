@@ -54,7 +54,7 @@
             "text": "Dynamisches Laden (AJAX) des Repeater im Editor"
         },
         "78385cca5a362b333c60753b2fcf6e40": {
-            "text": "Welche Elemente sollen dynamisch mit AJAX im Seiten-Editor geladen werden? Falls Ihr Repeater ein Feld verwendet, welches sich nicht dynamisch laden l\u00e4sst, kann es notwendig sein, dieses Feature abzuschalten."
+            "text": "Welche Elemente sollen dynamisch mit AJAX im Seiten-Editor geladen werden? Falls dein Repeater ein Feld verwendet, welches sich nicht dynamisch laden l\u00e4sst, kann es notwendig sein, dieses Feature abzuschalten."
         },
         "18e57decad6ecfd57b1231426deb7f2d": {
             "text": "Bestehende und neue Elemente (empfohlen, speziell f\u00fcr Repeater welche VIELE Elemente haben)"

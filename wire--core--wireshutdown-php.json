@@ -48,10 +48,10 @@
             "text": "Site ist im Debug-Modus."
         },
         "9e1be4a2ee25755f837aeab9f49549e0": {
-            "text": "Sie verwenden die Kommandozeilen-API"
+            "text": "Du verwendest die Kommandozeilen-API"
         },
         "94e7fb752e3990f6f676ffd6b9a42c46": {
-            "text": "Sie sind als Superuser angemeldet."
+            "text": "Du bist als Superuser angemeldet."
         },
         "7d0312c35f60f9727688c5d442054eaa": {
             "text": "install.php existiert noch."

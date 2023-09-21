@@ -51,7 +51,7 @@
             "text": "Jede dieser Einstellungen (und andere) kann auch individuell f\u00fcr ein bestimmtes Feld angegeben werden."
         },
         "0b28aca953c7100643fcacab33dbf502": {
-            "text": "Wenn Sie hier eine Einstellung festlegen, werden die einzelnen Feldeinstellungen \u00fcberschrieben."
+            "text": "Wenn du hier eine Einstellung festlegst, werden die einzelnen Feldeinstellungen \u00fcberschrieben."
         },
         "15367a85a0239326ebf3b0294edd61ce": {
             "text": "Siehe: Einstellungen > Felder > [beliebiges Feld] > Eingabe (Tab) > Admintheme Einstellungen"
@@ -117,7 +117,7 @@
             "text": "Gib Feld(er) und Format an, das f\u00fcr die Benutzerbezeichnung verwendet werden soll, oder Leerzeichen f\u00fcr keine Benutzerbezeichnung."
         },
         "e4e4bda20c3f3d73a0ab8a162324a5ef": {
-            "text": "Verwenden Sie {Name} f\u00fcr Namen in Grossbuchstaben, was die Standardeinstellung ist, oder verwenden Sie {name} f\u00fcr Kleinbuchstaben."
+            "text": "Verwende {Name} f\u00fcr Namen in Grossbuchstaben, was die Standardeinstellung ist, oder verwende {name} f\u00fcr Kleinbuchstaben."
         },
         "94badcf29c95c51eb93549c399c1c91d": {
             "text": "Beispiele: \u201c{name}\u201d, \u201c{Name}\u201d, \u201c{title}\u201d, \u201c{first_name} {last_name}\u201d, \u201c{company.title}\u201d, usw."
@@ -129,10 +129,10 @@
             "text": "Gib die maximale Breite des Layouts (in Pixeln) oder 0 f\u00fcr kein Maximum an."
         },
         "08c95f3605e4e76b340174ba21b8462d": {
-            "text": "Sie k\u00f6nnen [hier](%s) Bildfelder zu Ihrem Benutzer-Template hinzuf\u00fcgen."
+            "text": "Du kannst [hier](%s) Bildfelder zu deinem Benutzer-Template hinzuf\u00fcgen."
         },
         "9ac50f55fe0eb306162cdde72aee40db": {
-            "text": "Verwenden Sie beliebige Felder\/Eigenschaften aus Ihrem in {eckigen Klammern} eingeschlossenen [Benutzer-Template](%s)."
+            "text": "Verwende beliebige Felder\/Eigenschaften aus Ihrem in {eckigen Klammern} eingeschlossenen [Benutzer-Template](%s)."
         },
         "1a79a4d60de6718e8e5b326e338ae533": {
             "text": "+"
@@ -264,7 +264,7 @@
             "text": "Ein weiteres Feld"
         },
         "661262f88b0f998e147baacf8778d340": {
-            "text": "\u00d6ffnen Sie das Feld \"%s\" oben f\u00fcr ein Live-Beispiel der Spaltenbreite."
+            "text": "\u00d6ffne das Feld \"%s\" oben f\u00fcr ein Live-Beispiel der Spaltenbreite."
         },
         "7ce481195c78d64795db8cf62a6df04d": {
             "text": "Umriss"
@@ -288,19 +288,19 @@
             "text": "Gefahr"
         },
         "5d6497b7aaafbba82795cd9626c2f508": {
-            "text": "W\u00e4hle Option B, wenn Sie Probleme haben, die beabsichtigten Spaltenbreiten der Eingabefelder zu erreichen."
+            "text": "W\u00e4hle Option B, wenn du Probleme hast, die beabsichtigten Spaltenbreiten der Eingabefelder zu erreichen."
         },
         "8101df5a8d382ef957a02876d08a6f0f": {
             "text": "="
         },
         "03bc7984b022876df391184e362104c2": {
-            "text": "Wenn Sie SVG verwenden, kannst du optional \"?uk-svg\" an die URL anh\u00e4ngen, damit das Attribut uk-svg hinzugef\u00fcgt wird."
+            "text": "Wenn du SVG verwendest, kannst du optional \"?uk-svg\" an die URL anh\u00e4ngen, damit das Attribut uk-svg hinzugef\u00fcgt wird."
         },
         "28fb66ed224d7a166862203d74cacb8b": {
             "text": "Die meisten erweiterten Einstellungen sind \u00fcber das Array \"$config->AdminThemeUikit settings\" verf\u00fcgbar."
         },
         "c03e0af8dbd18d53753b92b02753e865": {
-            "text": "Sie finden sie in \/wire\/config.php. Kopieren Sie sie in Ihre Datei \/site\/config.php, um sie zu \u00e4ndern."
+            "text": "Du findest sie in \/wire\/config.php. Kopiere sie in deine Datei \/site\/config.php, um sie zu \u00e4ndern."
         },
         "59a3041f943c85af8edcf623308809e0": {
             "text": "Achtung: Dies \u00fcberschreibt die benutzerdefinierten Einstellungen von $config->AdminThemeUikit, den Basisstil und die benutzerdefinierten Stile."
@@ -324,7 +324,7 @@
             "text": "Die Option \"Konsistent\" bewirkt, dass sich die Beschriftung des Eingabefelds immer konsistent als Umschalter zum \u00d6ffnen\/Schliessen verh\u00e4lt, unabh\u00e4ngig davon, in welchem Zustand sich das Eingabefeld befindet."
         },
         "c5fb3c81ba85771e0f107fc5a57efc62": {
-            "text": "Unabh\u00e4ngig davon, welche Einstellung Sie w\u00e4hlen, schaltet das Umschaltsymbol oben rechts in jedem Eingabefeld immer den Zustand \"offen\/geschlossen\" um."
+            "text": "Unabh\u00e4ngig davon, welche Einstellung du w\u00e4hlst, schaltet das Umschaltsymbol oben rechts in jedem Eingabefeld immer den Zustand \"offen\/geschlossen\" um."
         },
         "eb6d8ae6f20283755b339c0dc273988b": {
             "text": "="

@@ -36,7 +36,7 @@
             "text": "Es sind keine Kommentarfelder installiert"
         },
         "adf240c38c161d42244e9eb21f515ba2": {
-            "text": "Bitte w\u00e4hlen Sie ein Kommentarfeld"
+            "text": "Bitte w\u00e4hle ein Kommentarfeld"
         },
         "b718adec73e04ce3ec720dd11a06a308": {
             "text": "="
@@ -81,7 +81,7 @@
             "text": "Bearbeite Kommentar #%d"
         },
         "d754a9e8cb640da12849a040f3ca8176": {
-            "text": "Ihre Antwort"
+            "text": "Deine Antwort"
         },
         "90f2f5cb0d375a1b5d2ef2888c551e1e": {
             "text": "Ausgew\u00e4hlte Seite ist nicht bearbeitbar"
@@ -129,7 +129,7 @@
             "text": "Sterne"
         },
         "5d97927a6eed8f7f5a628428615d1174": {
-            "text": "Benachrichtigen Sie die oben angegebene E-Mail-Adresse, wenn"
+            "text": "Benachrichtige die oben angegebene E-Mail-Adresse, wenn"
         },
         "6e7b34fa59e1bd229b207892956dc41c": {
             "text": "Niemals"
@@ -144,7 +144,7 @@
             "text": "Benachrichtigungen f\u00fcr andere zulassen?"
         },
         "1a595440a8aebad5a30f09f2fd73cf66": {
-            "text": "Wenn Sie \"Ja\" w\u00e4hlen, werden E-Mails \u00fcber diesen neuen Kommentar an Benutzer gesendet, die sich f\u00fcr den Erhalt von Benachrichtigungen entschieden haben."
+            "text": "Wenn du \"Ja\" w\u00e4hlst, werden E-Mails \u00fcber diesen neuen Kommentar an Benutzer gesendet, die sich f\u00fcr den Erhalt von Benachrichtigungen entschieden haben."
         },
         "13cda2cfc29efb3f6a7b8b9f7c24acd9": {
             "text": "Seite %d hat kein Feld: %s"
@@ -303,7 +303,7 @@
             "text": "%d Werte"
         },
         "37128d5a4c6200152c60cd46c829d635": {
-            "text": "Verwalten Sie Kommentare auf Ihrer Website ausserhalb des Seiteneditors."
+            "text": "Verwalte Kommentare auf deiner Website ausserhalb des Seiteneditors."
         }
     }
 }

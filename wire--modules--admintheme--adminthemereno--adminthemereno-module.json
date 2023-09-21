@@ -36,7 +36,7 @@
             "text": "Benutzerbilder"
         },
         "bbe7b2d443c26552faeb0e0c7d4541fe": {
-            "text": "F\u00fcr dieses Feature ben\u00f6tigt das Benutzer-Template ein Image-Feld. Falls das Benutzer-Template kein Image-Feld hat, wird als Standard ein Symbol angezeigt. Um im Benutzer-Template ein Image-Feld hinzuzuf\u00fcgen, geht man \u00fcber Verwaltung > Templates > Filter (System-Templates anzeigen). Das \"Benutzer\" Template wird dann in der Liste angezeigt. Falls Sie ein zus\u00e4tzliches\/alternatives Benutzer-Template erstellt haben, kann man dieses Feature durch hinzuf\u00fcgen eines Image-Feldes zum Template nutzen."
+            "text": "F\u00fcr dieses Feature ben\u00f6tigt das Benutzer-Template ein Image-Feld. Falls das Benutzer-Template kein Image-Feld hat, wird als Standard ein Symbol angezeigt. Um im Benutzer-Template ein Image-Feld hinzuzuf\u00fcgen, geht man \u00fcber Verwaltung > Templates > Filter (System-Templates anzeigen). Das \"Benutzer\" Template wird dann in der Liste angezeigt. Falls du ein zus\u00e4tzliches\/alternatives Benutzer-Template erstellt hast, kannst du dieses Feature durch hinzuf\u00fcgen eines Image-Feldes zum Template nutzen."
         },
         "b012c7da60d514a8d126979210fa1f8e": {
             "text": "Image-Feld f\u00fcr das %s Template"

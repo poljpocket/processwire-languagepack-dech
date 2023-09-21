@@ -240,7 +240,7 @@
             "text": "Es gibt keine weitere bearbeitbare Seite."
         },
         "109f29a4bda4c9b4a00ffd5452fe9515": {
-            "text": "Sind Sie sicher? Im Moment l\u00e4uft ein Upload. Dieser geht verloren, wenn Sie fortfahren."
+            "text": "Bist du sicher? Im Moment l\u00e4uft ein Upload. Dieser geht verloren, wenn du fortf\u00a4hrst."
         },
         "ea1056a7e305406e5662eb74ed8eb9f1": {
             "text": "L\u00f6schen"
@@ -270,10 +270,10 @@
             "text": "Wann immer eine Seite verschoben wird oder sich der Name \u00e4ndert, erinnern wir uns an die vorherige Position f\u00fcr Umleitungen."
         },
         "d9a0149000506e68eb258bab1ef93e2f": {
-            "text": "Nachfolgend finden Sie eine Liste von URLs (Pfaden), die automatisch auf diese Seite weitergeleitet werden (mittels 301 permanenter Umleitung)."
+            "text": "Nachfolgend findest du eine Liste von URLs (Pfaden), die automatisch auf diese Seite weitergeleitet werden (mittels 301 permanenter Umleitung)."
         },
         "bc84a6916935bff7a425f45f894a18a6": {
-            "text": "Sie k\u00f6nnen alle Pfade und URLs l\u00f6schen oder manuell neue hinzuf\u00fcgen."
+            "text": "Du kannst alle Pfade und URLs l\u00f6schen oder manuell neue hinzuf\u00fcgen."
         },
         "1324a129fbb956748409f981833c0736": {
             "text": "Keine Umleitungspfade"
@@ -288,13 +288,13 @@
             "text": "Gib zus\u00e4tzliche Pfade \/ URLs (eine pro Zeile) ein, die auf diese Seite weitergeleitet werden sollen."
         },
         "1715e12396d2512d6a079d39809bd855": {
-            "text": "Gib nur den URL-Pfad ein (z.B. \"\/hello\/world\/\"), schliessen Sie Schema, Domain, Port, Query-String oder Fragmente NICHT ein."
+            "text": "Gib nur den URL-Pfad ein (z.B. \"\/hello\/world\/\"), schliesse Schema, Domain, Port, Query-String oder Fragmente NICHT ein."
         },
         "05977549ad6511429ee4d274f710771d": {
-            "text": "Pfade sind relativ zur Site-Root, daher sollten Sie das Unterverzeichnis %s NICHT am Anfang einbeziehen."
+            "text": "Pfade sind relativ zur Site-Root, daher solltest du das Unterverzeichnis %s NICHT am Anfang einbeziehen."
         },
         "b74adc728406a06b4e47a2bcfd534281": {
-            "text": "Um eine Sprache f\u00fcr die Umleitung anzugeben, geben Sie den Pfad\/URL ein, dem der Sprachname vorangestellt ist:"
+            "text": "Um eine Sprache f\u00fcr die Umleitung anzugeben, gib den Pfad\/URL ein, dem der Sprachname vorangestellt ist:"
         },
         "e638e85311e9a6c568c715cb46e7ac01": {
             "text": "Umleitung hinzugef\u00fcgt: %s"
@@ -306,7 +306,7 @@
             "text": "Aus dem Papierkorb nehmen und an Originalort wiederherstellen"
         },
         "514327d866bf40803bfdf3a678af92ba": {
-            "text": "Aktivieren Sie die Checkbox, um zu best\u00e4tigen, dass Sie diese Seite wiederherstellen m\u00f6chten."
+            "text": "Aktiviere die Checkbox, um zu best\u00e4tigen, dass du diese Seite wiederherstellen m\u00f6chtest."
         },
         "d8514ace7bcb47e0d419377402b13142": {
             "text": "Die Seite wird wiederhergestellt: %s."
@@ -348,10 +348,10 @@
             "text": "Aktuell"
         },
         "beb808c0ab58b957ea0350e633392cee": {
-            "text": "\/ihre\/%s\/url\/"
+            "text": "\/deine\/%s\/url\/"
         },
         "19959897b0f9d04ebbea294594c10f5d": {
-            "text": "Diese Seite kann ein oder mehrere unvollst\u00e4ndige Felder enthalten (versuchen Sie zu speichern oder zu ver\u00f6ffentlichen, um weitere Informationen zu erhalten)"
+            "text": "Diese Seite kann ein oder mehrere unvollst\u00e4ndige Felder enthalten (versuche zu speichern oder zu ver\u00f6ffentlichen, um weitere Informationen zu erhalten)"
         },
         "0bcdea7c9e6f5289b7cf4c51e001a8fa": {
             "text": "Einzigartig: Der Seitenname \"%s\" muss global eindeutig sein."

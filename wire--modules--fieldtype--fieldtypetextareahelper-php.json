@@ -69,10 +69,10 @@
             "text": "Markieren diese Box, um die oberen Optionen nun auf alle bestehenden Seiten anzuwenden. Dies konzentriert sich haupts\u00e4chlich auf die Option der Link-Abstraktion."
         },
         "7b4f1bb8cb43086b5d5f3b850d06a6c3": {
-            "text": "Achtung, dies f\u00fchrt eine Aktualisierung von m\u00f6glicherweise hunderten von Seiten (max 300 pro Lauf) durch und akualisiert die \u00c4nderungszeit der Seite. Falls Ihre Site sehr viele Seiten hat, musst du mehrere L\u00e4ufe durchf\u00fchren."
+            "text": "Achtung, dies f\u00fchrt eine Aktualisierung von m\u00f6glicherweise hunderten von Seiten (max 300 pro Lauf) durch und akualisiert die \u00c4nderungszeit der Seite. Falls deine Site sehr viele Seiten hat, musst du mehrere L\u00e4ufe durchf\u00fchren."
         },
         "d9acd327c0ee998a16c85324936d214d": {
-            "text": "**Als zus\u00e4tzliche Vorsichtsmassnahme wird empfohlen, vor Durchf\u00fchrung Ihre Datenbank zu sichern.**"
+            "text": "**Als zus\u00e4tzliche Vorsichtsmassnahme wird empfohlen, vor Durchf\u00fchrung die Datenbank zu sichern.**"
         },
         "0f754c670b9d8c02b22eaeebd630181e": {
             "text": "Alles erledigt! Die HTML-Optionen sind nun vollst\u00e4ndig angewendet."
