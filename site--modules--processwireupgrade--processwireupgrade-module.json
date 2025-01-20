@@ -17,9 +17,6 @@
         "cd118d21c3b0b4762c6e0063661e6e45": {
             "text": "Neueste"
         },
-        "ec53a8c4f07baed5d8825072c89799be": {
-            "text": "Status"
-        },
         "33307683980623bb7962b8808d4054a1": {
             "text": "Aktuell"
         },
@@ -46,6 +43,39 @@
         },
         "349838fb1d851d3e2014b9fe39203275": {
             "text": "Installieren"
+        },
+        "a0bfb8e59e6c13fc8d990781f77694fe": {
+            "text": "Fortfahren"
+        },
+        "cd56aaa6883976c9794319e1fe62137a": {
+            "text": "Modultitel"
+        },
+        "07403a8bc81d7865c8e040e718ec7828": {
+            "text": "Modulname"
+        },
+        "ec53a8c4f07baed5d8825072c89799be": {
+            "text": "Status"
+        },
+        "bd908db5ccb07777ced8023dffc802f4": {
+            "text": "Links"
+        },
+        "acaaa1b525bac31d62c41ffe39d0e532": {
+            "text": "Aktualisierte Daten der Modulversionen"
+        },
+        "f9851a0ac401adf4200e603538e11c5e": {
+            "text": "Entfernt: %s"
+        },
+        "33cd95b70e91cd838203f438c9d5bfc4": {
+            "text": "Berechtigungsfehler beim Entfernen des Pfades (bitte manuell entfernen): %s"
+        },
+        "1f793cae8f945a6e43bec0c91379d310": {
+            "text": "Core-Upgrade"
+        },
+        "63a6a88c066880c5ac42394a22803ca6": {
+            "text": "Aktualisieren"
+        },
+        "d717e3fe9a533ec6594934a0f190c26a": {
+            "text": "Letzte Aktualisierung: %s"
         }
     }
 }
